@@ -1,0 +1,81 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lexica/lat/ls" owner="admin" group="dba" mode="755" created="2017-10-02T11:39:29-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="uls-S.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:33-04:00" modified="2017-10-02T11:40:33-04:00" filename="uls-S.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-T.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:35-04:00" modified="2017-10-02T11:40:35-04:00" filename="uls-T.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-U.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:36-04:00" modified="2017-10-02T11:40:36-04:00" filename="uls-U.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-V.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:36-04:00" modified="2017-10-02T11:40:36-04:00" filename="uls-V.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-X.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:37-04:00" modified="2017-10-02T11:40:37-04:00" filename="uls-X.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-Y.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:37-04:00" modified="2017-10-02T11:40:37-04:00" filename="uls-Y.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-Z.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:37-04:00" modified="2017-10-02T11:40:37-04:00" filename="uls-Z.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-front.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:37-04:00" modified="2017-10-02T11:40:37-04:00" filename="uls-front.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-A.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:18-04:00" modified="2017-10-02T11:40:18-04:00" filename="uls-A.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-B.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:20-04:00" modified="2017-10-02T11:40:20-04:00" filename="uls-B.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-C.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:20-04:00" modified="2017-10-02T11:40:20-04:00" filename="uls-C.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-D.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:23-04:00" modified="2017-10-02T11:40:23-04:00" filename="uls-D.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-E.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:24-04:00" modified="2017-10-02T11:40:24-04:00" filename="uls-E.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-F.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:25-04:00" modified="2017-10-02T11:40:25-04:00" filename="uls-F.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-G.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:25-04:00" modified="2017-10-02T11:40:25-04:00" filename="uls-G.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-H.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:26-04:00" modified="2017-10-02T11:40:26-04:00" filename="uls-H.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-I.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:26-04:00" modified="2017-10-02T11:40:26-04:00" filename="uls-I.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-J.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:27-04:00" modified="2017-10-02T11:40:27-04:00" filename="uls-J.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-K.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:27-04:00" modified="2017-10-02T11:40:27-04:00" filename="uls-K.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-L.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:28-04:00" modified="2017-10-02T11:40:28-04:00" filename="uls-L.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-M.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:28-04:00" modified="2017-10-02T11:40:28-04:00" filename="uls-M.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-N.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:29-04:00" modified="2017-10-02T11:40:29-04:00" filename="uls-N.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-O.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:29-04:00" modified="2017-10-02T11:40:29-04:00" filename="uls-O.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-P.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:30-04:00" modified="2017-10-02T11:40:30-04:00" filename="uls-P.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-Q.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:32-04:00" modified="2017-10-02T11:40:32-04:00" filename="uls-Q.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="uls-R.xml" owner="admin" group="dba" mode="644" created="2017-10-02T11:40:32-04:00" modified="2017-10-02T11:40:32-04:00" filename="uls-R.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
