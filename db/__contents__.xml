@@ -2,5 +2,4 @@
     <acl entries="0" version="1"/>
     <subcollection name="lexica" filename="lexica"/>
     <subcollection name="indexes" filename="indexes"/>
-    <subcollection name="dat" filename="dat"/>
 </collection>
