@@ -1,0 +1,123 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n22106" body-key=""><b><span class="alpheios-lex-la" lang="lat">impŭto</span></b>  (<b><span class="alpheios-lex-la" lang="lat">inp-</span></b> ), āvi, ātum,
+		1, v. a.
+		inputo, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to bring into the reckoning</i>, <i>enter into the account</i>, <i>to reckon</i>,
+				<i>charge</i> (not ante-Aug.; cf. deputo).
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">vilici servi longe plus imputant seminis jacti
+					quam quod severint,</span>”
+				 <i><span class="en">Col. 1,
+					7 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sumptus alicui ... viatica et vecturas,</span>”
+				 <i><span class="en">Dig. 17, 2, 52, § 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in quartam hereditatis imputantur res, quas
+					jure hereditario capit,</span>”
+				 <i><span class="en">ib.
+					35, 2, 90</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haec in numerum trium tutelarum,</span>”
+				 <i><span class="en">ib.
+					23, 2, 61</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>, <i>to enter into the
+				account</i>, <i>to reckon</i>, <i>attribute</i> as a merit or a fault to one's self or another;
+				<i>to make a boast of</i>, <i>to
+				credit to</i>, <i>to charge</i>, <i>ascribe</i>, <i>impute to</i> (for the Ciceron.
+			assignare, ascribere): fatum dies imputat, Sen. de Ira, 3, 42; cf.
+				<i><span class="en">Mart. 5, 20, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">hoc non imputo in solutum,</span>”
+				 <i><span class="en">Sen.
+					Ep. 8 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gaudent muneribus, sed nec data imputant, nec
+					acceptis obligantur,</span>”
+				 <i><span class="en">Tac. G.
+					21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">noli imputare vanum beneficium mihi,</span>”
+				 <i><span class="en">Phaedr. 1, 22, 8</span></i>
+			; cf. <i><span class="en">Sen. Tranq. 6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">huic (Masinissae) imputari victum Hannibalem,
+					huic captum Syphacem, huic Carthaginem deletam,</span>”
+				 <i><span class="en">Just.
+					38, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alii transeunt quaedam imputantque quod
+					transeant,</span>”
+				 <i><span class="en">Plin.
+					Ep. 8, 21, 4</span></i>
+			; cf. <i><span class="en">Suet. Tib. 53</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ipsum sibi eripere tot beneficiorum occasiones,
+					tam numerosam obligandi imputandique materiam,</span>”
+				 <i><span class="en">Plin.
+					Pan. 39, 3</span></i>
+			; so <i>absol.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum quidam crimen ultro faterentur, nonnulli
+					etiam imputarent,</span>”
+				<i>made a merit of it</i>,
+				 <i><span class="en">Suet. Ner. 36</span></i>
+			: saevit enim natumque objectat et imputat illis, <i>charges upon them</i> (<i>his
+				son</i>'<i>s fate</i>), <i><span class="en">Ov. M. 2,
+				400</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mortem senioribus imputat annis,</span>”
+				 <i><span class="en">id.
+					ib. 15, 470</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rebellandi tempus Atheniensibus,</span>”
+				 <i><span class="en">Vell.
+					2, 23, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an ei caedes imputanda sit, a quo jurgium
+					coepit?</span>”
+				 <i><span class="en">Quint. 5, 10, 72</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">suum exsilium rei publicae imputaturus,</span>”
+				 <i><span class="en">Sen.
+					Ep. 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prospera omnes sibi vindicant, adversa uni
+					imputantur,</span>”
+				 <i><span class="en">Tac. Agr.
+					27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alicui moras belli aut causas rebellandi,</span>”
+				 <i><span class="en">id. ib. 34</span></i>
+			; <i><span class="en">id.
+				H. 4, 14 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">culpam nostram illi,</span>”
+				 <i><span class="en">Plin.
+					18, 1, 1, § 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et tibi scilicet, qui requisisti, imputabis, si
+					digna ne epistula quidem videbuntur,</span>”
+				 <i><span class="en">Plin.
+					Ep. 6, 20 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sibi imputent cur minus idoneum fidejussorem
+					acceperint,</span>”
+				 <i><span class="en">Dig.
+					42, 7, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">imputet ipse deus nectar mihi, fiet acetum,</span>”
+				<i>may assign</i>, <i>give</i>,
+				 <i><span class="en">Mart. 12, 48, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">otia parva nobis,</span>”
+				 <i><span class="en">id.
+					4, 83, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc solum erit certamen, quis mihi plurimum
+					imputet,</span>”
+				 <i><span class="en">Tac. H.
+					1, 38</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

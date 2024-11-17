@@ -1,0 +1,619 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n42976" body-key=""><b><span class="alpheios-lex-la" lang="lat">scĭo</span></b> , īvi, ītum,
+		4 (old <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>imperf.</i> scibam, <i><span class="en">Plaut. As. 2, 2, 34</span></i>; <i><span class="en">2, 4,
+			89</span></i>; <i><span class="en">id. Ps. 1, 5, 84</span></i>; <i><span class="en">1, 5,
+			86</span></i>; <i><span class="en">Ter. Heaut. 2, 3, 68</span></i>; <i><span class="en">id. Phorm.
+				4, 1, 16</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibas,</span>”
+				 <i><span class="en">Plaut. Aul. 4, 10, 24</span></i>
+			; <i><span class="en">id. Ps. 1, 5, 85</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibat,</span>”
+				 <i><span class="en">id.
+					Am. prol. 22</span></i>
+			; <i><span class="en">Lucr. 5, 934</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibatis,</span>”
+				 <i><span class="en">Plaut. Rud. 2, 3, 47</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scibant,</span>”
+				 <i><span class="en">Lucr.
+					5, 949</span></i>
+			; <i><span class="en">5, 953</span></i>;
+				<i><span class="en">Cat.
+				68, 85</span></i>.—<i>Fut.</i> scibo, <i><span class="en">Plaut. As.
+				1, 1, 13</span></i>; <i><span class="en">id. Most. 4, 3, 5</span></i>; <i><span class="en">id. Men. 2,
+				3, 35</span></i>; <i><span class="en">5, 2, 57</span></i>; <i><span class="en">id. Ps. 1,
+				2, 41</span></i>; <i><span class="en">1, 5, 65</span></i>; <i><span class="en">id. Truc.
+				2, 6, 69</span></i>; <i><span class="en">Ter. Eun. 4, 4, 58</span></i>; <i><span class="en">id. Ad. 3,
+				3, 7</span></i>; <i><span class="en">5, 2, 5</span></i>; <i><span class="en">id. Hec. 2,
+				2, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibis,</span>”
+				 <i><span class="en">Plaut. Cas. 3, 5, 22</span></i>
+			; <i><span class="en">id. Ep. 2, 2, 101</span></i>; <i><span class="en">5, 1,
+			49</span></i>; <i><span class="en">id. Mil. 4, 8, 55</span></i>; <i><span class="en">id. Ps. 4,
+				4, 2</span></i>; <i><span class="en">id. Poen. 5, 4, 57</span></i>; <i><span class="en">id. Pers.
+				2, 2, 37</span></i>; <i><span class="en">id. Rud. 2, 3, 35</span></i>; <i><span class="en">Ter. Eun.
+				4, 7, 35</span></i>; <i><span class="en">id. Heaut. 5, 2, 43</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibit,</span>”
+				 <i><span class="en">Cato, R. R. 5, 5</span></i>
+			; <i><span class="en">Plaut. Ep. 1, 1, 69</span></i>; <i><span class="en">1, 2,
+			51</span></i>; <i><span class="en">id. Mil. 3, 2, 46</span></i>; <i><span class="en">Ter. Phorm.
+				5, 1, 38</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scibimus,</span>”
+				 <i><span class="en">Plaut. Merc. 5, 4, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scibunt,</span>”
+				 <i><span class="en">id.
+					Poen. 2, 16</span></i>
+			.— <i>Perf.</i> sciit, <i><span class="en">Sen.
+				Contr. 1, 1, 17</span></i>.—<i>Pass.</i>
+			scibitur, <i><span class="en">Plaut. Capt. 4, 2, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scin' for scisne,</span>”
+				 <i><span class="en">id.
+					Am. 1, 1, 200</span></i>
+			; <i><span class="en">2, 2, 39</span></i>; <i><span class="en">5, 1, 30</span></i>; <i><span class="en">id. As. 3,
+				3, 113</span></i>; <i><span class="en">id. Aul. 1, 1, 8</span></i> et saep.; <i><span class="en">Ter. Eun.
+				2, 3, 47</span></i>; <i><span class="en">3, 1, 47</span></i>; <i><span class="en">4, 6, 6</span></i>; 4,
+			7, 30 et saep.—<i>Perf.</i> sync. scisti,
+				<i><span class="en">Ov. A.
+				A. 1, 131</span></i>; <i><span class="en">id. F. 4, 527</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scirint,</span>”
+				 <i><span class="en">Tac.
+					Dial. 33</span></i>
+			; so, regularly, <i>inf.</i> scisse, e. g. <i><span class="en">Cic. de
+				Or. 1, 13, 58</span></i>; cf. <i><span class="en">Quint. 1,
+				6, 17</span></i>), v. a.
+			root sci-; Gr. <span class="alpheios-lex-greek" lang="grc">κείω</span> (for
+					<span class="alpheios-lex-greek" lang="grc">σκείω</span>), <span class="alpheios-lex-greek" lang="grc">κεάζω,</span> to split, divide; cf.:
+				scisco, plebiscitum, etc., prop. to distinguish, discern.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen., <i>to know</i>, in the widest signif. of the word; <i>to understand; perceive; to have knowledge of</i>
+			or <i>skill in</i> any thing, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">plurimā mutatione figuramus, Scio,
+					Non ignoro, et Non me fugit, et Non me praeterit, et Quis
+					nescit? et Nemini dubium est. Sed etiam ex proximo mutuari
+					licet. Nam et intellego et sentio et video saepe idem valent
+					quod scio,</span>”
+				 <i><span class="en">Quint. 10, 1, 13</span></i>
+			 (freq. in all styles and periods; cf. nosco). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> With <i>acc.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">aut scire istarum rerum nihil, aut, etiam si
+					maxime sciemus, nec, etc.,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 19, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut vilicus naturam agri novit, dispensator
+					litteras scit, etc.,</span>”
+				 <i><span class="en">id. ib. 5, 3, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod nec didicerint nec umquam scire
+					curaverint,</span>”
+				 <i><span class="en">id. ib. 1, 6, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ego omnem rem scio Quemadmodum est,</span>”
+				 <i><span class="en">Plaut. Bacch. 3, 3, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">id equidem ego certo scio,</span>”
+				 <i><span class="en">id. ib. 3, 3, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod pro certo sciam,</span>”
+				 <i><span class="en">id. ib. 3, 4, 13</span></i>
+			: <i>Mi.</i> Ubi ipse est? <i>Ch.</i> Nescio. Nihil jam me oportet scire ... nescio etiam id
+			quod scio, <i><span class="en">id. ib. 4, 6, 21</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">haec scivisti et me celavisti?</span>”
+				 <i><span class="en">id.
+					Pers. 5, 2, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">is omnes linguas scit: sed dissimulat sciens,
+					Se scire,</span>”
+				 <i><span class="en">id. Poen. prol. 112</span></i>
+			 (cf. supra, litteras, <i><span class="en">Cic. Rep. 5,
+				3, 5</span></i>): comoediam, Titin. ap. <i><span class="en">Non.
+				277, 26</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">bene id opus,</span>”
+				 <i><span class="en">id. ib. 3, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">artem,</span>”
+				 <i><span class="en">Hor. Ep. 1, 14, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juventutis mores qui sciam,</span>”
+				 <i><span class="en">Plaut.
+					Am. 1, 1, 2</span></i>
+			: remuneremini nos, ac quae scitis, proferatis
+			in me dium: 
+				“<span class="alpheios-lex-la" lang="lat">nemo enim omnia potest scire,</span>”
+				 <i><span class="en">Varr. R. R. 2, 1, 2</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nec scire fas est omnia,</span>”
+				 <i><span class="en">Hor.
+					C. 4, 4, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">SENATVOSQVE SENTENTIAM VTEI SCIENTES ESETIS, S.
+					C. de Bacch. 23, ap. Wordsw. Fragm. and Spec. p. 173: quod
+					scio, omne ex hoc scio,</span>”
+				<i>I know all from him</i>,
+				 <i><span class="en">Plaut.
+					Curc. 2, 2, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid ex aliquo,</span>”
+				 <i><span class="en">id.
+					Capt. 2, 2, 45</span></i>
+			; <i><span class="en">id. Most. 3, 2, 58</span></i>; <i><span class="en">Cic. Fam.
+				9, 17, 1</span></i>; <i><span class="en">id. Att. 5, 2, 3 al.</span></i> (v. infra,
+				<span class="alpheios-lex-greek" lang="grc">γ</span> and <span class="alpheios-lex-greek" lang="grc">δ</span>; and cf. in the foll., with <i>de</i>
+			instead of <i>ex</i>): 
+				“<span class="alpheios-lex-la" lang="lat">quod sciam,</span>”
+				<i>for aught I know</i>, <i>as far as I know</i>,
+				 <i><span class="en">Plaut. Capt. 1, 2, 70</span></i>
+			; <i><span class="en">2, 2, 15</span></i>; <i><span class="en">id. Most.
+				4, 3, 19</span></i>; <i><span class="en">id. Men. 2, 2, 23</span></i>; <i><span class="en">3, 2, 35
+				al.</span></i>; <i><span class="en">Ter. Ad. 4, 5, 7</span></i>; <i><span class="en">Cic. Att.
+				16, 2, 4</span></i>; <i><span class="en">Quint. 9, 1, 17</span></i>; <i><span class="en">9, 4, 63 al.</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quantum ego quidem sciam,</span>”
+				 <i><span class="en">Quint. 3, 1, 19</span></i>
+			.— <i>Pass.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod quom scibitur, per urbem irridebor,</span>”
+				 <i><span class="en">Plaut.
+					Capt. 4, 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ars earum rerum est, quae sciuntur,</span>”
+				 <i><span class="en">Cic.
+					de Or. 2, 7, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an nihil certum sciri possit,</span>”
+				 <i><span class="en">id. ib. 1, 51, 222</span></i>
+			: id de Marcello aut certe de Postumiā sciri potest,
+				<i>can be learned from Marcellus</i>, etc., <i><span class="en">id. Att.
+				12, 22, 2</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b> With <i>inf.</i>, or more freq. with <i>object-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">qui uti sciat,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 17, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si sciret regibus uti,</span>”
+				 <i><span class="en">Hor. Ep. 1, 17, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">antequam declamare sciat,</span>”
+				 <i><span class="en">Quint.
+					2, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si docere sciant et velint,</span>”
+				 <i><span class="en">id.
+					10, 5, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">digredi a re et redire ad propositum suum
+					scierit,</span>”
+				 <i><span class="en">id. 9,
+					2, 4</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">vincere scis, Hannibal,</span>”
+				 <i><span class="en">Liv.
+					22, 51, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui nec ipse consulere nec alteri parere sciat,</span>”
+				 <i><span class="en">id.
+					22, 29, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui tegere liberos sciat,</span>”
+				 <i><span class="en">id.
+					1, 53, 8</span></i>
+			; <i><span class="en">38, 52, 2</span></i>;
+				<i><span class="en">Curt.
+				4, 2, 14</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scio, fortunas secundas neglegentiam prendere
+					solere, Cato ap. Fest, s.v. parsi, p. 210: dii sciunt,
+					culpam meam istanc non esse ullam,</span>”
+				 <i><span class="en">Plaut. Merc. 3, 4, 41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scio, tibi ita placere,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 30, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quas (leges) scitis exstare,</span>”
+				 <i><span class="en">id. ib. 5, 2, 3</span></i>
+			: scimus L. Atilium appellatum esse sapientem <i><span class="en">id. Lael. 2,
+			6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scis, In breve te cogi,</span>”
+				 <i><span class="en">Hor. Ep. 1, 20, 7</span></i>
+			: scire licet, nobis venas et sanguen ... alienigenis ex
+			partibus esse, <i>it is easy to see that</i>, etc.,
+				<i><span class="en">Lucr.
+				1, 860</span></i> (shortly before and after, scilicet); so, 
+				“<span class="alpheios-lex-la" lang="lat">scire licet,</span>”
+				 <i><span class="en">id. 1,
+					894</span></i>
+			; <i><span class="en">2, 930</span></i>;
+				<i><span class="en">2, 967</span></i>; 3, 873
+			et saep.; <i><span class="en">Liv. 1, 39, 3</span></i>; <i><span class="en">Cels. 1, 1 <i>fin.</i></span></i>; <i><span class="en">1, 2</span></i>; <i><span class="en">3, 2
+			al.</span></i>—So, in familiar style, <i>imper.</i> scito, <i>be assured</i>, <i>I reply that</i>, <i>remember</i>, etc.:
+			fenestrarum angustias quod reprehendis, scito te <span class="alpheios-lex-greek" lang="grc">Κύρου παιδείαν</span> reprehendere, <i><span class="en">Cic. Att. 2,
+				3, 2</span></i>; <i><span class="en">12, 21, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scito hoc nos in eo judicio consecutos esse,
+					ut, etc.,</span>”
+				 <i><span class="en">id. Q.
+					Fr. 2, 4, 1</span></i>
+			; <i><span class="en">id. Fam. 1, 9, 24</span></i>; <i><span class="en">5, 20,
+			7</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">istis contumeliis scitote Q. Lollium coactum,
+					etc.,</span>”
+				 <i><span class="en">id. Verr. 2, 3, 25, § 62</span></i>
+			; <i><span class="en">2, 3, 56, § 129</span></i>.—Esp.,
+			introducing a conclusion, after <i>si</i>, <i>sin</i>, <i>nisi</i>: 
+				“<span class="alpheios-lex-la" lang="lat">si venturus es, scito necesse esse te venire,</span>”
+				 <i><span class="en">Cic.
+					Fam. 9, 4 <i>init.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sin ista pax perditum hominem restitutura est,
+					hoc animo scito omnis sanos, etc.,</span>”
+				 <i><span class="en">id. ib. 10, 27, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si vos semel finem legis transieritis, scitote
+					vos nullum ceteris in aestimando finem improbitatis
+					reliquisse,</span>”
+				 <i><span class="en">id. Verr. 2, 3, 95, § 220</span></i>
+			; <i><span class="en">2, 4, 30, § 68</span></i>; <i><span class="en">id. Cat.
+				2, 10, 23</span></i>.—Rarely in <i>part.
+				pres.</i> (postAug.; cf. P. a., infra): 
+				“<span class="alpheios-lex-la" lang="lat">interrogant an vir daturus sit beneficium
+					ingrato, sciens ingratum esse,</span>”
+				 <i><span class="en">Sen. Ben. 4, 26, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Laqueo vitam finiit, sciens et in Maximino
+					multum esse roboris,</span>”
+				 <i><span class="en">Capitol. in Max. 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">totam hereditatem sciens ad se non pertinere,</span>”
+				 <i><span class="en">Gai. Inst. 4, 144</span></i>
+			.—<i>Impers.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">hoc scitis omnes, usque adeo hominem in
+					periculo fuisse, quoad scitum sit, Sestium vivere,</span>”
+				 <i><span class="en">Cic.
+					Sest. 38, 82</span></i>
+			.—<i>Pass.</i>, with nom.
+			and <i>inf.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Christus scitur vocis simplicis jussione
+					ambulatum dedisse contractis,</span>”
+				 <i><span class="en">Arn. 1, 48</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			With a <i>rel.-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">isti jam sciunt, negotii quid sit,</span>”
+				 <i><span class="en">Plaut. Poen. 3, 2, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut sciamus, quid dicamus mox pro testimonio,</span>”
+				 <i><span class="en">id. ib. 3, 2, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scin' quam iracundus siem?</span>”
+				 <i><span class="en">id.
+					Bacch. 4, 2, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cuivis facile scitu est, quam fuerim miser,</span>”
+				 <i><span class="en">Ter.
+					Hec. 3, 1, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum sciatis, quo quaeque res inclinet,</span>”
+				 <i><span class="en">Cic.
+					Rep. 2, 25, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Sestium quanti faciam, ipse optime scio,</span>”
+				 <i><span class="en">id.
+					Fam. 13, 8, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex tribus istis modis rerum publicarum velim
+					scire quod optimum judices,</span>”
+				 <i><span class="en">id. ib. 1, 30, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut eum (hostem) non modo esse, sed etiam, quis
+					et unde sit, scire possimus,</span>”
+				 <i><span class="en">id. ib. 2, 3, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">coqua est haec quidem: Scit muriatica ut
+					maceret,</span>”
+				 <i><span class="en">Plaut. Poen. 1, 2, 39</span></i>
+			; <i><span class="en">Ter. Hec. 3, 5, 18</span></i>; <i><span class="en">Cic. Mur. 9,
+				22</span></i>; <i><span class="en">Hor. C. 3, 4, 42 al.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">scire velis, mea cur opuscula lector Laudet,</span>”
+				 <i><span class="en">id. Ep. 1, 19, 35</span></i>
+			; <i><span class="en">2, 2, 187</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quī scis, an, quae jubeam, sine vi
+					faciat?</span>”
+				 <i><span class="en">Ter.
+					Eun. 4, 7, 20</span></i>
+			; <i><span class="en">Hor. C. 4, 7, 17</span></i>; <i><span class="en">id. A. P.
+			462</span></i>; cf. the phrase haud scio an, under an.—<i>Pass.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">hinc sciri potuit, Quo studio vitam suam te
+					absente exegerit,</span>”
+				 <i><span class="en">Ter.
+					Heaut. 2, 3, 38</span></i>
+			: scito ... nec, 
+			 quando futura sint comitia, sciri, <i><span class="en">Cic. Att.
+				1, 11, 2</span></i>.—With <i>indic.</i> in
+			the <i>rel.-clause</i> (ante-class.): <i>Ba.</i> Scio, quid ago. <i>Pi.</i> Et pol ego
+			scio, quid metuo, <i><span class="en">Plaut. Bacch. 1, 1, 45</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">scitin' quid ego vos rogo?</span>”
+				 <i><span class="en">id.
+					Men. 5, 9, 92</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scis tu, ut confringi vas cito Samium solet,</span>”
+				 <i><span class="en">id.
+					Bacch. 2, 2, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam ego ex hoc, ut factum est, scibo,</span>”
+				 <i><span class="en">id.
+					Men. 5, 2, 57</span></i>
+			; instead of which, with <i>subj.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ex me primo prima scires, rem ut gessissem
+					publicam,</span>”
+				 <i><span class="en">id.
+					Am. 1, 3, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex hoc scibo quid siet,</span>”
+				 <i><span class="en">Ter.
+					Eun. 4, 4, 59</span></i>
+			; <i><span class="en">id. Hec. 4, 2,
+			4</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(d).</b>
+			With <i>de</i>: 
+				“<span class="alpheios-lex-la" lang="lat">jam vero de legibus, de bello, de pace ...
+					scisse,</span>”
+				 <i><span class="en">Cic.
+					de Or. 1, 13, 58</span></i>
+			.—(<span class="alpheios-lex-greek" lang="grc">ε</span>) <b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">hi sciunt, qui hic affuerunt,</span>”
+				 <i><span class="en">Plaut. Ps. 2, 4, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quom videbis, tum scies,</span>”
+				 <i><span class="en">id.
+					Bacch. 1, 2, 37</span></i>
+			: <i>Pi.</i> Quī scire possum? <i>Ch.</i> Nullus plus, <i><span class="en">id. ib.
+				2, 2, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quem, ut scitis, unice dilexi,</span>”
+				 <i><span class="en">Cic.
+					Rep. 2, 1, 1</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">ut scitis, parenthetically,</span>”
+				 <i><span class="en">id. ib. 1, 14, 21</span></i>
+			; 2, 31, 54; 6, 9, 9; <i><span class="en">id. Lael. 21, 77</span></i>; cf. 
+				“<span class="alpheios-lex-la" lang="lat">scio alone, parenthetically: injurato scio plus
+					credet mihi quam jurato tibi,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 281</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ego abeo: tu jam scio patiere,</span>”
+				 <i><span class="en">id.
+					As. 2, 2, 111</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quam tu propediem effliges scio,</span>”
+				 <i><span class="en">id. ib. 4, 2, 9</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">scire tuum nihil est, nisi te scire hoc sciat
+					alter,</span>”
+				 <i><span class="en">Pers.
+					1, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nemo ex me scibit,</span>”
+				 <i><span class="en">Ter.
+					Phorm. 5, 1, 38</span></i>
+			.—<i>Pass.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">non opus est dicto ... at scito huic opus est,</span>”
+				 <i><span class="en">Ter.
+					Phorm. 5, 8, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plus, quam opus est scito, sciet,</span>”
+				 <i><span class="en">id. ib. 4, 1, 18</span></i>
+			; so, with adv. or <i>adverb.-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">non tam praeclarum est scire Latine, quam turpe
+					nescire,</span>”
+				 <i><span class="en">Cic.
+					Brut. 37, 140</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">Latine,</span>”
+				 <i><span class="en">id.
+					Fin. 2, 4, 13</span></i>
+			; <i><span class="en">Liv. 1, 27</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">luculenter Graece,</span>”
+				 <i><span class="en">Cic.
+					Fin. 2, 5, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Graece,</span>”
+				 <i><span class="en">id.
+					Fam. 9, 22, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ubi hanc forma videt honesta virginem, Et
+					fidibus scire,</span>”
+				<i>and that she was skilled in music</i>,
+				 <i><span class="en">Ter.
+					Eun. 1, 2, 53</span></i>
+			 (cf.: docere aliquem fidibus. <i><span class="en">Cic. Fam.
+				9, 22, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">discere fidibus,</span>”
+				 <i><span class="en">id.
+					Lael. 8, 26</span></i>
+			).—(<span class="alpheios-lex-greek" lang="grc">ζ</span>) With <i>de</i>: 
+				“<span class="alpheios-lex-la" lang="lat">de legibus instituendis, de bello, de pace,
+					etc.,</span>”
+				 <i><span class="en">Cic.
+					de Or. 1, 13, 58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum is, qui de omnibus scierit, de
+					Sullā se scire negavit,</span>”
+				 <i><span class="en">id.
+					Sull. 13, 39</span></i>
+			.—(<span class="alpheios-lex-greek" lang="grc">η</span>) With <i>non</i> (very rare for nescio; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">non scire barbarum jam videtur, nescire
+					dulcius,</span>”
+				 <i><span class="en">Cic.
+					Or. 47, 157</span></i>
+			): 
+				“<span class="alpheios-lex-la" lang="lat">quis enim erat qui non sciret studiosiorem
+					Mithridatem fuisse, etc.,</span>”
+				 <i><span class="en">id. Fl. 25, 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tam imperitus, ut non sciret, etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid? non sciunt ipsi viam, domum quā
+					veniant?</span>”
+				 <i><span class="en">Ter.
+					Hec. 3, 2, 25</span></i>
+			; <i><span class="en">Auct. Her. 4, 27, 37</span></i>; Treb.
+			ap. <i><span class="en">Cic.
+				Fam. 12, 16, 3</span></i>; <i><span class="en">Sen. Contr. 2, 11,
+			19</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			Ellipt.: scin' quomodo? <i>do you know how</i> (I
+			shall serve you)? a threatening phrase in <i><span class="en">Plaut. Am.
+				1, 1, 200</span></i>; <i><span class="en">id. Aul. 5, 21</span></i>; <i><span class="en">id. Rud. 3,
+				5, 18</span></i>.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In partic., of a woman, <i>to know
+			carnally</i> a man (cf. of a man, cognosco), Treb. xxx. Tyr.
+			30.—* </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>, publicists' t. t. for the usual
+			scisco (v. h. v. II.), of the people, <i>to
+			ordain</i>, <i>decree</i>, <i>appoint</i> any thing after knowledge obtained regarding it: 
+				“<span class="alpheios-lex-la" lang="lat">ut tribunus plebis rogationem ferret sciretque
+					plebs, uti, etc.,</span>”
+				 <i><span class="en">Liv. 26, 33, 10</span></i>
+			 Weissenb. ad loc.; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">a scire for asciscere,</span>”
+				 <i><span class="en">Tac. Agr.
+					19</span></i>
+			; <i><span class="en">id.
+				H. 4, 80</span></i>.—Hence, <b><span class="alpheios-lex-la" lang="lat">scĭens</span></b> , entis, P.
+			a., <i>knowing</i>, i. e. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Pregn., <i>knowingly</i>, <i>wittingly</i>, <i>purposely</i>, <i>intentionally</i>, etc. (freq.
+			and class.): tu verbis conceptis conjuravisti sciens sciente animo
+			tuo, Scip. Afric. minor ap. <i><span class="en">Gell. 7,
+				11, 9</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ubi verbis conceptis sciens libenter
+					perjuraris,</span>”
+				 <i><span class="en">Plaut. As. 3, 2, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amore ardeo et prudens, sciens, Vivus vidensque
+					pereo,</span>”
+				 <i><span class="en">Ter.
+					Eun. 1, 1, 27</span></i>
+			; so (with prudens) Cael. ap. <i><span class="en">Cic. Att. 10,
+				9</span></i>, A, 5; <i><span class="en">Suet. Ner. 2 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">equidem plus hodie boni Feci imprudens, quam
+					sciens ante hunc diem umquam,</span>”
+				 <i><span class="en">Ter.
+					Hec. 5, 4, 40</span></i>
+			; so (opp. imprudens) <i><span class="en">id. Phorm.
+				4, 3, 55</span></i>; <i><span class="en">Cic. Planc. 16, 41</span></i>; (opp. insciens)
+				<i><span class="en">id.
+				Balb. 5, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">habebit igitur te sciente et vidente curia
+					senatorem, etc.,</span>”
+				 <i><span class="en">id.
+					Clu. 46, 129</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an ille me tentat sciens?</span>”
+				 <i><span class="en">Plaut. Am. 2, 2, 29</span></i>
+			; <i><span class="en">id. Bacch. 3, 6, 40</span></i>; <i><span class="en">id. Ps. 1,
+				1, 90</span></i>; <i><span class="en">id. Poen. prol. 112</span></i>; <i><span class="en">Ter. Eun.
+				4, 2, 13</span></i>; <i><span class="en">id. Heaut. 5, 5, 6 al.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">heia vero, inquit, geram morem vobis et me
+					oblinam sciens,</span>”
+				 <i><span class="en">Cic.
+					Rep. 3, 5, 8</span></i>
+			 et saep.—So the formula: si sciens fallo; v.
+			fallo.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>Knowing</i>, <i>understanding</i>,
+				<i>acquainted with</i>, <i>skilled</i>, <i>versed</i>, or <i>expert in</i> any thing (class.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b>
+			<b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">id ego jam nunc tibi renuntio, ut sis sciens,</span>”
+				 <i><span class="en">Ter.
+					And. 3, 2, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod me non scientem feceris,</span>”
+				 <i><span class="en">Plaut. As. 1, 1, 34</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">Ter Heaut. 4, 8, 32: vites pampinari: sed a
+					sciente,</span>”
+				 <i><span class="en">Varr. R. R. 1, 31, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quis igitur hoc homine scientior umquam fuit?</span>”
+				 <i><span class="en">Cic.
+					Imp. Pomp. 10, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scientior venefica,</span>”
+				 <i><span class="en">Hor.
+					Epod. 5, 72</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae (navis) scientissimo gubernatore utitur,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 34, 58</span></i>
+			.—<i>Sup.</i>: sit oportet idem
+				scientissimus,
+			<i><span class="en">Col. 11,
+			1</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			With <i>gen.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">dominum scientem esse oportet earum rerum,
+					quae, etc.,</span>”
+				 <i><span class="en">Varr. R. R. 3, 3, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">locorum,</span>”
+				 <i><span class="en">Sall. J. 97, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pugnae,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 15, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">citharae,</span>”
+				 <i><span class="en">id. ib. 3, 9, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Latinae linguae,</span>”
+				 <i><span class="en">Tac. A.
+					2, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juris,</span>”
+				 <i><span class="en">id. ib. 3, 70</span></i>
+			; 6, 26 et saep.—<i>Sup.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">M. Scaurus, vir regendae rei publicae
+					scientissimus,</span>”
+				 <i><span class="en">Cic. de Or. 1, 49, 214</span></i>
+			; <i><span class="en">Vulg. 2 Par. 2, 13</span></i>.—*
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			<b>Poet.</b>, with <i>inf.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quamvis non alius flectere equum sciens,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 7, 25</span></i>
+			.—<i>Adv.</i>: <b><span class="alpheios-lex-la" lang="lat">scĭenter</span></b>  (acc. to B.), <i>knowingly</i>, <i>understandingly</i>, <i>wisely</i>, <i>skilfully</i>, <i>expertly</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">scienter et perite et ornate dicere,</span>”
+				 <i><span class="en">Cic.
+					de Or. 2, 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">uti (with modice),</span>”
+				 <i><span class="en">id. ib. 1, 29, 132</span></i>
+			; <i><span class="en">id. Off. 2, 5, 18</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">sese distribuunt in duas partes,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 55</span></i>
+			.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">neminem in eo genere scientius versatum
+					Isocrate,</span>”
+				 <i><span class="en">Cic.
+					Or. 52, 175</span></i>
+			; <i><span class="en">Caes. B. G. 7, 22</span></i>.—<i>Sup.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">coepit rationem hujus operis (sphaerae)
+					scientissime Gallus exponere,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 14, 22</span></i>
+			; <i><span class="en">id. Div. 1, 41, 92</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

@@ -1,0 +1,604 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n49973" body-key=""><b><span class="alpheios-lex-la" lang="lat">ūsus</span></b> , ūs,
+			m.
+		utor, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>the use</i> or <i>using</i> of any thing, in the
+			widest sense (cf.: consuetudo, mos). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>The use</i>, <i>employment</i>, <i>exercise</i> of any thing; with <i>gen. obj.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">virtus in usu sui tota posita est: usus autem
+					ejus est maximus civitatis gubernatio,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 2, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cetera, ad virtutis usum idonea,</span>”
+				 <i><span class="en">id. Ac. 1, 6, 22</span></i>
+			.—<b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">Quaeque ipsi doceant in usu habere,</span>”
+				 <i><span class="en">Plin. Ep. 1, 10, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec rhus Latinum nomen habet, cum in usum
+					pluribus modis veniat,</span>”
+				 <i><span class="en">Plin.
+					24, 11, 54, § 91</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Wear</i>, <i>a wearing out</i> or <i>away</i> (<b>poet.</b>): 
+				“<span class="alpheios-lex-la" lang="lat">ferreus adsiduo consumitur anulus usu,</span>”
+				 <i><span class="en">Ov. A.
+					A. 1, 473</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">silices tenuantur ab usu,</span>”
+				 <i><span class="en">id. ib.
+					3, 91</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>Use</i>, <i>enjoyment</i>,
+			
+			<i>fruition</i>: 
+				“<span class="alpheios-lex-la" lang="lat">et usu rerum necessarium et dignitate spoliatum
+					iri,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tantumque nobis in nostrum privatum usum,
+					quantum ipsi superesse posset, remitteret,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 8, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cave sis ne tu te usu perduis (i. e. ex usu
+					tui),</span>”
+				<i>lose control of yourself</i>,
+				 <i><span class="en">Plaut. Am. 2, 2, 225</span></i>
+			 Ussing ad loc.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>Use</i>, <i>practice</i>, <i>exercise</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tantum usu cottidiano et exercitatione
+					efficiunt, uti, etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 4, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod adsiduus usus uni rei deditus et ingenium
+					et artem saepe vincit,</span>”
+				 <i><span class="en">Cic.
+					Balb. 20, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum rerum magnarum tractatio atque usus cum
+					illarum artium studiis et cognitione conjungitur,</span>”
+				 <i><span class="en">id.
+					Rep. 3, 3, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad eam doctrinam, quam suo quisque studio
+					adsecutus esset, adjungeretur usus frequens,</span>”
+				 <i><span class="en">id.
+					de Or. 1, 4, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">docuit nos longa vita ususque rerum maximarum,</span>”
+				 <i><span class="en">id. ib. 2, 50, 204</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">usu quidem in re publicā rerum
+					maximarum facile omnis viceris,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 23, 37</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>Use</i>, <i>experience</i>, <i>discipline</i>, <i>skill</i> acquired
+			by practice (cf. experientia): <i>Da.</i> O Geta,
+			provinciam Cepisti duram. <i>Ge.</i> Mi usus venit,
+			hoc scio, i. e. <i>I have found it so by
+			experience</i>, <i><span class="en">Ter. Phorm. 1, 2, 23</span></i> (al. usu
+			venit; 
+				v.
+				infra
+			, II. C. 2.): 
+				“<span class="alpheios-lex-la" lang="lat">vir tali prudentiā, etiam usu atque
+					exercitatione praeditus,</span>”
+				 <i><span class="en">Cic.
+					Clu. 31, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">res posita in usu militari,</span>”
+				 <i><span class="en">id.
+					Imp. Pomp. 10, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">usum in re publicā magnum habere,</span>”
+				 <i><span class="en">id.
+					Phil. 10, 2, 6</span></i>
+			: magnum in re militari usum habere, Caes B G. 1, 39;
+					<i><span class="en">id. B. C. 2, 34</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">non recusare se, quin nullius usus imperator
+					existimaretur,</span>”
+				 <i><span class="en">id. ib. 3, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nullo usu rei militaris percepto,</span>”
+				 <i><span class="en">id. B. G. 6, 40</span></i>
+			; <i><span class="en">id. B. C. 3, 84</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">usu nauticarum rerum ceteros antecedunt,</span>”
+				 <i><span class="en">id. B. G. 3, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne usu manuque reliquorum opinionem fallerent,</span>”
+				 <i><span class="en">id. B. C. 3, 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et Marius aut belli usum aut studia volgi
+					amissurus,</span>”
+				 <i><span class="en">Sall. J. 84, 3</span></i>
+			; cf. <i><span class="en">id. ib. 89, 6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">dantur duo usu sapientiāque
+					praestantes,</span>”
+				 <i><span class="en">Nep.
+					Timoth. 3, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">seris venit usus ab annis,</span>”
+				 <i><span class="en">Ov. M.
+					6, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tum foeda clades, Romanisque usu incognita,</span>”
+				 <i><span class="en">Flor.
+					2, 2, 23</span></i>
+			. —Personified: 
+				“<span class="alpheios-lex-la" lang="lat">adiciam quod me docuit usus, magister egregius,</span>”
+				<i>experience</i>,
+				 <i><span class="en">Plin. Ep. 1, 20, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">usum et esse et haberi optimum dicendi
+					magistrum,</span>”
+				 <i><span class="en">id. ib. 6, 29, 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<i>Use</i>, <i>habit</i>, <i>usage</i>, <i>custom</i>, <i>practice</i>: 
+				“<span class="alpheios-lex-la" lang="lat">usum loquendi populo concessi: scientiam mihi
+					reservavi,</span>”
+				 <i><span class="en">Cic.
+					Or. 48, 160</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dicendi omnis ratio in medio posita communi
+					quodam in usu,</span>”
+				 <i><span class="en">id.
+					de Or. 1, 3, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque quem usum belli haberent, aut quibus
+					institutis uterentur,</span>”
+				 <i><span class="en">Caes.
+					B. G. 4, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(vitulos) ad studium atque usum formabis
+					agrestem,</span>”
+				 <i><span class="en">Verg.
+					G. 3, 163</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">est omnino Capitoni in usu claros viros colere,</span>”
+				<i>it is his custom</i>,
+				 <i><span class="en">Plin.
+					Ep. 1, 17, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">populum auctoritate suā ad usum
+					frugalitatis revocavit,</span>”
+				 <i><span class="en">Just.
+					20, 4, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab his Galli usum vitae cultioris didicerunt,</span>”
+				 <i><span class="en">id.
+					43, 4, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">at horum recitatio usu jam recepta est,</span>”
+				 <i><span class="en">Plin.
+					Ep. 7, 17, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadent vocabula, si volet usus,</span>”
+				 <i><span class="en">Hor. A.
+					P. 71</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In
+			partic. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In jurid.
+			lang. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Usus et
+			fructus, usus fructusque, and more frequently in one word, <b><span class="alpheios-lex-la" lang="lat">ūsusfructus</span></b> , <i>the use and enjoyment of property belonging to
+				another</i>, <i>usufruct</i>: 
+				“<span class="alpheios-lex-la" lang="lat">usus enim ejus fundi et fructus testamento viri
+					fuerat Caesenniae,</span>”
+				 <i><span class="en">Cic.
+					Caecin. 7, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sibi horum usus fructusque contingat,</span>”
+				 <i><span class="en">Sen. Ep. 73, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rem nobis eripit casus, usum fructumque apud
+					nos relinquit,</span>”
+				 <i><span class="en">id. ib. 98, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">usumfructum omnium bonorum suorum Caesenniae
+					legat, ut frueretur una cum filio,</span>”
+				 <i><span class="en">Cic.
+					Caecin. 4, 11</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ususfructus est jus alienis rebus utendi
+					fruendi, salvā rerum substantiā,</span>”
+				 <i><span class="en">Dig.
+					7, 1, 1</span></i>
+			; v. the entire title, usufructu: dominus proprietatis alii
+			usumfructum in jure cedere potest, Gai inst. 2, 30 sqq.; 2, 86;
+					<i><span class="en">Ulp. Fragm. 15,
+			3</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>A use that creates ownership</i>, <i>acquisition by prescription</i>, <i>usucaption.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> In the connection usus
+			et auctoritas, or without the copula, usus auctoritas; v.
+			auctoritas; and cf. Rein, Röm. Privatr. p. 144
+			sq.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b> In
+			the phrase usu capere, <i>to acquire by
+			prescription</i> (often as one word; v. 1. usucapio); hence, com.:
+				<i>Mer.</i> Quojus nunc es? <i>Sos.</i> Tuos: 
+				“<span class="alpheios-lex-la" lang="lat">nam pugnis usu fecisti tuom,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 218</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Intercourse</i>, <i>familiarity</i>,
+				<i>association</i>, <i>intimacy</i>,
+				<i>society</i> (cf.: 
+				“<span class="alpheios-lex-la" lang="lat">consuetudo, conversatio): domesticus usus et
+					consuetudo,</span>”
+				 <i><span class="en">Cic.
+					Rosc. Am. 6, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quocum mihi est magnus usus,</span>”
+				 <i><span class="en">id.
+					Fam. 7, 32, 1</span></i>
+			; <i><span class="en">9, 25, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">conjunctus magno usu familiaritatis,</span>”
+				 <i><span class="en">id. ib. 13, 52</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in tanto usu nostro tantāque
+					amicitiā,</span>”
+				 <i><span class="en">id.
+					Planc. 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">inter nosmet ipsos vetus usus intercedit,</span>”
+				 <i><span class="en">id.
+					Fam. 13, 23, 1</span></i>
+			: ut insinuaret se in quam maxime familiarem
+			usum, <i><span class="en">Liv. 40, 21, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">recens praestat nec longo cognitus usu,</span>”
+				 <i><span class="en">Ov.
+					Tr. 3, 5, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">natio nullo commercio colens mutuos usus,</span>”
+				 <i><span class="en">Curt.
+					7, 3, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neminem in usu habes nisi tibi dilectum,</span>”
+				 <i><span class="en">Plin.
+					Pan. 88</span></i>
+			.—Hence, </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In mal. part., <i><span class="en">Tib. 1, 9, 55</span></i>;
+				<i><span class="en">Ov. R. Am.
+			357</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>Use</i>, <i>practice</i>, <i>reality</i> (opp. species): 
+				“<span class="alpheios-lex-la" lang="lat">ut (liberi) in usum boni sint et in speciem
+					populo,</span>”
+				 <i><span class="en">Plaut. Most. 1, 2, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illam alteram (partem Numidiae) specie quam usu
+					potiorem Adherbal possedit,</span>”
+				 <i><span class="en">Sall. J. 16, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut non in usum sic ad speciem imperii,</span>”
+				 <i><span class="en">Flor.
+					3, 13, 4</span></i>
+			.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Use</i>, <i>usefulness</i>, <i>value</i>, <i>utility</i>, <i>benefit</i>, <i>profit</i>, <i>advantage</i>: 
+				“<span class="alpheios-lex-la" lang="lat">levis fructus, exiguus usus,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 17, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(arborum) consectio magnos usus affert ad
+					navigia facienda,</span>”
+				 <i><span class="en">id.
+					N. D. 2, 60, 152</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">propter lini inopiam atque ejus usus
+					inscientiam,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">naves factae subito ex umidā
+					materiā non eundem usum celeritatis habebant,</span>”
+				<i>capacity</i>, <i>fitness</i>,
+				 <i><span class="en">id. B.
+					C. 1, 58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">natis in usum laetitiae scyphis Pugnare,</span>”
+				<i>service</i>,
+				 <i><span class="en">Hor.
+					C. 1, 27, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aurum cogere humanos in usus,</span>”
+				 <i><span class="en">id. ib. 3, 3, 51</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pater, si das hujus mihi nominis usum,</span>”
+				 <i><span class="en">Ov. M.
+					2, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nescis, quo valeat numus? quem praebeat usum?</span>”
+				 <i><span class="en">Hor.
+					S. 1, 1, 73</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quidve ad amicitias, usus rectumne trahat nos,</span>”
+				 <i><span class="en">id. ib. 2, 6, 75</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque quisquam omnium libidini simul et usui
+					paruit,</span>”
+				 <i><span class="en">Sall. C. 51, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plures quam quot satis in usum erant ignes,</span>”
+				 <i><span class="en">Liv. 36, 10, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">servos quos domum quis ducet suo usu,</span>”
+				 <i><span class="en">Dig. 50, 16, 203</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cicuta quoque venenum est ... ad multa tamen
+					usus non omittendi,</span>”
+				 <i><span class="en">Plin.
+					25, 13, 95, § 151</span></i>
+			.—In partic., usui or ex usu esse, <i>to be of use</i>, <i>service</i>, or <i>benefit</i>, <i>to be useful</i>, <i>serviceable</i>, <i>advantageous</i>,
+			or <i>profitable</i>: 
+				“<span class="alpheios-lex-la" lang="lat">esse usui civitati, ea, quae sunt usui ad
+					armandas naves,</span>”
+				 <i><span class="en">Caes. B.
+					G. 5, 1</span></i>
+			; <i><span class="en">id.
+				B. C. 1, 19</span></i>; <i><span class="en">Liv. 3, 33, 5</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">(Satrius) fuit et mihi et Quinto fratri magno
+					usui in nostris petitionibus,</span>”
+				 <i><span class="en">Cic.
+					Att. 1, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">magno usui rei publicae esse,</span>”
+				 <i><span class="en">id.
+					Phil. 10, 11, 26</span></i>
+			; <i><span class="en">Caes. B. G. 3, 14</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">bono usui esse,</span>”
+				 <i><span class="en">Plaut. Curc. 4, 2, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">peritos legum ad condenda nova jura usui fore
+					credebant,</span>”
+				 <i><span class="en">Liv.
+					3, 33, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">declararent, utrum proelium ex usu esset necne,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 50</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">ex usu esse,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 7, 14</span></i>
+			; <i><span class="en">Plin. 25, 13, 110, § 175</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad omnia haec magis opportunus nec magis ex usu
+					tuo Nemo'st,</span>”
+				 <i><span class="en">Ter.
+					Eun. 5, 9</span></i>
+			 (8), 47. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>Use</i>, <i>occasion</i>, <i>need</i>, <i>want</i>, <i>necessity</i>: 
+				“<span class="alpheios-lex-la" lang="lat">non te instruere domum tuam voluerunt in
+					provinciā, sed illum usum provinciae supplere,</span>”
+				 <i><span class="en">Cic. Verr. 2, 4, 5, § 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae belli usus poscunt, suppeditare,</span>”
+				 <i><span class="en">Liv.
+					26, 43, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illuc euntium, quā quemque suorum
+					usuum causae ferrent,</span>”
+				 <i><span class="en">id.
+					6, 25, 9</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Usus est, or usus venit, <i>there is need</i>, <i>it is necessary</i>, <i>becomes
+				requisite.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Usus est (most freq.
+			ante-class., esp. after the analogy of opus est with the
+			abl.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b>
+			<b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">egomet mihi fero, quod usu'st,</span>”
+				 <i><span class="en">Plaut. Merc. 5, 2, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ubicumque usus siet,</span>”
+				 <i><span class="en">id.
+					Bacch. 4, 4, 9</span></i>
+			; and, with <i>ellipsis</i> of <i>subst. verb</i>: 
+				“<span class="alpheios-lex-la" lang="lat">dico ut usus fieri,</span>”
+				 <i><span class="en">id.
+					As. 2, 2, 109</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si quando usus esset,</span>”
+				 <i><span class="en">Cic.
+					Off. 1, 26, 92</span></i>
+			: <i>Me.</i> Mihi sic est usus: tibi ut opus
+			facto'st, face. <i>Ch.</i> An cuiquam est usus homini,
+			se ut cruciet? <i>Me.</i> Mihi, <i><span class="en">Ter.
+				Heaut. 1, 1, 28 sq.</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ut equites Pompeianorum impetum, cum adesset
+					usus, sustinere non possent,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 84, 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			With abl.: 
+				“<span class="alpheios-lex-la" lang="lat">viginti jam usu'st filio argenti minis,</span>”
+				 <i><span class="en">Plaut. As. 1, 1, 76</span></i>
+			; cf. <i><span class="en">id. Bacch. 4, 4, 55</span></i>; <i><span class="en">4, 9,
+			47</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mulier quae se suamque aetatem spernit, speculo
+					ei usus est,</span>”
+				 <i><span class="en">id.
+					Most. 1, 3, 93</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">curatore usus est,</span>”
+				 <i><span class="en">Cic.
+					Leg. 3, 4, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad eam rem usus est tuā mihi
+					operā,</span>”
+				 <i><span class="en">Plaut. Pers. 2, 5, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tacere nequeo misera, quod tacito usus est,</span>”
+				 <i><span class="en">id.
+					Cist. 1, 2, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">argento invento,</span>”
+				 <i><span class="en">id.
+					Ps. 1, 1, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">facto,</span>”
+				 <i><span class="en">id.
+					Am. 1, 3, 7</span></i>
+			; <i><span class="en">id. Rud. 2, 3, 67</span></i>; <i><span class="en">id.
+				Stich. 1, 1, 56 al.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">dicto,</span>”
+				 <i><span class="en">id.
+					Trin. 2, 4, 102</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">navis, quibus usus non est, omnis praecidisse,</span>”
+				 <i><span class="en">Cic.
+					Att. 9, 6, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quibus (navibus) consuli usus non esset,</span>”
+				 <i><span class="en">Liv.
+					30, 41, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nunc viribus usus, Nunc manibus rapidis, omni
+					nunc arte magistrā,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 441</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad eam rem usu'st homine astuto, docto, scito
+					et callido,</span>”
+				 <i><span class="en">Plaut. Ps. 1, 3, 151</span></i>
+			.—Pleonast.: 
+				“<span class="alpheios-lex-la" lang="lat">non usus facto'st mihi nunc hunc intro sequi,</span>”
+				 <i><span class="en">Ter.
+					Hec. 3, 1, 47</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			With <i>ut</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc ad me ut veniat usu'st Acroteleutium,</span>”
+				 <i><span class="en">Plaut. Mil. 4, 3, 39</span></i>
+			; cf. <i><span class="en">Ter. Heaut. 1, 1, 28</span></i> supra.—
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(d).</b> With <i>gen.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">alii offerunt se, si quo usus operae sit,</span>”
+				 <i><span class="en">Liv.
+					26, 9, 9</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			Usus venit (not in Cic.): 
+				“<span class="alpheios-lex-la" lang="lat">si quis usus venerit, Meminisse ego hanc rem
+					vos volo,</span>”
+				 <i><span class="en">Plaut. Cist. 1, 2, 28</span></i>
+			: quom ad praetorem usus veniet, id. Poen.  3, 4,
+			17; <i><span class="en">id.
+				Bacch. 2, 3, 129</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si usus vene rit,</span>”
+				 <i><span class="en">id.
+					Merc. 3, 1, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non usus veniet, spero,</span>”
+				 <i><span class="en">Ter.
+					Heaut. 3, 2, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut, si usus veniat, suum quisque locum teneat,</span>”
+				<i>if occasion should arise</i>,
+				 <i><span class="en">Caes.
+					B. G. 7, 80</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			With abl.: 
+				“<span class="alpheios-lex-la" lang="lat">ubi usus veniat contra consertā manu,</span>”
+				 <i><span class="en">Plaut.
+					Mil. 1, 1, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<i>A fit occasion</i> or <i>opportunity</i> to be used. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Usus est or adest, <i>an occasion</i> or
+				<i>opportunity offers</i>: 
+				“<span class="alpheios-lex-la" lang="lat">de ceteris studiis alio loco dicemus, si usus
+					fuerit,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 3, 5</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Esp.: usu venit, <i>it happens</i>, <i>occurs</i>, <i>befalls</i>, <i>chances</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nam quid homini potest turpius, quid viro
+					miserius aut acerbius usu venire?</span>”
+				 <i><span class="en">Cic. Quint. 15, 49</span></i>
+			; <i><span class="en">id. Verr. 2, 5, 39, § 101</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si id culpa senectutis accideret, eadem mihi
+					usu venirent,</span>”
+				 <i><span class="en">id. Sen.
+					3, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">idem solet in demonstratione usu venire,</span>”
+				 <i><span class="en">id.
+					Inv. 1, 10, 14</span></i>
+			; <i><span class="en">1, 54, 104</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod item in poëmatis, in picturis usu
+					venit,</span>”
+				 <i><span class="en">id.
+					Off. 3, 3, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc illud eis usu venire solet, ut, etc.,</span>”
+				 <i><span class="en">id. Ac. 2, 11, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum praesertim mihi usu venturum non
+					arbitrarer, ut, etc.,</span>”
+				 <i><span class="en">id.
+					Fam. 3, 8, 6</span></i>
+			: et, id quod usu venerat, Eumolpidas demigravit, <i>actually occurred</i> (however strange), <i><span class="en">Nep.
+				Alcib. 4, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">id quod numquam antea usu venerat,</span>”
+				 <i><span class="en">id.
+					ib. 6, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">praemeditatus, quid sibi esset usu venturum,</span>”
+				 <i><span class="en">Auct. Her. 2, 5, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Caesar biduum in iis locis moratus, quod haec
+					de Vercingetorige usu ventura opinione perceperat,</span>”
+				 <i><span class="en">Caes. B.
+					G. 7, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">usu venire ut abhorreant, etc.,</span>”
+				 <i><span class="en">Cic.
+					Fin. 1, 3, 8</span></i>
+			.—Separated or in a reversed order: 
+				“<span class="alpheios-lex-la" lang="lat">non venit idem usu mihi quod tu tibi scribis,</span>”
+				 <i><span class="en">Cic.
+					Att. 7, 26, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod cuipiam Thraco venisse usu fabula est,</span>”
+				 <i><span class="en">Gell. 19, 12, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid, quod usu memoria patrum venit, ut, etc.,</span>”
+				 <i><span class="en">Cic. de Or. 1, 40, 183</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

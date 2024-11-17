@@ -1,0 +1,102 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n38232" body-key=""><b><span class="alpheios-lex-la" lang="lat">prĕcārĭus</span></b> ,
+			a, um, adj.
+		id., <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>obtained by begging</i>, <i>entreaty</i>, or <i>prayer</i> (opp. debitus and pro imperio; not freq.
+			till the Aug. per.; perh. used by Cic. only adverbially; 
+				v.
+				infra
+			). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">non orare solum precariam opem, sed pro
+					debitā petere,</span>”
+				<i>obtained by entreaty</i>, <i>from mere favor</i>,
+				 <i><span class="en">Liv.
+					3, 47, 2</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tribunicia potestas, precarium, non justum
+					auxilium ferens,</span>”
+				 <i><span class="en">id. 8,
+					35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vita,</span>”
+				 <i><span class="en">Tac. H.
+					4, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">precariam animam inter infensos trahere,</span>”
+				 <i><span class="en">id. A.
+					1, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">imperium (quasi precibus concessum, ac
+					propterea, quandocumque lubeat, rursus adimendum, Orell.),</span>”
+				 <i><span class="en">id. H.
+					1, 52</span></i>
+			. —Hence, as <i>subst.</i>: <b><span class="alpheios-lex-la" lang="lat">prĕcārĭum</span></b> ,
+			ii, n., <i>any thing
+			granted</i> or <i>lent upon request and at the will of
+				the grantor</i>: 
+				“<span class="alpheios-lex-la" lang="lat">precarium est, quod precibus petenti utendum
+					conceditur tam diu, quamdiu is qui concessit patitur: quod
+					genus liberalitatis ex jure gentium descendit, et distat a
+					donatione eo, quod qui donat sic dat, ne recipiat: qui
+					precario concedit sic dat, quasi tunc recepturus, cum sibi
+					libuerit precarium solvere,</span>”
+				 <i><span class="en">Dig.
+					43, 26, 1</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>, depending on the will of another,
+				<i>doubtful</i>, <i>uncertain</i>,
+				<i>transient</i>, <i>precarious</i>: 
+				“<span class="alpheios-lex-la" lang="lat">forma,</span>”
+				 <i><span class="en">Ov. M.
+					9, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sapiens corpus suum, seque ipsum inter precaria
+					numerat,</span>”
+				<i>precarious</i>, <i>uncertain</i>, <i>transitory
+						things</i>,
+				 <i><span class="en">Sen. Tranq. 11, 1</span></i>
+			: fulgor, <i>passing quickly by</i>, <i>very transient</i>, Symm. Or. ap. Val. 1,
+			6.— Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">prĕcārĭō</span></b> , <i>by entreaty</i> or <i>request</i>
+			(class.): 
+				“<span class="alpheios-lex-la" lang="lat">hoc petere me precario a vobis jussit,</span>”
+				 <i><span class="en">Plaut. Am. prol. 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum aliquo agere precario,</span>”
+				 <i><span class="en">id.
+					Truc. 4, 1, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vel vi vel clam vel precario,</span>”
+				 <i><span class="en">Ter.
+					Eun. 2, 3, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si precario essent rogandi,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 23, § 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exegit,</span>”
+				 <i><span class="en">Suet. Claud. 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">praefuit,</span>”
+				<i>on sufferance</i>,
+				 <i><span class="en">Tac. Agr.
+					16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">precario studeo,</span>”
+				<i>am obliged</i>, <i>as it were</i>, <i>to beg time
+						for study</i>,
+				 <i><span class="en">Plin.
+					Ep. 7, 30, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">precario possidere,</span>”
+				<i>by sufferance</i>,
+				 <i><span class="en">Paul. Sent. 5, 6, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ancillam quis precario rogaverit,</span>”
+				 <i><span class="en">Dig. 43, 26, 10</span></i>
+			. </div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

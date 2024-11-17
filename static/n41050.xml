@@ -1,0 +1,805 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n41050" body-key=""><b><span class="alpheios-lex-la" lang="lat">rĕ-mitto</span></b> , mīsi, missum,
+			3, v. a. and n.
+		<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<i>Act.</i>, <i>to let go back</i>, <i>send back</i>, <i>despatch back</i>,
+				<i>drive back</i>, <i>cause to
+			return</i> (class. and very freq.; cf. reddo). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen.: <i>Al.</i> Redde mihi illam (filiam) ... Non remissura es mihi
+			illam? ... non remittes? <i>Me.</i> Non remittam!
+				<i><span class="en">Plaut. Cist. 2, 1, 29 sq.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">a legione omnes remissi sunt domum Thebis,</span>”
+				 <i><span class="en">id.
+					Ep. 2, 2, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquem domum,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 43 <i>fin.</i></span></i>
+			; <i><span class="en">4, 21</span></i>; <i><span class="en">7, 4</span></i>
+			<i>fin.</i>; <i><span class="en">id. B. C. 3, 27 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mulieres Romam,</span>”
+				 <i><span class="en">Cic.
+					Att. 7, 23, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">paucos in regnum,</span>”
+				 <i><span class="en">Caes.
+					B. C. 2, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Fabium cum legione in sua hiberna,</span>”
+				 <i><span class="en">id. B.
+					G. 5, 53</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">partem legionum in sua castra,</span>”
+				 <i><span class="en">id. B.
+					C. 3, 97</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad parentes aliquem nuntium,</span>”
+				 <i><span class="en">Plaut. Capt. 2, 3, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquem ad aliquem,</span>”
+				 <i><span class="en">id.
+					Cas. 2, 8, 1</span></i>
+			; <i><span class="en">Cic. Fam. 16, 5, 1</span></i>; <i><span class="en">Caes. B. C.
+				1, 24</span></i>; <i><span class="en">26</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">obsides alicui,</span>”
+				 <i><span class="en">id. B.
+					G. 3, 8 <i>fin.</i></span></i>
+			; Lucil. ap. <i><span class="en">Lact. 5, 14</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">is argentum huc remisit,</span>”
+				 <i><span class="en">Plaut. As. 2, 2, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">librum tibi remisi,</span>”
+				 <i><span class="en">Cic.
+					Att. 9, 9, 2</span></i>
+			: pila intercepta, <i>to cast</i> or <i>hurl back</i>, <i><span class="en">Caes. B. G.
+				2, 27</span></i>; so, 
+				“<span class="alpheios-lex-la" lang="lat">tractum de corpore telum,</span>”
+				 <i><span class="en">Ov. M.
+					5, 95</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">epistulam ad aliquem,</span>”
+				 <i><span class="en">Plaut. Truc. 2, 4, 43</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">litteras Caesari,</span>”
+				 <i><span class="en">Caes.
+					B. G. 5, 47</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">scripta ad eum mandata per eos,</span>”
+				 <i><span class="en">id. B.
+					C. 1, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">naves ad aliquem,</span>”
+				 <i><span class="en">id. B.
+					G. 5, 23</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">naves,</span>”
+				 <i><span class="en">id. B.
+					C. 1, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obsides,</span>”
+				 <i><span class="en">id. B.
+					G. 3, 8</span></i>
+			; <i><span class="en">3, 29</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nonne vides etiam, quantā vi tigna
+					trabesque Respuat umor aquae? .. Tam cupide sursum revomit
+					magis atque remittit,</span>”
+				<i>drives back</i>,
+				 <i><span class="en">Lucr.
+					2, 199</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">aquas longe (cautes),</span>”
+				 <i><span class="en">Sen. Hippol. 583</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">calces (equi),</span>”
+				i. e. <i>kick out behind</i>,
+				 <i><span class="en">Nep.
+					Eum. 5, 5</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>To send forth</i> from itself, <i>give
+				out</i>, <i>yield</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut melius muriā, quam testa marina
+					remittit,</span>”
+				<i>gives forth</i>, <i>yields</i>,
+				 <i><span class="en">Hor.
+					S. 2, 8, 53</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">muriam,</span>”
+				 <i><span class="en">Col.
+					12, 9 <i>init.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">minimum seri,</span>”
+				 <i><span class="en">id.
+					12, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">umorem (humus),</span>”
+				 <i><span class="en">id.
+					12, 15 <i>init.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aeruginem (vasa aenea),</span>”
+				 <i><span class="en">id.
+					12, 20, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec umenti sensit tellure remitti (nebulas),</span>”
+				 <i><span class="en">Ov. M.
+					1, 604</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">umorem ex se ipsa remittit,</span>”
+				 <i><span class="en">Verg.
+					G. 2, 218</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod baca remisit olivae,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 4, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sanguinem e pulmone,</span>”
+				 <i><span class="en">Ov.
+					P. 1, 3, 19</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In
+			partic. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b>
+			<i>To let go back</i>, <i>to loosen</i>,
+				<i>slacken</i>, <i>relax</i> any
+			thing strained, bound, rigid, etc. (syn. relaxo; 
+				“<span class="alpheios-lex-la" lang="lat">opp. intendo, adduco): in agro ambulanti
+					ramulum adductum, ut remissus esset, in oculum suum
+					recidisse,</span>”
+				 <i><span class="en">Cic. Div. 1, 54, 123</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">habenas vel adducere vel remittere,</span>”
+				 <i><span class="en">id.
+					Lael. 13, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">frena,</span>”
+				 <i><span class="en">Ov. M.
+					2, 191</span></i>
+			 (opp. retinere); 
+				“<span class="alpheios-lex-la" lang="lat">6, 228: lora,</span>”
+				 <i><span class="en">id.
+					ib. 2, 200</span></i>
+			; <i><span class="en">id. Am. 3, 2, 14</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">vela pennarum,</span>”
+				 <i><span class="en">Lucr.
+					6, 743</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ira contractis, hilaritas remissis
+					(superciliis) ostenditur,</span>”
+				 <i><span class="en">Quint. 11, 3, 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quattuor remissis (digitis) magis quam tensis,</span>”
+				 <i><span class="en">id.
+					11, 3, 99</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">digitis,</span>”
+				 <i><span class="en">Ov.
+					H. 19, 197</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissis,</span>”
+				 <i><span class="en">id. M.
+					4, 229</span></i>
+			: junctasque manus remisit; 
+				“<span class="alpheios-lex-la" lang="lat">vinclis remissis, etc.,</span>”
+				i. e. <i>to loose</i>,
+				 <i><span class="en">id.
+					ib. 9, 314</span></i>
+			 sq.: 
+				“<span class="alpheios-lex-la" lang="lat">digitum contrahens ac remittens,</span>”
+				 <i><span class="en">Plin.
+					11, 26, 32, § 94</span></i>
+			: bracchia, i. e. <i>to let sink</i> or <i>fall down</i>, <i><span class="en">Verg. G. 1,
+				202</span></i>: remissas manus, <i>sinking</i> or <i>failing</i>, <i><span class="en">Vulg. Heb.
+				12, 12</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">frigore mella Cogit hiems eademque calor
+					liquefacta remittit,</span>”
+				<i>dissolves again</i>, <i>melts</i>,
+				 <i><span class="en">Verg.
+					G. 4, 36</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">cum se purpureo vere remittit humus,</span>”
+				<i>opens again</i>, <i>thaws</i>,
+				 <i><span class="en">Tib.
+					3, 5, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vere remissus ager,</span>”
+				 <i><span class="en">Ov. F.
+					4, 126</span></i>
+			. — </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>To leave behind</i>, <i>produce</i>: 
+				“<span class="alpheios-lex-la" lang="lat">veluti tractata notam labemque remittunt
+					Atramenta,</span>”
+				 <i><span class="en">Hor. Ep. 2, 1, 235</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			Jurid. t. t.: remittere nuntium or repudium, <i>to send
+				a bill of divorce</i>, <i>to dissolve a
+			marriage</i> or <i>betrothal;</i> v. nuntius and
+			repudium.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen., <i>to send back</i>, <i>give back</i>, <i>return</i>, <i>restore</i>, <i>dismiss</i>, <i>remove</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">(specula) simulacra remittunt,</span>”
+				 <i><span class="en">Lucr.
+					4, 337</span></i>
+			 Lachm.: 
+				“<span class="alpheios-lex-la" lang="lat">vocem late nemora alta remittunt,</span>”
+				 <i><span class="en">Verg.
+					A. 12, 929</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">totidemque remisit Verba locus,</span>”
+				 <i><span class="en">Ov. M.
+					3, 500</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">chorda sonum ... remittit acutum (with
+					reddere),</span>”
+				 <i><span class="en">Hor. A.
+					P. 349</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vos me imperatoris nomine appellavistis: cujus
+					si vos paenitet, vestrum vobis beneficium remitto, mihi meum
+					restituite nomen,</span>”
+				 <i><span class="en">Caes.
+					B. C. 2, 32 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quin etiam ipsis (imperium) remittere,</span>”
+				 <i><span class="en">id. B.
+					G. 7, 20</span></i>
+			: integram causam  ad senatum remittit, <i>refers</i>, <i><span class="en">Tac. A. 3, 10</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">a quibus appellatum erit, si forte ad eosdem
+					remittemur,</span>”
+				 <i><span class="en">Quint. 11, 1, 76</span></i>
+			; <i><span class="en">12, 10,
+			21</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">veniam,</span>”
+				<i>to return</i>, <i>repay</i>,
+				 <i><span class="en">Verg.
+					A. 4, 436</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae nisi respuis ex animo longeque remittis,</span>”
+				 <i><span class="en">Lucr.
+					6, 68</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">opinionem animo,</span>”
+				<i>to dismiss</i>, <i>reject</i>, <i>cast off</i>,
+				 <i><span class="en">Cic.
+					Clu. 2, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si quid ab omnibus conceditur, id reddo ac
+					remitto,</span>”
+				<i>resign it</i>,
+				 <i><span class="en">id.
+					Sull. 30, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">utramque provinciam remitto, exercitum depono,</span>”
+				 <i><span class="en">id.
+					Phil. 8, 8, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Galliam togatam,</span>”
+				 <i><span class="en">id. ib. 8, 9, 27</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In
+			partic. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> (Acc. to I A.
+			2. a.) <i>To slacken</i>, <i>relax</i>,
+				<i>relieve</i>, <i>release</i>, <i>abate</i>, <i>remit</i> (freq. and
+			class.): 
+				“<span class="alpheios-lex-la" lang="lat">omnes sonorum tum intendens tum remittens
+					persequetur gradus,</span>”
+				 <i><span class="en">Cic.
+					Or. 18, 59</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">(sonorum vis) tum remittit animos, tum
+					contrahit,</span>”
+				 <i><span class="en">id.
+					Leg. 2, 15, 38</span></i>
+			: quaero enim non quibus intendam rebus animum, sed quibus
+			relaxem ac remittam, <i>relieve</i>, <i>recreate</i>, <i>refresh</i>, id. Fragm. ap.
+					<i><span class="en">Non. 383, 23</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut requiescerem curamque animi remitterem,</span>”
+				 <i><span class="en">id. Verr. 2, 4, 61, § 137</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animum per dies festos licentius,</span>”
+				 <i><span class="en">Liv.
+					27, 31</span></i>
+			; and in a like sense with <i>se</i>, <i><span class="en">Nep.
+				Alcib. 1 <i>fin.</i></span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">and mid.: mirum est, ut opusculis animus
+					intendatur remittaturque,</span>”
+				 <i><span class="en">Plin.
+					Ep. 7, 9, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animos a contentione pugnae,</span>”
+				 <i><span class="en">Liv. 5,
+					41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animos a certamine,</span>”
+				 <i><span class="en">id. 9,
+					12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animos a religione,</span>”
+				 <i><span class="en">id. 5,
+					25</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nihil apud milites remittitur a summo
+					certamine,</span>”
+				 <i><span class="en">id.
+					6, 24, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">superioris temporis contentionem,</span>”
+				 <i><span class="en">Caes.
+					B. C. 2, 14 <i>fin.</i></span></i>
+			; cf. <i><span class="en">Cic. Brut. 55, 202</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">diligentiam in perdiscendo ac memoriam,</span>”
+				 <i><span class="en">Caes.
+					B. G. 6, 14</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">curam et diligentiam remittunt,</span>”
+				 <i><span class="en">id. B.
+					C. 2, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">summum illud suum studium remisit,</span>”
+				 <i><span class="en">Cic.
+					Brut. 93, 320</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ea studia remissa temporibus revocavi,</span>”
+				 <i><span class="en">id.
+					Tusc. 1, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">belli opera,</span>”
+				 <i><span class="en">Liv.
+					30, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">bellum,</span>”
+				 <i><span class="en">id.
+					30, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pugnam,</span>”
+				 <i><span class="en">Sall. J. 60, 3 al.</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">urguent tamen et nihil remittunt,</span>”
+				 <i><span class="en">Cic.
+					Fin. 4, 28, 77</span></i>
+			: equites petere ut sibi laxaret aliquid laboris; 
+				“<span class="alpheios-lex-la" lang="lat">quibus ille, ne nihil remissum dicatis,
+					remitto, etc.,</span>”
+				 <i><span class="en">Liv. 9,
+					16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cottidie aliquid iracundiae remittebat,</span>”
+				 <i><span class="en">Cic.
+					Phil. 8, 6, 19</span></i>
+			; cf. <i><span class="en">id. Att. 10, 4, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid de suo,</span>”
+				 <i><span class="en">id.
+					Rab. Post. 11, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">horam de meis legitimis horis,</span>”
+				 <i><span class="en">id. Verr. 2, 1, 9, § 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid de severitate cogendi,</span>”
+				 <i><span class="en">id.
+					Phil. 1, 5, 12</span></i>
+			; <i><span class="en">13, 17, 36</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nihil de saevitiā,</span>”
+				 <i><span class="en">Tac.
+					A. 6, 25 al.</span></i>
+			; cf. <i><span class="en">Caes. B. C. 3, 17</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ex eo, quod ipse potest in dicendo, aliquantum
+					remittet,</span>”
+				 <i><span class="en">Cic.
+					Div. in Caecil. 15, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid ex pristinā virtute,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid ex curā verborum,</span>”
+				 <i><span class="en">Quint. 10, 7, 22</span></i>
+			; <i><span class="en">7, 1,
+			22</span></i>.—With ellipsis of <i>aliquid</i>,
+			etc.: 
+				“<span class="alpheios-lex-la" lang="lat">illum viris fortissimis remittere de
+					summā non potuisse, te mulieri deterrimae recte
+					remississe, etc.,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 35, § 82</span></i>
+			; <i><span class="en">Liv. 4, 43, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">de voluntate nihil,</span>”
+				 <i><span class="en">Cic.
+					Brut. 5, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil e solito luxu,</span>”
+				 <i><span class="en">Tac. H.
+					3, 55</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil ex arrogantiā,</span>”
+				 <i><span class="en">id.
+					Agr. 27 al.</span></i>
+			— <i>Impers.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tum aequo animo remittendum de celeritate
+					existumabat,</span>”
+				 <i><span class="en">Caes.
+					B. G. 5, 49</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			With <i>inf.</i>, <i>to cease</i>, <i>leave off</i>, <i>omit</i> to do any
+			thing (rare; 
+				“<span class="alpheios-lex-la" lang="lat">not in Cic. or Cæs.): si cogites,
+					remittas jam me onerare injuriis,</span>”
+				 <i><span class="en">Ter.
+					And. 5, 1, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque remittit quid ubique hostis ageret
+					explorare,</span>”
+				 <i><span class="en">Sall. J. 52, 5</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quid bellicosus Cantaber cogitet, remittas
+					Quaerere,</span>”
+				 <i><span class="en">Hor.
+					C. 2, 11, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			With <i>se</i>, or mid., <i>to
+			relax</i>, <i>abate</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ubi dolor et inflammatio se remiserunt,</span>”
+				 <i><span class="en">Cels.
+					4, 24 <i>fin.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">cum se furor ille remisit,</span>”
+				 <i><span class="en">Ov. H.
+					4, 51</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae (febres) certum habent circuitum et ex
+					toto remittuntur,</span>”
+				 <i><span class="en">Cels.
+					3, 12</span></i>
+			; cf. under II.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(d).</b> Mid., <i>to recreate one</i>'<i>s self</i>: 
+				“<span class="alpheios-lex-la" lang="lat">eundem, cum scripsi, eundem etiam cum remittor,
+					lego,</span>”
+				 <i><span class="en">Plin.
+					Ep. 1, 16, 7</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">fas est et carmine remitti,</span>”
+				 <i><span class="en">id. ib. 7, 9, 9</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">supra: animus remittatur,</span>”
+				 <i><span class="en">id. ib. 7, 9, 13</span></i>
+			.—(<span class="alpheios-lex-greek" lang="grc">ε</span>) <i>To give free course to</i> (opp. continere): 
+				“<span class="alpheios-lex-la" lang="lat">animi appetitus, qui tum remitterentur, tum
+					continerentur,</span>”
+				 <i><span class="en">Cic.
+					N. D. 2, 12, 34</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			With respect to a person, <i>to free</i> one <i>from</i> any thing; <i>to give
+			up</i>, <i>grant</i>, <i>forgive</i>,
+				<i>yield</i>, <i>resign</i>, <i>concede</i>, <i>surrender</i>, <i>sacrifice</i> a thing to any one (= concedere,
+			condonare); with <i>acc. of the offence</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Tranioni remitte quaeso hanc noxiam
+					causā meā,</span>”
+				 <i><span class="en">Plaut. Most. 5, 2, 47</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">injuriam,</span>”
+				 <i><span class="en">Sall. H. 3, 61, 2</span></i>
+			 Dietsch: 
+				“<span class="alpheios-lex-la" lang="lat">quare tum cito senex ille remisit injuriam?</span>”
+				 <i><span class="en">Sen. Contr. 2, 11, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut ex animo tibi volens omne delictum remittam,</span>”
+				 <i><span class="en">App. M. 3, p. 137, 29</span></i>
+			; so freq. in late Lat., <i>to remit</i>, <i>forgive</i> a sin or offence: 
+				“<span class="alpheios-lex-la" lang="lat">peccata,</span>”
+				 <i><span class="en">Vulg.
+					Matt. 9, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">blasphemia,</span>”
+				 <i><span class="en">id. ib. 12, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cogitationem,</span>”
+				 <i><span class="en">id.
+					Act. 8, 22</span></i>
+			. — Freq. with <i>acc. of the
+			penalty</i>: 
+				“<span class="alpheios-lex-la" lang="lat">multam,</span>”
+				 <i><span class="en">Cic.
+					Phil. 11, 8, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">poenam alicui,</span>”
+				 <i><span class="en">Liv.
+					40, 10, 9</span></i>
+			: ipso remittente Verginio ultimam  poenam,
+				<i><span class="en">id.
+				3, 59, 10</span></i>; <i><span class="en">8,
+				35, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">omnia tibi ista concedam et remittam,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 9, § 22</span></i>
+			; cf. <i><span class="en">id. Ac. 2, 33, 106</span></i>; and: 
+				“<span class="alpheios-lex-la" lang="lat">alicui remittere atque concedere, ut, etc.,</span>”
+				 <i><span class="en">id.
+					Planc. 30, 73</span></i>
+			: meam animadversionem et suppli cium ... remitto tibi et
+			condono, Vatin. ap. <i><span class="en">Cic. Fam. 5, 10, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod natura remittit, Invida jura negant,</span>”
+				 <i><span class="en">Ov.
+					M. 10, 330</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si per populum Romanum stipendium remittatur,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pecunias, quas erant in publicum Varroni cives
+					Romani polliciti, remittit,</span>”
+				 <i><span class="en">id. B.
+					C. 2, 21</span></i>
+			; cf. <i><span class="en">Liv. 42, 53</span></i>: aedes (venditas) alicui,
+				<i>to give up</i>, <i>resign</i> a
+			purchase, <i><span class="en">Plaut. Most. 3, 2, 111</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tempus vobis,</span>”
+				 <i><span class="en">Cic. Verr. 2, 1, 11, § 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut patria tantum nobis in nostrum privatum
+					usum, quantum ipsi superesse posset, remitteret,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 4, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">navem imperare debuisti ex foedere: remisisti
+					in triennium: militem nullum umquam poposcisti per tot
+					annos,</span>”
+				 <i><span class="en">id. Verr. 2, 4, 9, § 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tibi remittunt omnes istam voluptatem et
+					eā se carere patiuntur,</span>”
+				<i>resign that pleasure to you</i>,
+				 <i><span class="en">id.
+					de Or. 1, 58, 246</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut memoriam simultatium patriae remitteret,</span>”
+				<i>sacrifice to his country</i>,
+				 <i><span class="en">Liv. 9,
+					38</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">privata odia publicis utilitatibus remittere,</span>”
+				 <i><span class="en">Tac. A.
+					1, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut sibi poenam magistri equitum remitteret
+					(dictator),</span>”
+				<i>that he would remit for their sake</i>,
+				 <i><span class="en">Liv. 8,
+					35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dictator consulibus in senatu magnifice
+					conlaudatis et suarum quoque rerum illis remisso honore,
+					dictaturā se abdicavit,</span>”
+				<i>having been resigned in their favor</i>,
+				 <i><span class="en">id. 7,
+					11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jus ipsi remittent,</span>”
+				<i>will abandon their claim</i>,
+				 <i><span class="en">id.
+					6, 18, 7</span></i>
+			.— <b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">remittentibus tribunis plebis comitia per
+					interregem sunt habita,</span>”
+				<i>withdrawing their opposition</i>,
+				 <i><span class="en">Liv.
+					6, 36, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">de tributo remiserunt,</span>”
+				 <i><span class="en">id.
+					5, 12, 13</span></i>
+			; cf. <i><span class="en">Tac. A. 1, 8</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si hoc ipsi remitti vellent, remitterent ipsi
+					de maritumis custodiis,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 17</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			<b>Poet.</b>, with <i>inf.</i>, <i>to allow</i>, <i>permit</i>: 
+				“<span class="alpheios-lex-la" lang="lat">sed mora damnosa est nec res dubitare remittit,</span>”
+				 <i><span class="en">Ov.
+					M. 11, 376</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">(Fides) occulte saevire vetat, prodesse
+					remittit,</span>”
+				 <i><span class="en">Claud. Laud. Stil. 2, 37</span></i>
+			. — </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<i>Neutr.</i>, <i>to decrease</i>, <i>abate</i> (very rare, but class.): 
+				“<span class="alpheios-lex-la" lang="lat">si forte ventus remisisset,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">imbres,</span>”
+				 <i><span class="en">Liv.
+					40, 33, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pestilentia,</span>”
+				 <i><span class="en">id.
+					2, 34, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum remiserant dolores pedum,</span>”
+				 <i><span class="en">Cic.
+					Brut. 34, 130</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">si remittent quippiam Philumenae dolores,</span>”
+				 <i><span class="en">Ter.
+					Hec. 3, 2, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tumor remittens,</span>”
+				 <i><span class="en">Cels.
+					7, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vapor calidus primo non remittit propter
+					levitatem,</span>”
+				<i>does not sink</i>,
+				 <i><span class="en">Vitr. 8,
+					2</span></i>
+			.— Hence, <b><span class="alpheios-lex-la" lang="lat">rĕmissus</span></b> , a, um, P.
+			a. (acc. to I. A. 2. a.), <i>slack</i>, <i>loose</i>, <i>relaxed</i>, <i>languid</i> (opp. contentus, contendere): 
+				“<span class="alpheios-lex-la" lang="lat">membra,</span>”
+				 <i><span class="en">Lucr.
+					5, 852</span></i>
+			. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">ut onera contentis corporibus facilius
+					feruntur, remissis opprimunt,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 2, 23, 54</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">vox, ut nervi, quo remissior, hoc gravior et
+					plenior,</span>”
+				 <i><span class="en">Quint. 11, 3, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ridens Venus et remisso Filius arcu,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 27, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ammoniacum,</span>”
+				i. e. <i>liquid</i>,
+				 <i><span class="en">Pall. 1, 41, 2</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">adeps,</span>”
+				 <i><span class="en">Veg. 1, 11, 4</span></i>
+			. — </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, <i>relaxed</i>, <i>not rigid</i>, <i>strict</i>, or <i>hard</i>, both in a good and bad sense.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>Mild</i>, <i>gentle</i>, <i>soft</i>, <i>indulgent</i>, <i>cheerful</i>, <i>good-humored</i>,
+				<i>gay</i>, etc. (syn.: 
+				“<span class="alpheios-lex-la" lang="lat">lenis, mitis, dulcis): remissior ventus,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissiora frigora,</span>”
+				 <i><span class="en">id. B.
+					G. 5, 12 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cantūs remissiores,</span>”
+				 <i><span class="en">Cic. de Or. 1, 60, 254</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tum intentis tum remissis modis,</span>”
+				 <i><span class="en">Quint. 11, 3, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si me non improbissime Dolabella tractasset,
+					dubitassem fortasse, utrum remissior essem, an summo jure
+					contenderem,</span>”
+				 <i><span class="en">Cic.
+					Att. 16, 15, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in eo sermone non remissi sumus,</span>”
+				 <i><span class="en">id.
+					Fin. 3, 1, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissus et subridens,</span>”
+				 <i><span class="en">Tac. Or. 11 <i>init.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nisi magistratus valde lenes et remissi sint,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 43, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in ulciscendo remissior,</span>”
+				 <i><span class="en">id. Red. ad Quir. 7, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animus (with lenis),</span>”
+				 <i><span class="en">id.
+					de Or. 2, 46, 193</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">remississimo ad otium et ad omnem comitatem
+					animo,</span>”
+				i. e. <i>most prone</i>,
+				 <i><span class="en">Suet. Aug. 98</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissus et mitis,</span>”
+				 <i><span class="en">Plin.
+					Ep. 3, 14, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum tristibus severe, cum remissis jucunde
+					vivere,</span>”
+				 <i><span class="en">Cic.
+					Cael. 6, 13</span></i>
+			; cf. <i><span class="en">Suet. Galb. 14</span></i>; <i><span class="en">id.
+				Claud. 21</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">decorus est sermo senis quietus et remissus,</span>”
+				 <i><span class="en">Cic.
+					Sen. 9, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissius genus dicendi,</span>”
+				 <i><span class="en">id.
+					Sest. 54, 115</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amicitia remissior esse debet et liberior et
+					dulcior,</span>”
+				 <i><span class="en">id.
+					Lael. 18, 66</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">affectus,</span>”
+				 <i><span class="en">Quint. 10, 1, 73</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">egressiones dulces et remissae,</span>”
+				 <i><span class="en">id.
+					11, 3, 164</span></i>
+			: joci, <i>gay</i>, <i>merry</i>
+			(opp. curae graves), <i><span class="en">Ov. M. 3, 319</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">remissiores hilarioresque sermones,</span>”
+				 <i><span class="en">Suet. Tib. 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">opus,</span>”
+				 <i><span class="en">Ov.
+					Tr. 2, 547</span></i>
+			. — </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Slack</i>, <i>negligent</i>, <i>remiss</i> (syn. languidus): 
+				“<span class="alpheios-lex-la" lang="lat">esse remisso ac languido animo,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 21</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nostris languentibus atque animo remissis,</span>”
+				 <i><span class="en">id. ib. 2, 14</span></i>
+			: dolus Numidarum
+			 nihil languidi neque remissi patiebatur, i. e. <i>no negligence</i>, <i><span class="en">Sall. J.
+				53, 6</span></i>; <i><span class="en">88,
+			2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">in labore,</span>”
+				 <i><span class="en">Nep. Iphic. 3, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oderunt agilem gnavumque remissi,</span>”
+				 <i><span class="en">Hor. Ep. 1, 18, 90</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">remissior in petendo,</span>”
+				 <i><span class="en">Cic.
+					Mur. 26, 52</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vita remissior,</span>”
+				 <i><span class="en">Suet. Tib. 52</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>Lower</i>, <i>cheaper</i>: 
+				“<span class="alpheios-lex-la" lang="lat">remissior aliquanto ejus fuit aestimatio quam
+					annona,</span>”
+				<i>below the market price</i>,
+				 <i><span class="en">Cic. Verr. 2, 3, 92, § 214</span></i>
+			. — Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">rĕ-missē</span></b> 
+			(acc. to B. 1.), <i>gently</i>, <i>mildly</i> (with leniter, urbane; 
+				“<span class="alpheios-lex-la" lang="lat">opp. severe, graviter, vehementer, etc.),</span>”
+				 <i><span class="en">Cic. de Or. 3, 26, 102</span></i>
+			; <i><span class="en">id. Cael. 14, 33</span></i>; <i><span class="en">Col. 1, 8,
+				10</span></i>; <i><span class="en">Quint. 10, 2, 23</span></i>; <i><span class="en">12, 10, 71</span></i>; <i><span class="en">Suet.
+				Claud. 30</span></i>.—<i>Comp.</i>, <i><span class="en">Cic. de
+				Or. 1, 60, 255</span></i>; <i><span class="en">id. Verr. 2, 4, 34, § 76</span></i>;
+				<i><span class="en">Quint. 9, 2, 91</span></i>.—<i>Sup.</i> is not found.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

@@ -1,0 +1,471 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n6007" body-key=""><b><span class="alpheios-lex-la" lang="lat">caecus</span></b>  (not <b><span class="alpheios-lex-la" lang="lat">coecus</span></b> ; sometimes in MSS. <b><span class="alpheios-lex-la" lang="lat">cēcus</span></b> ), a, um, adj.
+		akin to <span class="alpheios-lex-greek" lang="grc">σκιά, σκότος</span>; Sanscr.
+			khāyā, shadow, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>having no light</i>, <i>devoid of light.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<i>Act.</i>, <i>not seeing</i>, <i>blind.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">Appius, qui caecus annos multos fuit,</span>”
+				 <i><span class="en">Cic. Tusc. 5, 38, 112</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">traditum est enim Homerum caecum fuisse,</span>”
+				 <i><span class="en">id. ib. 5, 39, 114</span></i>
+			; <i><span class="en">Lucr. 5, 839</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">catuli, qui jam dispecturi sunt, caeci aeque et
+					hi qui modo nati,</span>”
+				 <i><span class="en">Cic.
+					Fin. 4, 23, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si facie miserabili senis, caeci, infantis,</span>”
+				 <i><span class="en">Quint. 4, 1, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecum corpus,</span>”
+				<i>the blind part of the body</i>, <i>the back</i>,
+				 <i><span class="en">Sall. J. 107, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">perdices caecae impetu,</span>”
+				 <i><span class="en">Plin.
+					10, 33, 51, § 102</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gigni,</span>”
+				 <i><span class="en">Vell.
+					1, 5, 2</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Prov.: 
+				“<span class="alpheios-lex-la" lang="lat">ut si Caecus iter monstrare velit,</span>”
+				 <i><span class="en">Hor. Ep. 1, 17, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">apparet id quidem etiam caeco,</span>”
+				<i>even a blind man can see that</i>,
+				 <i><span class="en">Liv.
+					32, 34, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecis hoc, ut aiunt, satis clarum est,</span>”
+				 <i><span class="en">Quint. 12, 7, 9</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, <i>mentally</i> or <i>morally blind</i>, <i>blinded</i>
+			(freq. in prose and poetry): 
+				“<span class="alpheios-lex-la" lang="lat">o pectora caeca!</span>”
+				 <i><span class="en">Lucr.
+					2, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non solum ipsa Fortuna caeca est, sed eos etiam
+					plerumque efficit caecos, quos complexa est,</span>”
+				 <i><span class="en">Cic.
+					Lael. 15, 54</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">casus,</span>”
+				 <i><span class="en">id.
+					Div. 2, 6, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecus atque amens tribunus,</span>”
+				 <i><span class="en">id.
+					Sest. 7, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecum me et praecipitem ferri,</span>”
+				 <i><span class="en">id.
+					Planc. 3, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mater caeca crudelitate et scelere,</span>”
+				 <i><span class="en">id.
+					Clu. 70, 199</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cupidine,</span>”
+				 <i><span class="en">Sall. J. 25, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amentiā,</span>”
+				 <i><span class="en">Cic.
+					Har. Resp. 23, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quem mala stultitia Caecum agit,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 3, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amatorem amicae Turpia decipiunt caecum vitia,</span>”
+				 <i><span class="en">id. ib. 1, 3, 39</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mens,</span>”
+				 <i><span class="en">Tac. Agr.
+					43</span></i>
+			.—With <i>ad</i>: 
+				“<span class="alpheios-lex-la" lang="lat">caecus ad has belli artes,</span>”
+				 <i><span class="en">Liv.
+					21, 54, 3</span></i>
+			.—With <i>gen.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">caecus animi,</span>”
+				 <i><span class="en">Quint. 1, 10, 29</span></i>
+			; <i><span class="en">Gell. 12, 13, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">fati futuri,</span>”
+				<i>ignorant of</i>,
+				 <i><span class="en">Luc. 2,
+					14</span></i>
+			; cf. <i><span class="en">Claud. Rapt. Pros. 1,
+				138</span></i>.—<i>Subst.</i>: <b><span class="alpheios-lex-la" lang="lat">Caeci</span></b> ,
+			ōrum, m., <i>the
+				blind people</i>, i.e. <i>the people of
+			Chalcedon</i>, according to the oracle at Delphi. <i><span class="en">Tac. A. 12,
+				63</span></i>; cf. <i><span class="en">Plin. 5, 32, 43, § 149</span></i>.
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<b>Meton.</b> of the passions themselves: 
+				“<span class="alpheios-lex-la" lang="lat">caeca honorum cupido,</span>”
+				 <i><span class="en">Lucr.
+					3, 59</span></i>
+			; <i><span class="en">Ov. M. 3, 620</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ac temeraria dominatrix animi cupiditas,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 2, 2</span></i>
+			; <i><span class="en">id. Pis. 24, 57</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">exspectatio,</span>”
+				 <i><span class="en">id.
+					Agr. 2, 25, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amor,</span>”
+				 <i><span class="en">Ov. F.
+					2, 762</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amor sui,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 18, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">festinatio,</span>”
+				 <i><span class="en">Liv. 22, 39, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">furor,</span>”
+				 <i><span class="en">Hor.
+					Epod. 7, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caeca et sopita socordia,</span>”
+				 <i><span class="en">Quint.
+					1, 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ambitio,</span>”
+				 <i><span class="en">Sen. Ben. 7, 26, 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			Pregn., <i>blind</i>, i.e. <i>at
+			random</i>, <i>vague</i>, <i>indiscriminate</i>, <i>aimless</i>: 
+				“<span class="alpheios-lex-la" lang="lat">in hac calumniā timoris et caecae
+					suspitionis tormento,</span>”
+				 <i><span class="en">Cic.
+					Fam. 6, 7, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caeco quodam timore... quaerebant aliquem
+					ducem,</span>”
+				 <i><span class="en">id. Lig.
+					1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecique in nubibus ignes Terrificant animos,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 209</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caeca regens filo vestigia,</span>”
+				 <i><span class="en">id. ib. 6, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne sint caecae, pater, exsecrationes tuae,</span>”
+				 <i><span class="en">Liv.
+					40, 10, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et caeco flentque paventque metu,</span>”
+				 <i><span class="en">Ov. F.
+					2, 822</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lymphatis caeco pavore animis,</span>”
+				 <i><span class="en">Tac. H.
+					1, 82</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cervus... Caeco timore proximam villam petit,</span>”
+				 <i><span class="en">Phaedr. 2, 8, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">timor,</span>”
+				 <i><span class="en">Ov.
+					Am. 1, 4, 42</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Of plants, <i>without buds</i> or <i>eyes</i>: 
+				“<span class="alpheios-lex-la" lang="lat">rami,</span>”
+				 <i><span class="en">Plin.
+					16, 30, 54, § 125</span></i>
+			; cf. caeco and oculus. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of the large intestine: 
+				“<span class="alpheios-lex-la" lang="lat">intestinum,</span>”
+				<i>the cœcum</i>,
+				 <i><span class="en">Cels.
+					4, 1, 28</span></i>
+			; <i><span class="en">4, 14,
+			1</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<i>Pass.</i>, <i>that cannot be
+			seen</i>, or trop., <i>that cannot be known</i>, <i>invisible</i>, <i>concealed</i>, <i>hidden</i>, <i>secret</i>, <i>obscure</i>, <i>dark.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: sunt igitur venti 
+			nimirum corpora caeca, <i>winds are accordingly
+			bodies</i>, <i>although invisible</i>, <i><span class="en">Lucr. 1,
+			278</span></i>; <i><span class="en">1, 296</span></i>;
+				<i><span class="en">1, 329</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">2, 713: vallum caecum,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 28</span></i>
+			; cf.: caecum vallum dicitur, in quo praeacuti pali terrae
+			affixi herbis vel frondibus occuluntur, Paul. ex <i><span class="en">Fest. p.
+				44</span></i> Müll.; so, 
+				“<span class="alpheios-lex-la" lang="lat">fossae,</span>”
+				<i>covered</i>,
+				 <i><span class="en">Col.
+					2, 2, 9</span></i>
+			; <i><span class="en">Pall. Mai, 3</span></i>. 1: 
+				“<span class="alpheios-lex-la" lang="lat">in vada caeca ferre,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 536</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fores,</span>”
+				<i>private</i>,
+				 <i><span class="en">id. ib. 2, 453</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">spiramenta,</span>”
+				 <i><span class="en">id. G.
+					1, 89</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">colubri,</span>”
+				 <i><span class="en">Col.
+					10, 231</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ignis,</span>”
+				 <i><span class="en">Lucr.
+					4, 929</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">venenum,</span>”
+				 <i><span class="en">id. 6,
+					822</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tabes,</span>”
+				 <i><span class="en">Ov. M.
+					9, 174</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">viae,</span>”
+				<i>blind ways</i>,
+				 <i><span class="en">Tib.
+					2, 1, 78</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">insidiae armaque,</span>”
+				 <i><span class="en">Ov. F 2, 214</span></i>
+			; cf. <i><span class="en">Sil. 5, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">saxa,</span>”
+				 <i><span class="en">Verg.
+					A. 3, 706</span></i>
+			; <i><span class="en">5, 164</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">vulnus,</span>”
+				<i>a secret wound</i>,
+				 <i><span class="en">Lucr.
+					4, 1116</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">but also,</span>”
+				<i>a wound upon the back</i>,
+				 <i><span class="en">Verg.
+					A. 10, 733</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">in the same sense, ictus,</span>”
+				 <i><span class="en">Liv. 34, 14, 11</span></i>
+			; <i><span class="en">Sil. 9, 105</span></i> (cf.: caecum corpus, <i>the back</i>, I. A. supra): 
+				“<span class="alpheios-lex-la" lang="lat">caeca manus, i.e. abscondita,</span>”
+				 <i><span class="en">Ov.
+					M. 12, 492</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caecum domūs scelus,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 356</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">caecas exponere causas,</span>”
+				 <i><span class="en">Lucr.
+					3, 317</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">improba navigii ratio, tum caeca jacebat,</span>”
+				<i>lay still concealed</i>,
+				 <i><span class="en">id.
+					5, 1004</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">venti potestas,</span>”
+				 <i><span class="en">id. 3,
+					248</span></i>
+			; <i><span class="en">3, 270</span></i>:
+			fluctus, Sisenn. ap. <i><span class="en">Non. p. 449, 10</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">caeca et clandestina natura,</span>”
+				 <i><span class="en">Lucr.
+					1, 779</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">res caecae et ab aspectūs judicio
+					remotae,</span>”
+				 <i><span class="en">Cic. de Or. 2, 87, 357</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obscurum atque caecum,</span>”
+				 <i><span class="en">id.
+					Agr. 2, 14, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fata,</span>”
+				 <i><span class="en">Hor.
+					C. 2, 13, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sors,</span>”
+				 <i><span class="en">id.
+					S. 2, 3, 269</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tumultus,</span>”
+				<i>secret conspiracies</i>,
+				 <i><span class="en">Verg.
+					G. 1, 464</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amor,</span>”
+				 <i><span class="en">id. ib. 3, 210</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">stimulos in pectore caecos Condidit,</span>”
+				 <i><span class="en">Ov. M.
+					1, 726</span></i>
+			. In Plaut. once, prob. taken from the vulgar lang.:
+			caecā die emere, <i>upon a concealed</i>
+				(<i>pay-</i>) <i>day</i>, i.e. <i>to purchase on credit</i> (opp. oculata dies, i.e.
+			for ready money): <i>Ca.</i> Pereo inopiā
+			argentariā. <i>Ba.</i> Emito die
+			caecā hercle olivom, id vendito oculatā die,
+				<i><span class="en">Plaut. Ps. 1, 3,
+			67</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			By <b>poet.</b> license, transf. to the hearing: 
+				“<span class="alpheios-lex-la" lang="lat">murmur,</span>”
+				 <i><span class="en">Verg.
+					A. 12, 591</span></i>
+			 (as we, by a similar meton., say <i>a hollow
+				sound;</i> cf. on the other hand, in Gr. <span class="alpheios-lex-greek" lang="grc">τυφλὸς τὰ ὦτα</span>); so, 
+				“<span class="alpheios-lex-la" lang="lat">clamor,</span>”
+				 <i><span class="en">Val.
+					Fl. 2, 461</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mugitusterrae,</span>”
+				 <i><span class="en">Sen. Troad. 171</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>III.</b>
+			<i>Neutr.</i>, <i>that obstructs the
+				sight</i>, or trop., <i>the perception; dark</i>,
+				<i>gloomy</i>, <i>thick</i>, <i>dense</i>, <i>obscure.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">nox,</span>”
+				 <i><span class="en">Cic.
+					Mil. 19, 50</span></i>
+			; <i><span class="en">Lucr. 1, 1108</span></i>; <i><span class="en">Cat. 68,
+			44</span></i>; <i><span class="en">Ov. M. 10, 476</span></i>; <i><span class="en">11, 521</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">caligo,</span>”
+				 <i><span class="en">Lucr.
+					3, 305</span></i>
+			; <i><span class="en">4, 457</span></i>;
+				<i><span class="en">Cat.
+				64, 908</span></i>; <i><span class="en">Verg. A. 3, 203</span></i>; <i><span class="en">8,
+			253</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tenebrae,</span>”
+				 <i><span class="en">Lucr.
+					2, 54</span></i>
+			; <i><span class="en">2, 746</span></i>;
+				<i><span class="en">2, 798</span></i>; 3, 87;
+			6, 35; 
+				“<span class="alpheios-lex-la" lang="lat">3, 87: silentia, i.e. nox,</span>”
+				 <i><span class="en">Sil.
+					7, 350</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">latebrae,</span>”
+				 <i><span class="en">Lucr.
+					1, 409</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">iter,</span>”
+				 <i><span class="en">Ov.
+					M. 10, 456</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">loca,</span>”
+				 <i><span class="en">Prop.
+					1, 19, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cavernae,</span>”
+				 <i><span class="en">Ov.
+					M. 15, 299</span></i>
+			; <i><span class="en">Sil. 7, 372</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">latus,</span>”
+				 <i><span class="en">Verg.
+					A. 2, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cubiculum si fenestram non habet, dicitur
+					caecum,</span>”
+				 <i><span class="en">Varr. L. L. 9, § 58</span></i>
+			 Müll.; so, 
+				“<span class="alpheios-lex-la" lang="lat">domus,</span>”
+				<i>without windows</i>,
+				 <i><span class="en">Cic.
+					Or. 67, 224</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">parietes,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 589</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pulvis,</span>”
+				 <i><span class="en">id. ib. 12, 444</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">carcer,</span>”
+				 <i><span class="en">id. ib. 6, 734</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sardonyches,</span>”
+				<i>not transparent</i>, <i>opaque</i>,
+				 <i><span class="en">Plin.
+					37, 6, 23, § 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">smaragdi,</span>”
+				 <i><span class="en">id.
+					37, 5, 18, § 68</span></i>
+			: acervus (of chaos), <i>chaotic</i>, <i>confused</i>, Ov M. 1, 24; <i><span class="en">Col. 4, 32,
+				4</span></i>' chaos, <i><span class="en">Sen. Med. 741</span></i>, <i><span class="en">Sil. 11,
+				456</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, <i>uncertain</i>, <i>doubtful</i>: obscurā spe et
+			caecā exspectatione pendere, i.e. <i>of an
+				uncertain consequence</i> or <i>result</i>, <i><span class="en">Cic. Agr.
+				2, 25, 66</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod temere fit caeco casu,</span>”
+				 <i><span class="en">id.
+					Div. 2, 6, 15</span></i>
+			. cursus (Fortunae), <i><span class="en">Luc. 2, 567</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">eventus,</span>”
+				 <i><span class="en">Verg.
+					A. 6, 157</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caeci morbi, quorum causas ne medici quidem
+					perspicere queunt,</span>”
+				 <i><span class="en">Col.
+					1, 5, 6</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">dolores,</span>”
+				 <i><span class="en">Plin.
+					29, 2, 10, § 38</span></i>
+			; <i><span class="en">29, 3, 13,
+				§ 55</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">crimen,</span>”
+				<i>that cannot be proved</i>,
+				 <i><span class="en">Liv. 45, 31, 11</span></i>
+			.— <i>Subst.</i>: <b><span class="alpheios-lex-la" lang="lat">caecum</span></b> , i, n., <i>uncertainty</i>, <i>obscurity</i>
+				(<b>poet.</b>): 
+				“<span class="alpheios-lex-la" lang="lat">verum in caeco esse,</span>”
+				 <i><span class="en">Manil. 4, 304</span></i>
+			.—* <i>Comp.</i>, <i><span class="en">Hor. S. 1,
+				2, 91</span></i>.—<i>Sup.</i> and
+			adv. not in. use.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

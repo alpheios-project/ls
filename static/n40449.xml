@@ -1,0 +1,1081 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n40449" body-key=""><b><span class="alpheios-lex-la" lang="lat">rătĭo</span></b> ,
+		ōnis (abl. rationi, <i><span class="en">Lucr. 6,
+		66</span></i>), f.
+		reor, ratus, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>a reckoning</i>, <i>account</i>, <i>calculation</i>, <i>computation.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b>
+			<i>Sing.: Les.</i> Nequaquam argenti ratio conparet
+			tamen. <i>Sta.</i> Ratio quidem hercle adparet:
+			argentum <span class="alpheios-lex-greek" lang="grc">οἴχεται,</span>
+			<i><span class="en">Plaut.
+				Trin. 2, 4, 15 sq.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">rationem putare ... bene ratio accepti atque
+					expensi inter nos convenit,</span>”
+				 <i><span class="en">id.
+					Most. 1, 3, 141</span></i>
+			; <i><span class="en">146</span></i>; cf.: ad calculos vocare amicitiam, ut par sit ratio acceptorum et datorum, <i><span class="en">Cic. Lael.
+				16, 58</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">itur, putatur ratio cum argentario ... Ubi
+					disputata est ratio cum argentario,</span>”
+				 <i><span class="en">Plaut. Aul. 3, 5, 53 sq.</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dextera digitis rationem computat,</span>”
+				 <i><span class="en">id.
+					Mil. 2, 2, 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">magna ratio C. Verruci,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 77, § 188</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">direptio ejus pecuniae, cujus ratio in aede
+					Opis confecta est,</span>”
+				 <i><span class="en">id.
+					Phil. 5, 6, 16</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quibus in tabulis nominatim, ratio confecta
+					erat, qui numerus domo exisset, etc., ... Quarum omnium
+					rerum summa erat, etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 29</span></i>
+			: auri ratio constat: aurum in aerario est, <i>the account agrees</i>, i. e. <i>is correct</i>,
+					<i><span class="en">Cic. Fl. 28, 69</span></i> (v. consto): 
+				“<span class="alpheios-lex-la" lang="lat">decumo post mense, ut rationem te dictare
+					intellego,</span>”
+				<i>to make the reckoning</i>,
+				 <i><span class="en">Plaut. Am. 2, 2, 38</span></i>
+			 (al. ductare): 
+				“<span class="alpheios-lex-la" lang="lat">rationem ducere,</span>”
+				<i>to make a computation</i>, <i>to compute</i>,
+						<i>calculate</i>, <i>reckon</i>,
+				 <i><span class="en">Cic. Verr. 2, 2, 52, § 129</span></i>
+			; so, rationem habere, <i>to take an
+			account</i>, <i>make a computation</i>: 
+				“<span class="alpheios-lex-la" lang="lat">omnium proeliorum,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 53</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">hujus omnis pecuniae conjunctim ratio habetur,</span>”
+				 <i><span class="en">id. B.
+					G. 6, 19</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">piratarum,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 28, § 71</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationem inire,</span>”
+				<i>to cast up</i>, <i>reckon</i>, <i>calculate</i>,
+				 <i><span class="en">Caes.
+					B. G. 7, 71, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quattuor minae periere, ut ratio redditur,</span>”
+				 <i><span class="en">Plaut. Men. 1, 3, 23</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tibi ego rationem reddam?</span>”
+				 <i><span class="en">id.
+					Aul. 1, 1, 6</span></i>
+			; <i><span class="en">id. Trin. 2, 4, 114</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">rationem referre,</span>”
+				 <i><span class="en">Cic. Verr. 2, 1, 39, § 98</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationem repetere de pecuniis repetundis,</span>”
+				 <i><span class="en">id.
+					Clu. 37, 104</span></i>
+			: <i>Py.</i> Quanta istaec hominum summa est?
+				<i>Ar.</i> Septem millia. <i>Py.</i>
+			Tantum esse oportet: 
+				“<span class="alpheios-lex-la" lang="lat">recte rationem tenes,</span>”
+				 <i><span class="en">Plaut. Mil. 1, 1, 47</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">drachumae, quas de ratione debuisti,</span>”
+				<i>according to the account</i>,
+				 <i><span class="en">id.
+					Trin. 2, 4, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">grandem (pecuniam) quemadmodum in rationem
+					inducerent, non videbant,</span>”
+				<i>how they should bring it into their accounts</i>,
+				 <i><span class="en">Cic. Verr. 2, 1, 41, § 106</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			<i>Plur.</i>: rationes putare argentariam,
+			frumentariam, pabuli causā quae parata sunt; 
+				“<span class="alpheios-lex-la" lang="lat">rationem vinariam, oleariam, quid venierit,
+					etc.,</span>”
+				 <i><span class="en">Cato, R. R. 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes ad aerarium continuo detuli ... quas
+					rationes si cognoris, intelleges, etc.,</span>”
+				 <i><span class="en">Cic.
+					Pis. 25, 61</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut rationes cum publicanis putarent,</span>”
+				 <i><span class="en">id.
+					Att. 4, 11, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes a colono accepit,</span>”
+				 <i><span class="en">id.
+					Caecin. 32, 94</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid opus est? inquam. Rationes conferatis.
+					Assidunt, subducunt, ad nummum convenit,</span>”
+				 <i><span class="en">id.
+					Att. 5, 21, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes referre ... rationes deferre,</span>”
+				 <i><span class="en">id.
+					Fam. 5, 20, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Romani pueri longis rationibus assem Discunt in
+					partes centum diducere,</span>”
+				 <i><span class="en">Hor. A.
+					P. 325</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">A RATIONIBVS,</span>”
+				<i>an accountant</i>,
+				 <i><span class="en">Inscr. Orell. 1494</span></i>
+			; <i><span class="en">2973</span></i>; <i><span class="en">2986</span></i>; 4173 et saep. (cf.
+			ab).— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>A list</i>, <i>roll</i>, <i>register</i> (rare): 
+				“<span class="alpheios-lex-la" lang="lat">cedo rationem carceris, quae diligentissime
+					conficitur, quo quisque die datus in custodiam, quo mortuus,
+					quo necatus sit,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 57, § 147</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes imperii, ab Augusto proponi solitas,
+					sed a Tiberio intermissas, publicavit (sc. Caligula),</span>”
+				 <i><span class="en">Suet. Calig. 16</span></i>
+			 ( = breviarium) totius imperii, <i><span class="en">id.
+				Aug. 101 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">rationarium imperii,</span>”
+				 <i><span class="en">id. ib. 28</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>A sum</i>, <i>number</i> (rare),
+				<i><span class="en">Plaut. Trin. 2, 4, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc lenonum et scortorum plus est fere Quam
+					olim muscarum est. Ea nimia est ratio,</span>”
+				 <i><span class="en">id.
+					Truc. 1, 1, 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pro ratione pecuniae liberalius est Brutus
+					tractatus quam Pompeius,</span>”
+				 <i><span class="en">Cic.
+					Att. 6, 3, 5</span></i>
+			; cf. II. B. 1. c. infra.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>A business matter</i>, <i>transaction</i>, <i>business;</i> also, <i>a matter</i>, <i>affair</i>, in gen.
+			(a favorite word of Cicero): 
+				“<span class="alpheios-lex-la" lang="lat">res rationesque eri Ballionis curo,</span>”
+				 <i><span class="en">Plaut. Ps. 2, 2, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">res rationesque vestrorum omnium,</span>”
+				 <i><span class="en">id.
+					Am. prol. 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">re ac ratione cum aliquo conjunctus,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 70, § 172</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">de totà illā ratione atque
+					re Gallicanā inter se multa communicare,</span>”
+				 <i><span class="en">id. Quint. 4, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum (Druides) in reliquis fere rebus, publicis
+					privatisque rationibus, Graecis utantur litteris,</span>”
+				 <i><span class="en">Caes.
+					B. G. 6, 14</span></i>
+			 (metaphrast. <span class="alpheios-lex-greek" lang="grc">πράγμασι</span>): 
+				“<span class="alpheios-lex-la" lang="lat">ratio nummaria,</span>”
+				 <i><span class="en">Cic.
+					Att. 10, 11, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aeraria ratio,</span>”
+				 <i><span class="en">id. Quint. 4, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ratio domestica ... bellica,</span>”
+				 <i><span class="en">id.
+					Off. 1, 22, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod ad popularem rationem attinet,</span>”
+				 <i><span class="en">id.
+					Fam. 1, 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes familiares componere,</span>”
+				 <i><span class="en">Tac. A.
+					6, 16 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fori judiciique rationem Messala suscepit,</span>”
+				 <i><span class="en">Cic.
+					Rosc. Am. 51, 149</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">in explicandis rationibus rerum civilium,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 8, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes civitatis,</span>”
+				 <i><span class="en">id. ib. 1, 6, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quantos aestus habet ratio comitiorum ... nihil
+					fallacius ratione totā comitiorum,</span>”
+				 <i><span class="en">id.
+					Mur. 17, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">propter rationem Gallici belli,</span>”
+				 <i><span class="en">id.
+					Prov. Cons. 8, 19</span></i>
+			; so <i><span class="en">id. ib. 8, 14, 35</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad omnem rationem humanitatis,</span>”
+				 <i><span class="en">id.
+					Mur. 31, 66</span></i>
+			: in hac ratione quid res, quid causa, quid tempus ferat, tu
+			facillime perspicies,
+			<i><span class="en">id. Fam.
+				1, 7, 6 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad eam rationem existimabam satis aptam naturam
+					meam,</span>”
+				 <i><span class="en">id.
+					Att. 9, 11</span></i>
+			, A, 1.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Pregn.: meae (tuae, etc.) rationes, <i>my</i> (<i>thy</i>, etc.) <i>interest</i>, <i>my</i> (<i>thy</i>, etc.) <i>advantage</i> (cf. in Engl. to find one's account
+			in any thing): 
+				“<span class="alpheios-lex-la" lang="lat">me ad ejus rationes adjungo, quem tu in meis
+					rationibus tibi esse adjungendum putasti,</span>”
+				 <i><span class="en">Cic.
+					Fam. 1, 8, 2</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">exemplum meis alienissimum rationibus,</span>”
+				 <i><span class="en">id. Corn. Fragm. 1, 7</span></i>
+			 B. and K.: 
+				“<span class="alpheios-lex-la" lang="lat">consideres, quid tuae rationes postulent,</span>”
+				 <i><span class="en">Sall. C. 44, 5</span></i>
+			: servitia repudiabat ... alienum suis rationibus existimans
+			videri causam civium cum servis fugitivis communicasse, <i>inconsistent with his policy</i> or <i>interests</i>, <i><span class="en">id. ib. 56, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si meas rationes unquam vestrae saluti
+					anteposuissem,</span>”
+				 <i><span class="en">Cic. Red. ad Quir. 1, 1</span></i>
+			.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>, <i>a reckoning</i>, <i>account</i>, <i>computation</i>: 
+				“<span class="alpheios-lex-la" lang="lat">postquam hanc rationem cordi ventrique edidi,</span>”
+				<i>presented this reckoning</i>,
+				 <i><span class="en">Plaut. Aul. 2, 7, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">itidem hic ut Acheronti ratio accepti
+					scribitur,</span>”
+				i.e. <i>things are taken only</i>, <i>nothing is given
+						back</i>,
+				 <i><span class="en">id.
+					Truc. 4, 2, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen (comoediae) jam habetis, nunc rationes
+					ceteras Accipite,</span>”
+				<i>an account of the rest</i>,
+				 <i><span class="en">id.
+					Poen. prol. 55</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">census quom sum, juratori recte rationem dedi,</span>”
+				 <i><span class="en">id.
+					Trin. 4, 2, 30</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">rationem dare, for the more usual rationem
+					reddere,</span>”
+				 <i><span class="en">Varr. L. L. 6, § 86</span></i>
+			 Müll.; <i><span class="en">Cic. Verr. 2, 1, 36, § 92</span></i>
+			Zumpt: 
+				“<span class="alpheios-lex-la" lang="lat">(argentarii) ratione utuntur,</span>”
+				<i>make a reckoning</i>, <i>settle up</i>,
+				 <i><span class="en">Plaut. Cas. prol. 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum eam mecum rationem puto,</span>”
+				<i>go into that calculation</i>, <i>think over the
+						matter</i>,
+				 <i><span class="en">id. ib. 3, 2, 25</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">frustra egomet mecum has rationes puto,</span>”
+				 <i><span class="en">Ter.
+					Ad. 2, 1, 54</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(Medea et Atreus) inita subductaque ratione
+					nefaria scelera meditantes,</span>”
+				 <i><span class="en">Cic.
+					N. D. 3, 29, 71</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod posteaquam iste cognovit hanc rationem
+					habere coepit,</span>”
+				<i>to make the following calculation</i>,
+						<i>reflection</i>,
+				 <i><span class="en">id. Verr. 2, 5, 39, § 101</span></i>
+			; cf.: totius rei consilium his rationibus explicavit, ut si,
+			etc., ... si, etc., ... sin, etc., <i>drew the plan of
+				the whole undertaking according to the following
+			calculation</i>, <i>that if</i>, etc., <i><span class="en">Caes. B. C.
+				3, 78</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">and herewith cf.: rationem consilii mei
+					accipite,</span>”
+				 <i><span class="en">id. ib. 3, 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut habere rationem possis, quo loco me
+					convenias, etc.,</span>”
+				<i>that you may calculate</i>,
+				 <i><span class="en">Cic.
+					Fam. 3, 6, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">semper ita vivamus, ut rationem reddendam nobis
+					arbitremur,</span>”
+				 <i><span class="en">id. Verr. 2, 2, 11, § 28</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nihil est, quod minus ferendum sit, quam
+					rationem ab altero vitae reposcere eum, qui non possit suae
+					reddere,</span>”
+				 <i><span class="en">id.
+					Div. in Caecil. 9, 28</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">and with this cf.: si gravius quid acciderit,
+					abs te rationem reposcent,</span>”
+				<i>will call you to account</i>,
+				 <i><span class="en">Caes.
+					B. G. 5, 30</span></i>
+			: clarorum virorum atque magnorum non minus otii, quam negotii
+			rationem exstare oportere, <i>an account must be
+				capable of being given</i>, Cato ap. <i><span class="en">Cic. Planc.
+				27, 66</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tam otii quam negotii rationem reddere majores
+					censuisse,</span>”
+				 <i><span class="en">Col. 11
+						<i>fin.</i></span></i>
+			: eam condicionem esse imperandi, ut non aliter ratio constet,
+			quam si uni reddatur, <i>that the account is not
+				correct unless</i>, etc., <i><span class="en">Tac. A. 1, 6
+					<i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mirum est quam singulis diebus in urbe ratio
+					aut constet aut constare videatur,</span>”
+				 <i><span class="en">Plin.
+					Ep. 1, 9, 1</span></i>
+			; <i><span class="en">1, 5, 16</span></i> et
+			saep.; cf. Just. praef. 5.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>Relation</i>, <i>reference</i>, <i>respect</i> to a thing: 
+				“<span class="alpheios-lex-la" lang="lat">(agricolae) habent rationem cum
+					terrā, quae nunquam recusat imperium,</span>”
+				<i>have an account</i>, <i>have to do</i>, <i>have
+						dealings with the earth</i>,
+				 <i><span class="en">Cic.
+					Sen. 15, 51</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ubi ratio cum Orco habetur,</span>”
+				 <i><span class="en">Varr. R. R. 1, 4, 3</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">for which: ubi sit cum Orco ratio ponenda,</span>”
+				 <i><span class="en">Col.
+					1, 3, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum omnibus Musis rationem habere cogito,</span>”
+				 <i><span class="en">Cic.
+					Att. 2, 5, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum hac (muliere) aliquid adulescentem hominem
+					habuisse rationis,</span>”
+				 <i><span class="en">id.
+					Cael. 20, 50</span></i>
+			; cf. <i><span class="en">id. Verr. 2, 2, 77, § 190</span></i>.
+			omnes, quibuscum ratio huic aut est aut fuit, assunt, defendunt,
+					<i><span class="en">id. Quint. 23, 75</span></i>; cf.
+				“<span class="alpheios-lex-la" lang="lat">. quae ratio tibi cum eo intercesserat?</span>”
+				 <i><span class="en">id.
+					Rosc. Com. 14, 41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pacis vero quae potest esse cum eo ratio, in
+					quo est incredibilis crudelitas, fides nulla?</span>”
+				 <i><span class="en">id.
+					Phil. 4, 6, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod si habenda cum M. Antonii latrocinio pacis
+					ratio fuit, etc.,</span>”
+				 <i><span class="en">id. ib. 12, 7, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fontes ad nostrorum annalium rationem veteres,
+					ad ipsorum sane recentes,</span>”
+				<i>in respect to our annals</i>,
+				 <i><span class="en">id.
+					Brut. 13, 49</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			Pregn., <i>a respect</i>, <i>regard</i>,
+				<i>concern</i>, <i>consideration</i>, <i>care</i> for a thing (usu. in
+			the connection habere and ducere alicujus rei rationem): ad hanc
+			rationem quoniam maximam vim natura habet, fortuna proximam:
+			utriusque omnino habenda ratio est in deligendo genere  vitae, <i><span class="en">Cic. Off. 1, 33, 120</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quorum (civium Romanorum) nobis pro
+					vestrā sapientiā, Quirites, habenda est
+					ratio diligenter,</span>”
+				 <i><span class="en">id.
+					Imp. Pomp. 7, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(deos) piorum et impiorum habere rationem,</span>”
+				 <i><span class="en">id.
+					Leg. 2, 7, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cujus absentis rationem haberi proximis
+					comitiis populus jussisset,</span>”
+				 <i><span class="en">Caes. B.
+					C. 1, 9</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">absentis,</span>”
+				 <i><span class="en">id. ib. 1, 32</span></i>
+			; 3, 82 <i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">sauciorum et aegrorum habitā ratione,</span>”
+				 <i><span class="en">id. ib. 3, 75</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">moneret, frumenti rationem esse habendam,</span>”
+				 <i><span class="en">Hirt. B. G. 8, 34</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">so (al. frumentandi), rationem habere,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 75</span></i>
+			 Oud.; cf. <i><span class="en">id. ib. 7, 71</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">alicujus vel dignitatis vel commodi rationem
+					non habere,</span>”
+				 <i><span class="en">Cic.
+					de Or. 2, 4, 17</span></i>
+			: ut summae rei publicae rationem habeamus, Pompeius ap. <i><span class="en">Cic. Att. 8,
+				12</span></i>, c, 3: 
+				“<span class="alpheios-lex-la" lang="lat">alicujus salutis rationem habere,</span>”
+				i. e. <i>to regard</i>, <i>care for</i>, <i>be
+						concerned about</i>,
+				 <i><span class="en">Caes.
+					B. G. 7, 71</span></i>
+			; so <i><span class="en">id. B. C. 1, 20</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">turpissimae fugae rationem habere,</span>”
+				 <i><span class="en">id. ib. 2, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut in ceteris habenda ratio non sui solum sed
+					etiam aliorum, sic, etc.,</span>”
+				 <i><span class="en">Cic. Off. 1, 39, 139</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">proinde habeat rationem posteritatis et
+					periculi sui,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">habere nunc se rationem officii pro beneficiis
+					Caesaris,</span>”
+				 <i><span class="en">id. B.
+					G. 5, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non ullius rationem sui commodi ducit,</span>”
+				 <i><span class="en">Cic.
+					Rosc. Am. 44, 128</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum hujusce periculi tum ceterorum quoque
+					officiorum et amicitiarum ratio,</span>”
+				 <i><span class="en">id.
+					Clu. 42, 117</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omnis hac in re habenda ratio et diligentia
+					est, ut, etc.,</span>”
+				 <i><span class="en">id.
+					Lael. 24, 89</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">didici ex tuis litteris, te omnibus in rebus
+					habuisse rationem, ut mihi consuleres,</span>”
+				 <i><span class="en">id.
+					Fam. 3, 5, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">habeo rationem, quid a populo Romano acceperim,</span>”
+				<i>bring into consideration</i>, <i>consider</i>,
+				 <i><span class="en">id. Verr. 2, 5, 14, § 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut habere rationem possis, quo loco me
+					salvā lege Corneliā convenias, ego veni,
+					etc.,</span>”
+				 <i><span class="en">id.
+					Fam. 3, 6, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque illud rationis habuisti, eam provinciam
+					ad summam stultitiam nequitiamque venisse,</span>”
+				 <i><span class="en">id. Verr. 2, 5, 15, § 38</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">hoc rationis habebant, facere eos nullo modo
+					posse, ut, etc.,</span>”
+				 <i><span class="en">id. ib. 2, 2, 29</span></i>
+			, § 70.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			<i>Relation</i> to a thing, i. e. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> Subject., <i>course</i>, <i>conduct</i>, <i>procedure</i>, <i>mode</i>, <i>manner</i>, <i>method</i>, <i>fashion</i>, <i>plan</i>, etc. (cf. consilium): 
+				“<span class="alpheios-lex-la" lang="lat">nunc sic rationem incipissam, hanc instituam
+					astutiam, ut, etc.,</span>”
+				 <i><span class="en">Plaut. Mil. 2, 2, 82</span></i>
+			; cf. <i><span class="en">id. ib. 3, 1, 175</span></i> sqq.: 
+				“<span class="alpheios-lex-la" lang="lat">ubi cenas hodic, si hanc rationem instituis?</span>”
+				 <i><span class="en">Plaut. Stich. 3, 1, 26</span></i>
+			; <i><span class="en">id. Truc. 1, 1, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tua ratio est, ut secundum binos ludos mihi
+					respondere incipias: mea, ut ante primos ludos
+					comperendinem. Ita fiet, ut tua ista ratio existimetur
+					astuta, meum hoc consilium necessarium,</span>”
+				 <i><span class="en">Cic.
+					Verr. 1, 11, 34</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ratio viaque defensionis,</span>”
+				 <i><span class="en">id. Verr. 2, 5, 1, § 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">itaque in praesentia Pompeii insequendi
+					rationem omittit,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mea autem ratio in dicendo haec esse solet, ut,
+					etc.,</span>”
+				 <i><span class="en">Cic. de Or. 2, 72, 292</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haec in philosophiā ratio contra
+					omnia disserendi,</span>”
+				 <i><span class="en">id.
+					N. D. 1, 5, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dicendi,</span>”
+				 <i><span class="en">id.
+					Or. 32, 114</span></i>
+			; <i><span class="en">id. de Or. 3, 15, 56</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">aliquot ante annis inita ratio est, ut, etc.,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 36, 61</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut, quo primum occurreretur, vix ratio iniri
+					possit,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quia reponendarum (tegularum) nemo artifex
+					inire rationem potuerit,</span>”
+				 <i><span class="en">Liv.
+					42, 3 <i>fin.</i></span></i>
+			—In plur.: 
+				“<span class="alpheios-lex-la" lang="lat">hoc aditu laudis non mea me voluntas sed meae
+					vitae rationes ab ineunte aetate susceptae prohibuerunt,</span>”
+				<i>plan of life</i>,
+				 <i><span class="en">Cic.
+					Imp. Pomp. 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">de rationibus rerum publicarum aut
+					constituendarum aut tuendarum,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 6, 11</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			Object., <i>relation</i>, <i>condition</i>, <i>nature</i>, <i>kind</i>, <i>sort</i>, <i>fashion</i>,
+				<i>way</i>, etc. (cf. modus): 
+				“<span class="alpheios-lex-la" lang="lat">sed ratio ordoque agminis aliter se habebat ac
+					Belgae ad Nervios detulerant,</span>”
+				 <i><span class="en">Caes.
+					B. G. 2, 19</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ut rei militaris ratio atque ordo postulabat,</span>”
+				 <i><span class="en">id. ib. 2, 22</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">rei militaris,</span>”
+				 <i><span class="en">id. ib. 4, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ratio atque usus belli,</span>”
+				<i>the art and practice of war</i>,
+				 <i><span class="en">id. ib. 4, 1</span></i>
+			; <i><span class="en">id.
+				B. C. 1, 76 <i>fin.</i></span></i>; <i><span class="en">2,
+			18</span></i>; <i><span class="en">3, 17</span></i> et saep. al.; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">novae rationes bellandi,</span>”
+				 <i><span class="en">id. ib. 3, 50</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ratio equestris proelii,</span>”
+				 <i><span class="en">id. B.
+					G. 5, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quorum operum haec erat ratio, etc.,</span>”
+				 <i><span class="en">id. B.
+					C. 1, 25</span></i>
+			; cf.: rationem pontis hanc instituit; 
+				“<span class="alpheios-lex-la" lang="lat">tigna bina, etc.,</span>”
+				 <i><span class="en">id. B.
+					G. 4, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">serpit per omnium vitas amicitia, nec ullam
+					aetatis degendae rationem patitur esse expertem sui,</span>”
+				 <i><span class="en">Cic.
+					Lael. 23, 87</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ita ratio comparata est vitae naturaeque
+					nostrae, ut, etc.,</span>”
+				 <i><span class="en">id. ib. 27, 101</span></i>
+			; <i><span class="en">id. Ac. 2, 43, 132</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">civitas (Platonis) non quae possit esse, sed in
+					quā ratio rerum civilium perspici posset,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 30, 52 <i>init.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">reliqui disseruerunt de generibus et de
+					rationibus civitatum,</span>”
+				 <i><span class="en">id. ib. 2, 11, 22</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">1, 8, 13: quam creberrimis litteris faciam ut
+					tibi nota sit omnis ratio dierum atque itinerum meorum,</span>”
+				 <i><span class="en">id.
+					Fam. 3, 5, 4</span></i>
+			: quoniam eadem  est ratio juris in utroque,
+				<i><span class="en">id.
+				Rep. 3, 12, 21</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">haec eadem ratio est in summā totius
+					Galliae,</span>”
+				 <i><span class="en">Caes.
+					B. G. 6, 11 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab nostris eadem ratione, quā pridie,
+					resistitur,</span>”
+				 <i><span class="en">id. ib. 5, 40</span></i>
+			; <i><span class="en">id. B. C. 3, 100</span></i>; cf.
+				<i><span class="en">id. ib. 3, 101</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">docet, longe aliā ratione esse bellum
+					gerendum atque antea sit gestum,</span>”
+				 <i><span class="en">id. B.
+					G. 7, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc si Romae fieri posset, certe
+					aliquā ratione expugnasset iste,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 52, § 130</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid refert, quā me ratione cogatis?</span>”
+				 <i><span class="en">id.
+					Lael. 8, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod fuit illis conandum atque omni ratione
+					efficiendum,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 65 <i>fin.</i></span></i>
+			; <i><span class="en">1, 67</span></i>
+			<i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">simili ratione Pompeius in suis castris
+					consedit,</span>”
+				 <i><span class="en">id. ib. 3, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">auxilium ferri nullā ratione poterat,</span>”
+				 <i><span class="en">id. ib. 1, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec quibus rationibus superare possent, sed
+					quem ad modum uti victoriā deberent, cogitabant,</span>”
+				 <i><span class="en">id. ib. 3, 83</span></i>
+			
+			<i>fin.</i>; 3, 58; 3, 18 <i>fin.</i> et
+			saep.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			With <i>gen.</i> of a <i>subst.</i> in
+			circumlocution for the <i>subst.</i> itself (v. Zumpt,
+			Gram. § 
+				“<span class="alpheios-lex-la" lang="lat">678): vereor ne oratio mea alienā ab
+					judiciorum ratione esse videatur,</span>”
+				 <i><span class="en">Cic. Verr. 2, 4, 49, § 109</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multa autem propter rationem brevitatis
+					praetermittenda,</span>”
+				 <i><span class="en">id. ib. 2, 1, 40</span></i>
+			, § 
+				“<span class="alpheios-lex-la" lang="lat">103: quantas perturbationes et quantos aestus
+					habet ratio comitiorum?</span>”
+				 <i><span class="en">id.
+					Mur. 17, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil fallacius ratione totā
+					comitiorum,</span>”
+				 <i><span class="en">id. ib. 17, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">praedicere tempestatum rationem et praedonum,</span>”
+				 <i><span class="en">id. ib. 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tota ratio talium largitionum genere vitiosa
+					est,</span>”
+				 <i><span class="en">id.
+					Off. 2, 17, 60</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Pregn., <i>that faculty of the mind which forms the
+				basis of computation and calculation</i>, and hence of <i>mental action</i> in general, i. e. <i>judgment</i>, <i>understanding</i>, <i>reason</i>: duplex est vis animorum atque natura:
+			una pars in appetitu posita est, quae est <span class="alpheios-lex-greek" lang="grc">ὁρμὴ</span> Graece, quae hominem huc et illuc rapit; 
+				“<span class="alpheios-lex-la" lang="lat">altera in ratione, quae docet et explanat, quid
+					faciendum, quid fugiendum sit. Ita fit, ut ratio praesit,
+					appetitus obtemperet,</span>”
+				 <i><span class="en">Cic. Off. 1, 28, 101</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">homo, quod rationis est particeps, per quam
+					consequentia cernit, causas rerum videt earumque progressus
+					et quasi antecessiones non ignorat, similitudines comparat
+					rebusque praesentibus adjungit atque annectit futuras,
+					facile totius vitae cursum videt ad eamque degendam
+					praeparat res necessarias. Eademque natura vi rationis
+					hominem concilia homini et ad orationis et ad vitae
+					societatem, etc.,</span>”
+				 <i><span class="en">id. ib. 1, 4, 11</span></i>
+			 sq.: 
+				“<span class="alpheios-lex-la" lang="lat">haud scio, an melius fuerit, humano generi
+					motum istum celerem cogitationis, acumen, sollertiam, quam
+					rationem vocamus, non dari omnino quam tam munifice et tam
+					large dari, etc.,</span>”
+				 <i><span class="en">id.
+					N. D. 2, 27, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lex est ratio summa, insita in
+					naturā, quae jubet ea, quae facienda sunt,
+					prohibetque contraria. Eadem ratio, cum est in hominis mente
+					confirmata et confecta, lex est,</span>”
+				 <i><span class="en">id.
+					Leg. 1, 6, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut, quos ratio non posset, eos ad officium
+					religio duceret,</span>”
+				 <i><span class="en">id.
+					N. D. 1, 42, 118</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mens et ratio et consilium in senibus est,</span>”
+				 <i><span class="en">id.
+					Sen. 19, 67</span></i>
+			; cf. <i><span class="en">Liv. 28, 28</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si pudor quaeritur, si probitas, si fides,
+					Mancinus haec attulit, si ratio, consilium, prudentia,
+					Pompeius antistat,</span>”
+				 <i><span class="en">Cic.
+					Rep. 3, 18, 28</span></i>
+			; cf. <i><span class="en">id. Quint. 16, 53</span></i>; and: 
+				“<span class="alpheios-lex-la" lang="lat">si ratio et prudentia curas aufert,</span>”
+				 <i><span class="en">Hor. Ep. 1, 11, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quibus in rebus temeritas et casus, non ratio
+					nec consilium valet,</span>”
+				 <i><span class="en">Cic.
+					Div. 2, 41, 85</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">illa de urbis situ revoces ad rationem quae a
+					Romulo casu aut necessitate facta sunt,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 11, 22</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">moneo ut agentem te ratio ducat, non fortuna,</span>”
+				 <i><span class="en">Liv.
+					22, 39 <i>fin.</i></span></i>
+			: mulier abundat audaciā; 
+				“<span class="alpheios-lex-la" lang="lat">consilio et ratione deficitur,</span>”
+				 <i><span class="en">Cic.
+					Clu. 65, 184</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Ariovistum magis ratione et consilio quam
+					virtute vicisse. Cui rationi contra homines barbaros locus
+					fuisset, etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 40</span></i>
+			: arma amens capio; 
+				“<span class="alpheios-lex-la" lang="lat">nec sat rationis in armis,</span>”
+				 <i><span class="en">Verg.
+					A. 2, 314</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationis egens,</span>”
+				 <i><span class="en">id. ib. 8, 299</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">iracundia dissidens a ratione,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 38, 60</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">majora quam hominum ratio consequi possit,</span>”
+				 <i><span class="en">id. ib. 1, 10, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quantum ratione provideri poterat,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 16 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quantumque in ratione esset, exploratum habuit,</span>”
+				 <i><span class="en">Hirt. B. G. 8, 6 <i>init.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec majore ratione bellum administrari posse,</span>”
+				 <i><span class="en">Caes.
+					B. C. 7, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">minari divisoribus ratio non erat,</span>”
+				<i>it was not reasonable</i>, <i>was contrary to
+						reason</i>,
+				 <i><span class="en">Cic.
+					Verr. 1, 9, 24</span></i>
+			; so, nulla ratio est, with an <i>objectclause</i>, <i><span class="en">id. Caecin. 5, 15</span></i>; so, 
+				“<span class="alpheios-lex-la" lang="lat">too, minime rationis est,</span>”
+				 <i><span class="en">Col.
+					3, 5, 3</span></i>
+			; cf. with <i>dat.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Vitellianus exercitús, cui
+					acquiescere Cremonae ratio fuit,</span>”
+				<i>which</i>, <i>as reason dictated</i>, <i>ought to
+						have rested at Cremona</i>,
+				 <i><span class="en">Tac. H.
+					3, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quod domi te inclusisti, ratione fecisti,</span>”
+				<i>reasonably</i>, <i>sensibly</i>,
+					<i>judiciously</i>,
+				 <i><span class="en">Cic. Att. 12</span></i>
+			, 
+			 14, 3.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> The <i>reasonable cause</i> of a thing, <i>a ground</i>, <i>motive</i>, <i>reason</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ratio est causa, quae demonstrat, verum esse
+					id, quod intendimus, brevi subjectione. Rationis confirmatio
+					est ea, quae pluribus argumentis corroborat breviter
+					expositam rationem,</span>”
+				 <i><span class="en">Auct. Her. 2, 18, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid tandem habuit argumenti aut rationis res,
+					quamobrem, etc.,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 47, § 115</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nostra confirmare argumentis ac rationibus:
+					deinde contraria refutare,</span>”
+				 <i><span class="en">id.
+					de Or. 2, 19, 80</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">noverit orator argumentorum et rationum locos,</span>”
+				 <i><span class="en">id.
+					Or. 14, 44</span></i>
+			 (v. also argumentum): 
+				“<span class="alpheios-lex-la" lang="lat">si mei consilii causam rationemque cognoverit,</span>”
+				 <i><span class="en">id. Div.
+					in Caecil. 1, 1</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ad eam sententiam cum reliquis causis haec
+					quoque ratio eos deduxit, quod, etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 2, 10 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quam habet rationem, non quaero aequitatis, sed
+					ipsius improbitatis atque impudentiae? ... facti, si non
+					bonam, at aliquam rationem afferre,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 85, § 196</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">deinde nihil rationis affert, quamobrem, etc.,</span>”
+				 <i><span class="en">id.
+					Caecin. 33, 96</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non deest hoc loco copia rationum, quibus
+					docere velitis, humanas esse formas deorum: primum quod,
+					etc. ... deinde quod, etc. ... tertiam rationem affertis,
+					quod, etc.,</span>”
+				 <i><span class="en">id.
+					N. D. 1, 27, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et quidem, cur sic opinetur, rationem subicit,</span>”
+				 <i><span class="en">id.
+					Div. 2, 50, 104</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">idcirco minus existimo te nihil nisi
+					summā ratione fecisse,</span>”
+				 <i><span class="en">id.
+					Att. 8, 11</span></i>
+			, D, § 
+				“<span class="alpheios-lex-la" lang="lat">5: nunc non modo agendi rationem nullam habeo,
+					sed ne cogitandi quidem,</span>”
+				 <i><span class="en">id.
+					Fam. 4, 13, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rationes in eā disputatione a te
+					collectae vetabant me rei publicae penitus diffidere,</span>”
+				 <i><span class="en">id.
+					Fam. 5, 13, 3</span></i>
+			; cf. <i><span class="en">id. Ac. 2, 36, 116</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">rationibus conquisitis de voluptate et dolore
+					disputandum putant,</span>”
+				 <i><span class="en">id.
+					Fin. 1, 9, 31</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quod cum disputando rationibusque docuisset,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 16, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">his rationibus tam certis tamque illustribus
+					opponuntur ab his, qui contra disputant primum labores,
+					etc.,</span>”
+				 <i><span class="en">id. ib. 1, 3, 4</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">num parva causa aut prava ratio est?</span>”
+				<i>reason</i>, <i>excuse</i>,
+				 <i><span class="en">Ter.
+					Eun. 3, 5, 27</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			In rhet., <i>a showing cause</i>, <i>argument</i>, <i>reasoning</i> in support of a
+			proposition: 
+				“<span class="alpheios-lex-la" lang="lat">ratio est, quae continet causam, quae si
+					sublata sit, nihil in causā controversiae
+					relinquatur, hoc modo: Orestes si accusetur matricidii, nisi
+					hoc dicat, Jure feci, illa enim patrem meum occiderat, non
+					habet defensionem,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 13, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad propositum subjecta ratio, et item in
+					distributis supposita ratio,</span>”
+				 <i><span class="en">id.
+					de Or. 3, 54, 207</span></i>
+			; cf. <i><span class="en">Quint. 3, 11, 4</span></i>; <i><span class="en">5, 14, 1</span></i>; <i><span class="en">16</span></i>; 7, 8,
+			3.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			<i>Reasonableness</i>, <i>reason</i>,
+				<i>propriety</i>, <i>law</i>, <i>rule</i>, <i>order</i>, <i>conformity</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">in omnibus, quae ratione docentur et via,
+					primum constituendum est, quid quidque sit, etc.,</span>”
+				<i>in a reasonable</i>, <i>regular manner</i>,
+				 <i><span class="en">Cic.
+					Or. 33, 116</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ut ratione et viā procedat oratio,</span>”
+				 <i><span class="en">id.
+					Fin. 1, 9, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">modo et ratione aliquid facere (along with
+					recte atque ordine facere),</span>”
+				 <i><span class="en">id. Quint. 7, 28</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quae res Nec modum habet neque consilium,
+					ratione modoque Tractari non vult,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 3, 266</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil est, quod ratione et numero moveri possit
+					sine consilio,</span>”
+				 <i><span class="en">Cic.
+					N. D. 2, 16, 43</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">intervallis imparibus, sed tamen pro
+					ratā parte ratione distinctis,</span>”
+				<i>divided proportionally by rule</i>,
+				 <i><span class="en">id.
+					Rep. 6, 18, 18</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ex summis et infimis et mediis interjectis
+					ordinibus ut sonis moderatā ratione civitas
+					concinit,</span>”
+				<i>in symmetrical proportion</i>,
+				 <i><span class="en">id. ib. 2, 42, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in quo defuit fortasse ratio, sed tamen vincit
+					ipsa rerum publicarum natura saepe rationem,</span>”
+				<i>order</i>, <i>system</i>,
+				 <i><span class="en">id. ib. 2, 33, 57</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">5, 5, 7: declinatio si cum ratione fiet,</span>”
+				<i>reasonably</i>,
+				 <i><span class="en">id.
+					Tusc. 4, 6, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ratio et distributio,</span>”
+				<i>a reasonable division</i>,
+				 <i><span class="en">Q.
+						Cic. Pet. Cons. 1, 1</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b>
+			<i>A theory</i>, <i>doctrine</i>, or <i>system</i> based upon reason; <i>science</i>, and (less freq.), subject., <i>knowledge</i>: 
+				“<span class="alpheios-lex-la" lang="lat">erat enim tunc haec nova et ignota ratio, solem
+					lunae oppositum solere deficere,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 16, 25</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nova et a nobis inventa ratio,</span>”
+				 <i><span class="en">id. ib. 1, 8, 13</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">2, 39, 66: si animum contulisti in istam
+					rationem et quasi artem,</span>”
+				 <i><span class="en">id. ib. 1, 23, 37</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">omnes tacito quodam sensu sine ullā
+					arte aut ratione, quae sint in artibus ac rationibus recta
+					ac prava dijudicant,</span>”
+				 <i><span class="en">id.
+					de Or. 3, 50, 195</span></i>
+			; <i><span class="en">id. Brut. 74, 258</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">continet enim totam hanc quaestionem ea ratio,
+					quae est de naturā deorum,</span>”
+				 <i><span class="en">id.
+					Div. 1, 51, 117</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Epicuri ratio, quae plerisque notissima est,</span>”
+				<i>doctrine</i>, <i>system</i>, <i>philosophy</i>,
+				 <i><span class="en">id.
+					Fin. 1, 5, 13</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">Stoicorum ratio disciplinaque,</span>”
+				 <i><span class="en">id.
+					Off. 3, 4, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Cynicorum ratio,</span>”
+				 <i><span class="en">id. ib. 1, 41, 148</span></i>
+			; so <i><span class="en">id. Fin. 3, 20, 68</span></i>: ratio vivendi ...
+			ratio civilis et disciplina populorum, 
+			<i>the art of living ... statesmanship</i>, <i><span class="en">id. Rep. 3,
+				3, 4</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">etiamsi cui videbitur illa in optimis studiis
+					et artibus quieta vitae ratio beatior, haec civilis
+					laudabilior est certe et illustrior,</span>”
+				 <i><span class="en">id. ib. 3, 3, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">improba navigii ratio tum caeca jacebat,</span>”
+				 <i><span class="en">Lucr.
+					5, 1004</span></i>
+			: saltationis ac musicae rationis studiosi, Col. prooem.
+			§ 3 al.—Subject., <i>knowledge</i>: 
+				“<span class="alpheios-lex-la" lang="lat">si qua (est in me) exercitatio dicendi aut si
+					hujus rei ratio aliqua, ab optimarum artium studiis ac
+					disciplinā profecta,</span>”
+				 <i><span class="en">Cic.
+					Arch. 1, 1</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>e.</b>
+			<i>A view</i> or <i>opinion</i> resting
+			upon reasonable grounds: 
+				“<span class="alpheios-lex-la" lang="lat">mea sic est ratio,</span>”
+				 <i><span class="en">Ter.
+					Ad. 1, 1, 43</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">inventus est nemo, cujus non haec et sententia
+					esset et oratio, non esse metuendum, etc. ... Haec cum omnes
+					sentirent et cum in eam rationem pro suo quisque sensu ac
+					dolore loqueretur,</span>”
+				 <i><span class="en">Cic. Verr. 2, 1, 27, § 68
+				sq.</span></i>
+			; and with this cf. <i><span class="en">id. Att. 1, 11, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cujus ratio etsi non valuit,</span>”
+				 <i><span class="en">Nep.
+					Milt. 3, 6</span></i>
+			 (just before: hujus cum sententiam plurimi essent
+			secuti).— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>f.</b>
+			In philos. lang., <i>a production of proof</i>, <i>argumentation</i>, <i>reasoning</i>:
+			(Epicurus) tollit definitiones; nihil de dividendo ac partiendo
+			docet; 
+				“<span class="alpheios-lex-la" lang="lat">non, quo modo efficiatur concludaturque ratio,
+					tradit,</span>”
+				 <i><span class="en">Cic.
+					Fin. 1, 7, 22</span></i>
+			; cf. <i><span class="en">id. Div. 2, 10, 25</span></i>; <i><span class="en">id. de
+				Or. 2, 38, 158</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ratio ipsa coget, et ex aeternitate quaedam
+					esse vera et ea non esse nexa causis aeternis, etc.,</span>”
+				 <i><span class="en">id.
+					Fat. 16, 38</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">ergo, ubi tyrannus est, ibi non vitiosam ut
+					heri dicebam, sed, ut nunc ratio cogit, dicendum est, plane
+					nullam esse rem publicam,</span>”
+				 <i><span class="en">id.
+					Rep. 3, 31, 43</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

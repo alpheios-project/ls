@@ -1,0 +1,270 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n8122" body-key=""><b><span class="alpheios-lex-la" lang="lat">circum</span></b> 
+		properly acc. from circus = <span class="alpheios-lex-greek" lang="grc">κίρκος</span>, adv. and prep.,
+		designates either an entire encompassing or surrounding of an object, or
+		a proximity only partially em. bracing or comprehending it, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>around</i>, <i>about</i>, <i>all around</i>,
+				<span class="alpheios-lex-greek" lang="grc">περί, ἀμφί</span>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<i>Adv.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Around</i>, <i>round about</i>, <i>all around</i>, etc., <span class="alpheios-lex-greek" lang="grc">πέριξ</span>: 
+				“<span class="alpheios-lex-la" lang="lat">furcas circum offigito,</span>”
+				 <i><span class="en">Cato, R. R. 48, 2</span></i>
+			; <i><span class="en">Varr. R. R. 3, 14, 1</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">Verg A 3, 230: quia (locus) vastis circum
+					saltibus claudebatur,</span>”
+				 <i><span class="en">Tac. A.
+					4, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">molli circum est ansas amplexus acantho,</span>”
+				 <i><span class="en">Verg.
+					E. 3, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">age tu interim Da cito ab Delphio Cantharum
+					circum,</span>”
+				 <i><span class="en">Plaut. Most. 1, 4, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae circum essent opera tueri,</span>”
+				 <i><span class="en">Caes. B. C 2, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">interea Rutuli portis circum omnibus instant,</span>”
+				 <i><span class="en">Verg.
+					A. 10, 118</span></i>
+			 (i. e. circumcirca fusi: 
+				“<span class="alpheios-lex-la" lang="lat">nam modo circum adverbium loci est, Serv.):
+					omnem, quae nuno .umida circum Caligat, nu. bem eripiam,</span>”
+				 <i><span class="en">id. ib. 2, 605</span></i>
+			; <i><span class="en">Tib. 1, 3, 77</span></i>; <i><span class="en">1, 5, 11</span></i>. sed circum
+			tutae sub moenibus urbis aquantur, <i>round about under
+				the walls</i>, <i><span class="en">Verg. G 4, 193</span></i>.
+			faciundum haras quadratas circum binos pedes, <i>all
+				around</i>, i. e. <i>on every side</i>, <i>two feet</i>, <i><span class="en">Varr.
+				R. R. 3, 10, 3</span></i> Schneid.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Strengthened with undique (in later
+			Latin also sometimes written as one word, <b><span class="alpheios-lex-la" lang="lat">circumundique</span></b> ), <i>from everywhere
+				around</i>, <i>around on all sides</i>: 
+				“<span class="alpheios-lex-la" lang="lat">circum Undique convenere,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 416</span></i>
+			; <i><span class="en">Lucr. 3, 404</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">clausis circum undique portis,</span>”
+				 <i><span class="en">Stat.
+					S. 2, 5, 13</span></i>
+			; <i><span class="en">5, 1, 155</span></i>; <i><span class="en">id. Th. 2,
+				228</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">oppositu circumundique aliarum aedium,</span>”
+				 <i><span class="en">Gell.
+					4, 5, 3</span></i>
+			; <i><span class="en">13, 24, 1</span></i>;
+				<i><span class="en">14, 2, 9</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">so with totus and omnis,</span>”
+				 <i><span class="en">Varr. R. R. 3, 14, 1</span></i>
+			; <i><span class="en">Verg. A. 10,
+			118</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Of an incomplete circuit, esp. of the part that meets the view, lies
+			on the hither side, etc. (v. under II.): 
+				“<span class="alpheios-lex-la" lang="lat">hostilibus circum litoribus,</span>”
+				 <i><span class="en">Tac. A.
+					2, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aestas... aperto circum pelago peramoena,</span>”
+				 <i><span class="en">id. ib. 4, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gentibus innumeris circum infraque relictis,</span>”
+				 <i><span class="en">Ov. M.
+					4, 668</span></i>
+			; <i><span class="en">Stat. Achill. 1, 56</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">corpus servans circumque supraque vertitur,</span>”
+				 <i><span class="en">id.
+					Th. 9, 114</span></i>
+			; Albin. Carm. ap. Maecen. 46. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<i>Prep.</i> with acc.
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Around</i>, <i>abow</i> (implying a
+			complete circuit): 
+				“<span class="alpheios-lex-la" lang="lat">armillas quattuor facito, quas circum orbem
+					indas,</span>”
+				 <i><span class="en">Cato, R. R. 21, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">terra circum axem se summā celeritate
+					convertit,</span>”
+				 <i><span class="en">Cic. Ac. 2, 39, 123</span></i>
+			; <i><span class="en">Quint. 2, 17, 19</span></i> Zumpt <i>N. cr.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ligato circum collum sudario,</span>”
+				 <i><span class="en">Suet. Ner. 51</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">terque novas circum felix eat hostia fruges,</span>”
+				 <i><span class="en">Verg.
+					G. 1, 345</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">at genitor circum caput omne micantes Deposuit
+					radios,</span>”
+				 <i><span class="en">Ov. M.
+					2, 40</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> As in
+				adv. B., of an incomplete circuit, <i>about</i>, <i>upon</i>, <i>around</i>, <i>near</i>: 
+				“<span class="alpheios-lex-la" lang="lat">capillus sparsus, promissus, circum caput
+					Rejectus neglegenter,</span>”
+				 <i><span class="en">Ter.
+					Heaut. 2, 3, 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">flexo circum cava tempora cornu,</span>”
+				 <i><span class="en">Ov. M.
+					7, 313</span></i>
+			; <i><span class="en">10, 116</span></i>; <i><span class="en">11, 159</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tum Salii ad cantus incensa altaria circum
+					adsunt,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 285</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">varios hic flumina circum Fundit humus flores,</span>”
+				<i>on the borders of the rivulets</i>,
+				 <i><span class="en">id. E.
+					9, 40</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">urgeris turbā circum te stante,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 3, 135</span></i>
+			; cf. <i><span class="en">id. C. 2, 16, 33</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">circum renidentes Lares,</span>”
+				 <i><span class="en">id.
+					Epod. 2, 66</span></i>
+			; <i><span class="en">Verg. G. 2, 484</span></i>; cf. <i><span class="en">Luc. 2,
+			557</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">illi indignantes Circum claustra fremunt,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 56</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oras et litora circum errantem,</span>”
+				 <i><span class="en">id. ib. 3, 75</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			Circum very freq. expresses, not a relative motion around a given
+			central point, but an absol. circular movement, in which several
+			objects named form separate points of a periphery, <i>in</i>, <i>into</i>, <i>among...
+				around</i>, <i>to... around</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">te adloquor, Quae circum vicinos vages,</span>”
+				 <i><span class="en">Plaut. Mil. 2, 5, 14</span></i>
+			: ego Arpini volo esse pridie Cal., deinde circum villulas
+			nostras errare, not <i>round about our villas</i>, but
+				<i>in our villas around</i>, <i><span class="en">Cic. Att. 8,
+				9, 3</span></i>; cf <i><span class="en">Hor. S. 1, 6, 58</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tum Naevius pueros circum amicos dimittit,</span>”
+				<i>to friends around</i>,
+				 <i><span class="en">Cic. Quint. 6, 25</span></i>
+			; <i><span class="en">Suet. Ner. 47</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum praetorem circum omnia fora sectaretur,</span>”
+				 <i><span class="en">Cic. Verr 2, 2, 70, § 169</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Apronius ducebat eos circum civitates,</span>”
+				 <i><span class="en">id. ib. 2, 3, 26</span></i>
+			, § 
+				“<span class="alpheios-lex-la" lang="lat">65: ille circum hospites cursabat,</span>”
+				 <i><span class="en">id. ib. 2, 4, 19</span></i>
+			, § 
+				“<span class="alpheios-lex-la" lang="lat">41: lenonem quondam Lentuli concursare circum
+					tabernas,</span>”
+				 <i><span class="en">id.
+					Cat. 4, 8, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dimissis circum municipia litteris,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">circum oram maritimam misit, ut, etc.,</span>”
+				 <i><span class="en">Liv.
+					29, 24, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">legatio sub idem tempus in Asiam et circum
+					insulas missa,</span>”
+				 <i><span class="en">id.
+					42, 45, 1</span></i>
+			; <i><span class="en">Suet. Aug. 64</span></i>; <i><span class="en">id.
+				Caes. 41</span></i>; <i><span class="en">id. Calig. 28</span></i>; <i><span class="en">41</span></i>;
+				<i><span class="en">Hor.
+				S. 2, 3, 281</span></i>; <i><span class="en">id. Ep 1, 1,
+			49</span></i>: et te circum omnes alias irata puellas Differet, <i>to</i> or <i>among all the other
+				maidens around</i>, <i><span class="en">Prop. 1, 4, 21</span></i>—
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>D.</b> With the prevailing
+			idea of neighborhood, vicinity, <i>in the environs
+			of</i>, <i>in the vicinity of</i>, <i>at</i>, <i>near</i>: 
+				“<span class="alpheios-lex-la" lang="lat">circum haec loca commorabor,</span>”
+				 <i><span class="en">Cic.
+					Att. 3, 17, 2</span></i>
+			; Pompei <i><span class="en">ib. 8, 12</span></i>, C, 1
+			exercitu in foro et in omnibus templis, quae circum forum sunt,
+			conlocato, <i><span class="en">Cic. Opt. Gen. 4, 10</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">urbes, quae circum Capuam sunt,</span>”
+				 <i><span class="en">id.
+					Agr. 1, 7, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum tot essent circum hastam illam,</span>”
+				 <i><span class="en">id.
+					Phil. 2, 26, 64</span></i>
+			 Wernsd. <i>N. cr.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">non succurrit tibi, quamdiu circum Bactra
+					haereas?</span>”
+				 <i><span class="en">Curt.
+					7, 8, 21</span></i>
+			, <i><span class="en">Tac. A. 4, 74</span></i>.
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>E.</b> Of persons
+			who surround one (as attendants, friends, etc.); in Gr.<span class="alpheios-lex-greek" lang="grc">περι</span> or <span class="alpheios-lex-greek" lang="grc">ἀμφί
+			τινα</span>: 
+				“<span class="alpheios-lex-la" lang="lat">paucae, quae circum illam essent,</span>”
+				 <i><span class="en">Ter.
+					Eun. 3, 5, 33</span></i>
+			; <i><span class="en">Cic. Att. 9, 9, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">omnium flagitiorum atque facinorum circum se
+					tamquam stipatorum catervas habebat,</span>”
+				 <i><span class="en">Sall. C. 14, 1</span></i>
+			; cf. <i><span class="en">id. ib. 26, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Hectora circum,</span>”
+				 <i><span class="en">Verg.
+					A. 6, 166</span></i>
+			.—Circum pedes for ad pedes, of servants in
+			attendance, is rare, <i><span class="en">Cic. Verr. 2, 1, 36, § 92</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">v ad, I. D. 3. b.—!*? Circum is
+					sometimes placed after its subst.,</span>”
+				 <i><span class="en">Varr. L. L. 5, § 31</span></i>
+			 Müll., Lucr 1, 937; 4, 220; 6, 427; <i><span class="en">Cic. N.
+				D. 2, 41, 105</span></i>; <i><span class="en">Verg. E. 8, 12</span></i>; <i><span class="en">8, 74</span></i>;
+				<i><span class="en">9, 40</span></i>; <i><span class="en">id. A. 1, 32</span></i>; <i><span class="en">2, 515</span></i>;
+				<i><span class="en">2, 564</span></i>; 3, 75: 6, 166; 6, 329; 9, 440; <i><span class="en">Tib. 1, 1,
+				23</span></i>; <i><span class="en">1, 5,
+			51</span></i>; <i><span class="en">Stat. Th. 3,
+			395</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>III.</b> In composition the <i>m</i> remains unchanged before
+			consonants; before vowels it was, acc. to
+				<i><span class="en">Prisc. p. 567</span></i> P., and
+					<i><span class="en">Cassiod. p. 2294</span></i> ib., written
+			in like manner, but (except before <i>j</i> and <i>v</i>) not pronounced. Yet in the best MSS. we find
+			the orthography circuitio, circuitus, and even circueo together with
+			circumeo; cf. Neue, Formenl. 2, p. 736 sq. —Signif.,
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Acc. to II. A.:
+			circumcido, circumcludo, circumculco, circumfluo, circumfodio,
+			circumfundo, etc.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Acc. to II. B.: circumcolo, circumflecto, circumjaceo,
+			circumicio.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			Acc. to II. C.: circumcellio, circumcurso, circumduco, circumfero,
+			circumforaneus.—In many compounds, circum has sometimes
+			one and sometimes another signif., as in circumdo, circumeo,
+			circumsisto, etc.; v. h. vv.—!*? With verbs compounded
+			with circum, this preposition is never repeated before the
+				following
+			 object; e. g. circumcursare circum aliquid and
+			similar phrases are not found.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

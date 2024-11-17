@@ -1,0 +1,255 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n12071" body-key=""><b><span class="alpheios-lex-la" lang="lat">custōdĭa</span></b> , ae,
+			f.
+		id., <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>a
+				watching, watch, guard, care, protection</i> (freq. and 
+			 class.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b> In gen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">in tuam custodiam meque et meas spes trado,</span>”
+				 <i><span class="en">Plaut. Most. 2, 1, 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">agitare custodiam,</span>”
+				<i>to keep guard</i>,
+				 <i><span class="en">id.
+					Rud. 3, 6, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">iis impedimentis custodiae ac praesidio VI.
+					milia hominum unā reliquerunt,</span>”
+				 <i><span class="en">Caes.
+					B. G. 2, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sub hospitum privatorum custodiā
+					esse,</span>”
+				 <i><span class="en">Liv.
+					42, 19, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tam fida canum,</span>”
+				 <i><span class="en">Cic. N. D. 2, 63, 158</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pastoris,</span>”
+				 <i><span class="en">Col.
+					8, 4, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">paedagogorum,</span>”
+				 <i><span class="en">Quint. 1, 2, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dura matrum,</span>”
+				<i>care, oversight</i>,
+				 <i><span class="en">Hor. Ep. 1, 1, 22</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">navium longarum,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 39</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ignis (Vestae),</span>”
+				 <i><span class="en">Cic.
+					Leg. 2, 12, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">urbis,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 17</span></i>
+			; <i><span class="en">2, 36</span></i>; <i><span class="en">Liv. 5, 10,
+				4</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">urbis, sui,</span>”
+				 <i><span class="en">Suet. Aug. 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">corporis,</span>”
+				 <i><span class="en">id. Galb. 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illa (sc. pontis),</span>”
+				 <i><span class="en">Nep.
+					Milt. 3, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">portus, Auct. B. Alex. 17: cum in ejusdem anni
+					custodiā te atque L. Murenam fortuna posuisset,</span>”
+				 <i><span class="en">Cic.
+					Mur. 31, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquid privatā custodiā
+					continere,</span>”
+				 <i><span class="en">id.
+					Sull. 15, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">circum familias conventus Campaniae custodiae
+					causā distribuit,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 14 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in muro custodiae causā conlocati,</span>”
+				 <i><span class="en">id. ib. 1, 28</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">Auct. B. Afr. 46: navis quae erat ad custodiam
+					ab Acilio posita,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 40</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tribunus adpositus custodiae (alicujus),</span>”
+				 <i><span class="en">Tac. A.
+					1, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ignaviam suam tenebrarum ac parietum custodiis
+					tegere,</span>”
+				 <i><span class="en">Cic.
+					Rab. Perd. 7, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">a cujus audaciā fratris liberos ne
+					materni quidem corporis custodiae tegere potuissent,</span>”
+				 <i><span class="en">id.
+					Clu. 11, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fida justitiae,</span>”
+				 <i><span class="en">id.
+					Fin. 2, 34, 113</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">una fidelis memoriae rerum gestarum (litterae),</span>”
+				 <i><span class="en">Liv.
+					6, 1, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">libertatis,</span>”
+				 <i><span class="en">id.
+					4, 24, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">suae religionis,</span>”
+				 <i><span class="en">Quint. 6, 1, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">decoris,</span>”
+				 <i><span class="en">id.
+					11, 1, 57</span></i>
+			 et saep.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Meton.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Usu. in
+			plur. and in milit. lang., <i>persons
+				who serve as guards, a guard, watch, sentinel</i>: 
+				“<span class="alpheios-lex-la" lang="lat">colonia meis praesidiis, custodiis, vigiliis
+					munita,</span>”
+				 <i><span class="en">Cic.
+					Cat. 1, 3, 8</span></i>
+			; <i><span class="en">2, 12, 26</span></i>; <i><span class="en">id. Verr. 2, 3, 24, § 60</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">neque clam transire propter custodias
+					Menapiorum possent,</span>”
+				 <i><span class="en">Caes. B.
+					G. 4, 4</span></i>
+			; <i><span class="en">7, 19</span></i>; <i><span class="en">7, 27</span></i> et saep.—In
+				sing. (collect.), <i><span class="en">Cat. 62,
+			33</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">abest custodia regi,</span>”
+				 <i><span class="en">Ov.
+					M. 14, 371</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">unicus anser erat, minimae custodia villae,</span>”
+				 <i><span class="en">id.
+					ib. 8, 684</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">corporis,</span>”
+				<i>a body-guard</i>,
+				 <i><span class="en">Curt.
+					5, 1, 42</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>A place where guard is kept, a watch-</i> or <i>guard - house, watch - station</i>: 
+				“<span class="alpheios-lex-la" lang="lat">haec (urbs) mea sedes est, haec vigilia, haec
+					custodia,</span>”
+				 <i><span class="en">Cic. Phil. 12, 10, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">privata,</span>”
+				 <i><span class="en">id.
+					Sull. 15, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in hac custodiā et tamquam
+					speculā,</span>”
+				 <i><span class="en">id.
+					Phil. 7, 7, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ceteri in custodiam conditi,</span>”
+				 <i><span class="en">Tac. H.
+					4, 2</span></i>
+			.—In plur., <i><span class="en">Cic. Imp.
+				Pomp. 6, 16</span></i>; <i><span class="en">id. Rab. Perd. 7,
+			21</span></i>—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			With the access. idea of hindering free motion, <i>a
+				watching, guarding, custody, restraint, confinement</i>.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">nec cuiquam uni custodiam ejus (sc.
+					Philopoemenis capti) satis credebant,</span>”
+				 <i><span class="en">Liv.
+					39, 50, 2</span></i>
+			: quive (servi) inve ludum custodiamve conjecti fuerint, Gai
+					<i><span class="en">Inst. 1, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">animal quod custodiam nostram evadit,</span>”
+				 <i><span class="en">id. ib. 2, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">famulos vinclis atque custodiā ...
+					tueri,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 2, 21, 48</span></i>
+			. —<i>Plur.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">in praedonum hostiumque custodias tantum
+					numerum civium Romanorum includere,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 55, § 144</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">libera,</span>”
+				<i>private custody, confinement in one's house</i>,
+				 <i><span class="en">Liv.
+					24, 45, 8</span></i>
+			; <i><span class="en">Vell. 1, 11</span></i> (cf.: 
+				“<span class="alpheios-lex-la" lang="lat">libero conclavi,</span>”
+				 <i><span class="en">Liv.
+					39, 14, 9</span></i>
+			); and in plur.: 
+				“<span class="alpheios-lex-la" lang="lat">in liberis custodiis,</span>”
+				 <i><span class="en">Sall. C. 47, 3</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">trop.: domi teneamus eam (eloquentiam), saeptam
+					liberali custodiā,</span>”
+				 <i><span class="en">Cic.
+					Brut. 96, 330</span></i>
+			.—Perh. in a play upon the words libera custodia: 
+				“<span class="alpheios-lex-la" lang="lat">ut sis apud me ligneā in
+					custodiā,</span>”
+				 <i><span class="en">Plaut. Poen. 5, 6, 28</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Meton.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>A place of confinement, a prison, hold</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Lentulus comprehenditur et in
+					custodiā necatur,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 104 <i>fin.</i></span></i>
+			; <i><span class="en">Cic. Verr. 2, 5, 27</span></i>,
+			§§ 68 and 69; <i><span class="en">id. Cat. 1,
+				8, 19</span></i>; <i><span class="en">id. Q. Fr. 1, 2, 4, § 14</span></i>;
+				<i><span class="en">id.
+				Div. 1, 25, 52</span></i>; <i><span class="en">id. Tusc.
+				1, 29, 71</span></i> et saep. —<b>Trop.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">corporis custodiis se liberare,</span>”
+				 <i><span class="en">Cic.
+					Rep. 6, 15, 15</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Persons in confinement, captives, prisoners</i>
+			(post-Aug.): 
+				“<span class="alpheios-lex-la" lang="lat">in recognoscendis custodiis,</span>”
+				 <i><span class="en">Suet. Tib. 61</span></i>
+			; <i><span class="en">id. Dom. 14</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">unus ex custodiarum agmine,</span>”
+				 <i><span class="en">Sen. Ep. 77, 18</span></i>
+			.—Of a single person: 
+				“<span class="alpheios-lex-la" lang="lat">eādem catenā et custodiam
+					et militem copulat,</span>”
+				 <i><span class="en">Sen.
+					Ep. 5, 7</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

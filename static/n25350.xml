@@ -1,0 +1,554 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n25350" body-key=""><b><span class="alpheios-lex-la" lang="lat">jungo</span></b> , nxi, nctum, 3, v. a.
+		Sanscr. jug, junagmi, to unite; juk, joined; Goth. juk; O. H.
+			Germ. joh, joch; Gr. <span class="alpheios-lex-greek" lang="grc">ζυγ, ζεύγνυμι, ζυγός,
+				ζυγόν</span>, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to join</i> or <i>unite together,
+				connect, attach, fasten, yoke, harness</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> With <i>acc.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Narcissum et florem anethi,</span>”
+				 <i><span class="en">Verg.
+					E. 2, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pontes et propugnacula,</span>”
+				 <i><span class="en">id. A.
+					9, 170</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nemoris carentia sensu robora,</span>”
+				 <i><span class="en">Claud. B. G. 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gradus,</span>”
+				<i>to close the ranks</i>,
+				 <i><span class="en">Sil.
+					4, 372</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">montes,</span>”
+				<i>to heap up</i>,
+				 <i><span class="en">Val.
+					Fl. 1, 198</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ostia,</span>”
+				<i>to shut</i>,
+				 <i><span class="en">Juv.
+					9, 105</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">junctas quatere fenestras,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 25, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oscula,</span>”
+				<i>to exchange</i>,
+				 <i><span class="en">Ov. M.
+					2, 357</span></i>
+			; cf. 
+			<i><span class="en">id. Am.
+				2, 5, 59</span></i>; <i><span class="en">Petr. 67</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">da jungere dextram,</span>”
+				<i>to clasp</i>,
+				 <i><span class="en">Verg.
+					A. 6, 697</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cur dextrae jungere dextram non datur,</span>”
+				 <i><span class="en">id. ib. 1, 408</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quas junximus hospitio dextras,</span>”
+				 <i><span class="en">id. ib. 3, 83</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">11, 165: duos sinus,</span>”
+				 <i><span class="en">Plin.
+					5, 29, 31, § 116</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juncto ponte milites transmittit,</span>”
+				 <i><span class="en">Tac. A.
+					1, 49</span></i>
+			.—So with <i>abl. of means</i> or <i>manner</i>: 
+				“<span class="alpheios-lex-la" lang="lat">Ticinum ponte,</span>”
+				<i>to span</i>,
+				 <i><span class="en">Liv.
+					21, 45, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amnem ponte,</span>”
+				 <i><span class="en">Plin.
+					5, 24, 21, § 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ratibus flumen,</span>”
+				<i>to bridge</i>,
+				 <i><span class="en">Liv.
+					21, 47, 2</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">qui biduo vix locum rate jungendo flumini
+					inventum tradunt,</span>”
+				 <i><span class="en">id.
+					21, 47, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">eo omnia vallo et fossa,</span>”
+				 <i><span class="en">id.
+					38, 4, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plumbum nigrum albo,</span>”
+				 <i><span class="en">Plin.
+					33, 5, 30, § 94</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nam calamus cera jungitur,</span>”
+				 <i><span class="en">Tib.
+					2, 5, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illos defendit numerus junctaeque umbone
+					phalanges,</span>”
+				 <i><span class="en">Juv. 2,
+					46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">erga juncta est mihi foedere dextra,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 169</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Pompei acies junxerat in seriem nexis umbonibus
+					arma,</span>”
+				 <i><span class="en">Luc.
+					7, 453</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			With <i>dat. of indir. object</i>: 
+				“<span class="alpheios-lex-la" lang="lat">hoc opus ad turrim hostium admovent, ut
+					aedificio jungatur,</span>”
+				 <i><span class="en">Caes.
+					B. C. 2, 10 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">humano capiti cervicem equinam,</span>”
+				 <i><span class="en">Hor. A. P.
+					2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mortua corpora vivis,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 485</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">his tignis contraria duo juncta,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 17, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">se Romanis,</span>”
+				 <i><span class="en">Liv.
+					24, 49, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exercitum sibi,</span>”
+				 <i><span class="en">Vell.
+					2, 80, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">socia arma Rutulis,</span>”
+				 <i><span class="en">Liv.
+					1, 2, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">victores Germani juncturi se Pannoniis,</span>”
+				 <i><span class="en">Suet. Tib. 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cervicem meam amplexui,</span>”
+				 <i><span class="en">Petr. 86</span></i>
+			 dub. (Büch., vinxit amplexu): 
+				“<span class="alpheios-lex-la" lang="lat">dextra dextrae jungitur,</span>”
+				 <i><span class="en">Ov. M.
+					6, 447</span></i>
+			; cf. <i><span class="en">Verg. A. 1, 408</span></i> supra: 
+				“<span class="alpheios-lex-la" lang="lat">aeri aes plumbo fit uti jungatur ab albo,</span>”
+				 <i><span class="en">Lucr.
+					6, 1079</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juncta est vena arteriis,</span>”
+				 <i><span class="en">Cels.
+					2, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Comius incensum calcaribus equum jungit equo
+					Quadrati,</span>”
+				<i>drives against</i>,
+				 <i><span class="en">Hirt. B. C. 8, 48</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> With
+				<i>inter se</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tigna bina inter se,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 17, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">maxime autem corpora inter se juncta permanent,
+					cum, etc.,</span>”
+				 <i><span class="en">Cic. N. D. 2, 45, 115</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">disparibus calamis inter se junctis,</span>”
+				 <i><span class="en">Ov. M.
+					1, 712</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">saltus duo alti inter se juncti,</span>”
+				 <i><span class="en">Liv.
+					9, 2, 7</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> With
+				<i>cum</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum Bruto Cassioque vires suas,</span>”
+				 <i><span class="en">Vell.
+					2, 65, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">legiones se cum Caesare juncturae,</span>”
+				 <i><span class="en">id.
+					2, 110, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">erat cum pede pes junctus,</span>”
+				 <i><span class="en">Ov. M.
+					9, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lecto mecum junctus in uno,</span>”
+				 <i><span class="en">id.
+					H. 13, 117</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">digitis medio cum pollice junctis,</span>”
+				 <i><span class="en">id. F.
+					5, 433</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lingua cum subjecta parte juncta est,</span>”
+				 <i><span class="en">Cels.
+					7, 12, 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> Esp.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>To harness, yoke, attach</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> Of animals: angues ingentes alites
+			juncti jugo, Pac. ap. <i><span class="en">Cic. Inv. 1, 19, 27</span></i> (Trag. v. 397
+			Rib.): 
+				“<span class="alpheios-lex-la" lang="lat">junge pares,</span>”
+				i. e. <i>in pairs</i>,
+				 <i><span class="en">Verg.
+					G. 3, 169</span></i>
+			; <i><span class="en">Grat. Cyneg. 263</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec jungere tauros norant,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 316</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">currus et quatuor equos,</span>”
+				 <i><span class="en">id. G.
+					3, 114</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">grypes equis,</span>”
+				 <i><span class="en">id. E.
+					8, 27</span></i>
+			 Forbig.: 
+				“<span class="alpheios-lex-la" lang="lat">curru jungit Halaesus Equos,</span>”
+				 <i><span class="en">id. A.
+					7, 724</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">leones ad currum,</span>”
+				 <i><span class="en">Plin.
+					8, 16, 21, § 54</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mulis e proximo pistrino ad vehiculum junctis,</span>”
+				 <i><span class="en">Suet. Caes. 31</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			Of a vehicle (rare): 
+				“<span class="alpheios-lex-la" lang="lat">reda equis juncta,</span>”
+				 <i><span class="en">Cic.
+					Att. 6, 1, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neve (mulier) juncto vehiculo veheretur,</span>”
+				 <i><span class="en">Liv.
+					34, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juncta vehicula, pleraque onusta, mille admodum
+					capiuntur,</span>”
+				 <i><span class="en">id.
+					42, 65, 3</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of
+			wounds, etc., <i>to join, bring together, unite,
+			heal</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ego vulnera doctum jungere Etiona petam,</span>”
+				 <i><span class="en">Stat.
+					Th. 10, 733</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">parotidas suppuratas,</span>”
+				 <i><span class="en">Scrib. Comp. 206</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oras (tumoris),</span>”
+				 <i><span class="en">Cels.
+					7, 17, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oras vulneris,</span>”
+				 <i><span class="en">id. 5, 4, 23 al.</span></i>
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> Of
+			lands, territories, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">juncta pharetratis Sarmatis ora Getis,</span>”
+				<i>adjoining</i>,
+				 <i><span class="en">Ov.
+					Tr. 4, 10, 110</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">juncta Aquilonibus Arctos,</span>”
+				 <i><span class="en">id. M.
+					2, 132</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quibus (campis) junctae paludes erant,</span>”
+				 <i><span class="en">Front. Strat. 2, 5, 6</span></i>
+			; <i><span class="en">Vell. 2, 110, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">fundos Apuliae,</span>”
+				<i>to add, join to</i>,
+				 <i><span class="en">Petr. 77</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">longos jungere fines agrorum,</span>”
+				 <i><span class="en">Luc.
+					1, 167</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>To connect in time, cause to follow
+			immediately</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum diei noctem pervigilem junxisset,</span>”
+				 <i><span class="en">Just. 12, 13, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">somnum morti,</span>”
+				 <i><span class="en">Petr. 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vidit hic annus Ventidium consularem praetextam
+					jungentem praetoriae,</span>”
+				 <i><span class="en">Vell.
+					2, 65, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nulla natio tam mature consino belli bellum
+					junxit,</span>”
+				 <i><span class="en">id.
+					2, 110, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">junge, puer, cyathos, atque enumerare labora,</span>”
+				 <i><span class="en">Stat.
+					S. 1, 5, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">laborem difficilius est repetere quam jungere,</span>”
+				<i>to resume than to continue</i>,
+				 <i><span class="en">Plin.
+					Ep. 4, 9, 10</span></i>
+			.—So of pronunciation: 
+				“<span class="alpheios-lex-la" lang="lat">si jungas (opp. interpunctis quibusdam),</span>”
+				 <i><span class="en">Quint. 9, 4, 108</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<b>Milit. t. t.</b>, of troops, an army, etc., <i>to join, unite</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum juncti essent,</span>”
+				 <i><span class="en">Liv.
+					25, 35</span></i>
+			; <i><span class="en">25, 37</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">exercitum Pompei sibi,</span>”
+				 <i><span class="en">Vell.
+					2, 80, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">junctis exercitious,</span>”
+				 <i><span class="en">Vell. 2, 113, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum collegae se junxisset,</span>”
+				 <i><span class="en">Front. Strat. 1, 1, 9</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">exercitum,</span>”
+				 <i><span class="en">id. ib. 1, 2, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Ajacem naves suas Atheniensibus junxisse,</span>”
+				 <i><span class="en">Quint. 5, 11, 40</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<i>To add, give in addition</i>: 
+				“<span class="alpheios-lex-la" lang="lat">commoda praeterea jungentur multa caducis,</span>”
+				 <i><span class="en">Juv. 9,
+					89</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>7.</b> In
+			mal. part.: 
+				“<span class="alpheios-lex-la" lang="lat">corpora,</span>”
+				 <i><span class="en">Ov.
+					M. 10, 464</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">turpia corpora,</span>”
+				 <i><span class="en">id. H.
+					9, 134</span></i>
+			: tu mihi  juncta toro, <i><span class="en">id. F. 3,
+				511</span></i>; <i><span class="en">id. R. Am. 408</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si jungitur ulla Ursidio,</span>”
+				 <i><span class="en">Juv. 6,
+					41</span></i>
+			; <i><span class="en">6, 448</span></i>; cf. 
+				“<span class="alpheios-lex-la" lang="lat">Venerem,</span>”
+				 <i><span class="en">Tib.
+					1, 9, 76</span></i>
+			; <i><span class="en">Ov.
+				H. 353</span></i>; <i><span class="en">id. R. Am.
+			407</span></i>.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen., of abstract
+			things, <i>to bring together, join, unite</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum hominibus nostris consuetudines, amicitias,
+					res rationesque jungebat,</span>”
+				 <i><span class="en">Cic.
+					Deiot. 9, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omnem naturam, quae non solitaria sit ... sed
+					cum alio juncta atque conexa, etc.,</span>”
+				 <i><span class="en">id.
+					N. D. 2, 11, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an virtus et voluptas inter se jungi
+					copularique possint,</span>”
+				 <i><span class="en">id.
+					de Or. 1, 51, 122</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sapientiam junctam habere eloquentiae,</span>”
+				 <i><span class="en">id. ib. 3, 35, 142</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">indignationem conquestioni,</span>”
+				 <i><span class="en">id.
+					Inv. 2, 11, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">insignis improbitas et scelere juncta,</span>”
+				 <i><span class="en">id.
+					de Or. 2, 58, 237</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plura crimina junguntur,</span>”
+				<i>are combined</i>,
+				 <i><span class="en">Quint.
+					4, 4, 5</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Esp. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Of persons, <i>to join, unite, bring together, associate</i>, in
+			love, marriage, relationship, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">cum impari,</span>”
+				 <i><span class="en">Liv. 1,
+					46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum pare,</span>”
+				 <i><span class="en">Ov. F.
+					4, 98</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alicujus filiam secum matrimonio,</span>”
+				 <i><span class="en">Curt.
+					5, 3, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si tibi legitimis pactam junctamque tabellis
+					non es amaturus,</span>”
+				 <i><span class="en">Juv.
+					6, 200</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juncta puella viro,</span>”
+				 <i><span class="en">Ov. A.
+					A. 1, 682</span></i>
+			; <i><span class="en">id. Tr. 2, 284</span></i>. —Of animals,
+			etc.: 
+				“<span class="alpheios-lex-la" lang="lat">Appulis jungentur capreae lupis,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 33, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">variis albae junguntur columbac,</span>”
+				 <i><span class="en">Ov. H.
+					15, 37</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">unaque nos sibi operā amicos junget,</span>”
+				 <i><span class="en">Ter.
+					Hec. 5, 2, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut quos certus amor junxit,</span>”
+				 <i><span class="en">Ov. M.
+					4, 156</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amicos,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 3, 54</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Geminum mecum tua in me beneficia junxerunt,</span>”
+				 <i><span class="en">Plin. Ep. 10, 26, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">puer puero junctus amicitia,</span>”
+				 <i><span class="en">Ov.
+					P. 4, 3, 12</span></i>
+			.—Esp., of a treaty, alliance, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">si populus Romanus foedere jungeretur regi,</span>”
+				 <i><span class="en">Liv.
+					26, 24</span></i>
+			; <i><span class="en">Just. 15, 4, 24</span></i>.
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of things,
+				<i>to make by joining, enter into</i>: 
+				“<span class="alpheios-lex-la" lang="lat">pacem cum Aenea, deinde adfinitatem,</span>”
+				 <i><span class="en">Liv. 1,
+					1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nova foedera,</span>”
+				 <i><span class="en">id. 7,
+					30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum Hispanis amicitiam,</span>”
+				 <i><span class="en">Just.
+					43, 5, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">societatem cum eo metu potentiae ejus,</span>”
+				 <i><span class="en">id.
+					22, 2, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">foedus cum eo amicitiamque,</span>”
+				 <i><span class="en">Liv.
+					24, 48</span></i>
+			; <i><span class="en">23, 33</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">juncta societas Hannibali,</span>”
+				 <i><span class="en">id. 24,
+					6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">foedera,</span>”
+				 <i><span class="en">id. 7,
+					30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jungendae societatis gratia,</span>”
+				 <i><span class="en">Just.
+					20, 4, 2</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> Of
+			words, etc., <i>to join, unite</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> Esp., gram. t. t.: verba jungere,
+				<i>to make by joining, to compound</i>: 
+				“<span class="alpheios-lex-la" lang="lat">jungitur verbum ex corrupto et integro, ut
+					malevolus,</span>”
+				 <i><span class="en">Quint. 1, 5, 68</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in jungendo aut in derivando,</span>”
+				 <i><span class="en">id.
+					8, 3, 31</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">juncta verba,</span>”
+				 <i><span class="en">Cic.
+					Or. 56, 186</span></i>
+			; <i><span class="en">id. Part. Or. 15,
+			53</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			<i>To connect</i> so as to sound agreeably: 
+				“<span class="alpheios-lex-la" lang="lat">quantum interest ... verba eadem qua
+					compositione vel in textu jungantur vel in fine claudantur,</span>”
+				 <i><span class="en">Quint. 9, 4, 15</span></i>
+			.—Hence, <i>P. a.</i>: <b><span class="alpheios-lex-la" lang="lat">junc-tus</span></b> , a, um,
+				<i>joined, united, connected, associated</i>: 
+				“<span class="alpheios-lex-la" lang="lat">in opere male juncto,</span>”
+				 <i><span class="en">Quint. 12, 9, 17</span></i>
+			.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">causa fuit propior et cum exitu junctior,</span>”
+				 <i><span class="en">Cic.
+					Fat. 16, 36</span></i>
+			.—<i>Sup.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">junctissimus illi comes,</span>”
+				<i>most attached</i>,
+				 <i><span class="en">Ov. M.
+					5, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">principum prosperis et alii fruantur: adversae
+					ad junctissimos pertineant,</span>”
+				<i>their nearest of kin</i>,
+				 <i><span class="en">Tac. H.
+					4, 52</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

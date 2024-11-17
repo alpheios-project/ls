@@ -1,0 +1,155 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n21001" body-key=""><b><span class="alpheios-lex-la" lang="lat">hospĭtālis</span></b> , e,
+			adj.
+		hospes, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>of</i> or <i>relating to a guest</i>
+			or <i>host</i>, <i>hospitable</i>,
+				<span class="alpheios-lex-greek" lang="grc">ξένιος, ξενικός</span>.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			Adj. (class.): 
+				“<span class="alpheios-lex-la" lang="lat">illam ipsam sedem hospitalem, in quam erit
+					deductus, publicam populi Romani esse dicet,</span>”
+				 <i><span class="en">Cic.
+					Agr. 2, 17, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">deversorium,</span>”
+				 <i><span class="en">Liv.
+					21, 63 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cubiculum,</span>”
+				<i>guest-chamber</i>,
+				 <i><span class="en">id. 1,
+					58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">beneficia,</span>”
+				 <i><span class="en">id. 2,
+					14 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aves,</span>”
+				<i>set before a guest</i>,
+				 <i><span class="en">Varr. R. R. 3, 2, 3</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">cena Augusti,</span>”
+				 <i><span class="en">Plin.
+					33, 4, 24, § 83</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">umbra,</span>”
+				 <i><span class="en">Hor.
+					C. 2, 3, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tessera,</span>”
+				<i>which guests gave to the host</i>,
+				 <i><span class="en">Plaut. Poen. 5, 2, 87 sq.</span></i>
+			; cf. <i><span class="en">ib. 5, 1, 25</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Juppiter,</span>”
+				<i>the patron of hospitality</i>,
+				 <i><span class="en">Cic.
+					Deiot. 6, 18</span></i>
+			; <i><span class="en">id. Fin. 3, 20, 66</span></i>; <i><span class="en">id. Q.
+				Fr. 2, 12, 3 al.</span></i>; cf. 
+				“<span class="alpheios-lex-la" lang="lat">deus,</span>”
+				 <i><span class="en">Plaut. Poen. 5, 1, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non dubitavit illud insigne Penatium
+					hospitaliumque deorum ex hospitali mensa tollere,</span>”
+				 <i><span class="en">Cic. Verr. 2, 4, 22, § 48</span></i>
+			: fulmina, <i>of Jupiter</i> hospitalis, <i><span class="en">Sen. Q.
+				N. 2, 49</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">caedes,</span>”
+				<i>the murder of a guest</i>,
+				 <i><span class="en">Liv.
+					25, 18, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">TABVLA,</span>”
+				i. e. <i>a municipal decree for the reception of a
+					guest</i>,
+				 <i><span class="en">Inscr. Grut. 456, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Theophrastus scribit, Cimonem Athenis etiam in
+					suos curiales Laciadas hospitalem fuisse,</span>”
+				 <i><span class="en">Cic.
+					Off. 2, 18, 64</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">homo qui semper hospitalissimus amicissimusque
+					nostrorum hominum existimatus esset (shortly before: cum
+					suae partes essent hospitum recipiendorum),</span>”
+				 <i><span class="en">id. Verr. 2, 1, 26, § 65</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tua illa Venus,</span>”
+				 <i><span class="en">id.
+					Cael. 21, 52</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tibi hospitale pectus,</span>”
+				 <i><span class="en">Hor.
+					Epod. 17, 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil hospitalius mari (Campaniae): hospitalem
+					hostem appellare,</span>”
+				 <i><span class="en">Liv.
+					25, 18, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hinc illi nobiles portus Cajeta, Misenus, etc.,</span>”
+				 <i><span class="en">Flor.
+					1, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">appulsus litorum,</span>”
+				 <i><span class="en">Plin.
+					2, 46, 45, § 118</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Subst.
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<b><span class="alpheios-lex-la" lang="lat">hospĭtālis</span></b> , is,
+			m., <i>a guest</i>: injuriae potestatum in
+			hospitales ad visendum venientium, Hipponenses in necem ejus
+				(delphini) compulerunt, <i><span class="en">Plin. 9, 8,
+				8, § 26</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<b><span class="alpheios-lex-la" lang="lat">hospĭtālia</span></b> , ium,
+			n.
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b>
+			<i>Apartments for guests</i>, <i>guest-chambers</i>, <i><span class="en">Vitr. 6,
+			10</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			On the stage, <i>the two entrances on the right and
+				left for strangers</i>, <i><span class="en">Vitr. 5,
+			7</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			(Sc. jura.) <i>The dues of hospitality</i>, <i><span class="en">Liv. 42, 24
+					<i>fin.</i></span></i>—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>, of things: ut in Fucino lacu
+			invectus amnis, in Lario Addua, etc. ... in Lemanno Rhodanus: hic
+			trans Alpes superiores in Italia multorum milium transitu hospitales
+			suas tantum nec largiores quam intulere aquas evehentes, <i>foreign</i>, i. e. <i>that flow
+				through without mingling</i>, <i><span class="en">Plin. 2,
+				103, 106, § 224</span></i>; <i><span class="en">17, 10, 14, §
+			69</span></i>. —Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">hospĭtālĭter</span></b> ,
+				<i>hospitably</i>, <i>as a
+			guest</i>: 
+				“<span class="alpheios-lex-la" lang="lat">invitati hospitaliter per domos,</span>”
+				 <i><span class="en">Liv.
+					1, 9, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vocare (opp. hostiliter),</span>”
+				 <i><span class="en">id.
+					6, 26, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">excipere aliquem,</span>”
+				 <i><span class="en">Curt. 7,
+					6 <i>med.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ingredi ad deos Penates,</span>”
+				 <i><span class="en">Just. 8,
+					3</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

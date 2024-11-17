@@ -1,0 +1,209 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n29676" body-key=""><b><span class="alpheios-lex-la" lang="lat">morbus</span></b> , i, m.
+		Sanscr. mar-, die; Gr. <span class="alpheios-lex-greek" lang="grc">βροτός</span>
+			(for <span class="alpheios-lex-greek" lang="grc">μροτός</span>), <span class="alpheios-lex-greek" lang="grc">μαραίνω</span>; cf. morior, marceo, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>a sickness, disease,
+				disorder, distemper, ailment, illness, malady</i>, of body or
+			mind (class.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			Corporeal: 
+				“<span class="alpheios-lex-la" lang="lat">morbum appellant totius corporis corruptionem:
+					aegrotationem morbum cum imbecillitate: vitium cum partes
+					corporis inter se dissident: ex quo pravitas membrorum,
+					distortio, deformitas,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 13, 28</span></i>
+			: morbus est habitus cujusque corporis contra naturam, qui
+			usum ejus facit deteriorem, Labeo ap. <i><span class="en">Gell. 4, 2,
+				3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">morbi aegrotationesque,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 10, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aeger morbo gravi,</span>”
+				 <i><span class="en">id.
+					Cat. 1, 13, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in morbo esse,</span>”
+				<i>to be sick</i>,
+				 <i><span class="en">id.
+					Tusc. 3, 4, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">morbo affectum esse,</span>”
+				 <i><span class="en">id.
+					Div. 1, 30, 63</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">corporis gravioribus morbis vitae jucunditas
+					impeditur,</span>”
+				 <i><span class="en">id.
+					Fin. 1, 18, 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animi valentes morbo tentari non possunt,
+					corpora possunt,</span>”
+				 <i><span class="en">id.
+					Tusc. 4, 14, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">affligi,</span>”
+				 <i><span class="en">id.
+					Pis. 35, 85</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">urgeri,</span>”
+				 <i><span class="en">id.
+					Fat. 9, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tabescere,</span>”
+				 <i><span class="en">id.
+					N. D. 3, 35, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">languere,</span>”
+				 <i><span class="en">Lucr.
+					6, 1221</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">conflictari,</span>”
+				 <i><span class="en">Nep. Dion. 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in morbum cadere,</span>”
+				<i>to fall sick</i>,
+				 <i><span class="en">Cic.
+					Tusc. 1, 32, 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">incidere,</span>”
+				 <i><span class="en">id.
+					Clu. 62, 175</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">delabi,</span>”
+				 <i><span class="en">id.
+					Att. 7, 5, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">morbum nancisci,</span>”
+				 <i><span class="en">Nep.
+					Att. 21, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">morbo consumi,</span>”
+				 <i><span class="en">id. Reg.
+					2, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">perire,</span>”
+				 <i><span class="en">id.
+					ib. 3, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mori,</span>”
+				 <i><span class="en">id.
+					Them. 10, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">absumi,</span>”
+				 <i><span class="en">Sall.
+					J. 5, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">confici,</span>”
+				 <i><span class="en">id.
+					ib. 9, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">opprimi,</span>”
+				 <i><span class="en">Cic.
+					Clu. 7, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">homo aeger morbo gravi,</span>”
+				 <i><span class="en">id.
+					Cat. 1, 13, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex morbo convalescere,</span>”
+				<i>to recover</i>,
+				 <i><span class="en">id.
+					Fam. 13, 29, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">a morbo valere,</span>”
+				 <i><span class="en">Plaut. Ep. 1, 2, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">morbum depellere,</span>”
+				 <i><span class="en">Cic.
+					Fam. 7, 26, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">levare,</span>”
+				<i>to alleviate, relieve</i>,
+				 <i><span class="en">Plaut. Mil. 4, 6, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amplior fit,</span>”
+				<i>becomes more violent</i>,
+				 <i><span class="en">Ter.
+					Hec. 3, 1, 50</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">adgravescit,</span>”
+				 <i><span class="en">id. ib. 3, 2, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ingravescit,</span>”
+				 <i><span class="en">Cic.
+					Cat. 1, 13, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">comitialis or major,</span>”
+				<i>epilepsy</i>,
+				 <i><span class="en">Cels.
+					3, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">regius,</span>”
+				<i>the jaundice</i>,
+				 <i><span class="en">id. 3,
+					24</span></i>
+			: in morbo consumat, a form of imprecation, <i>may he spend it</i> (the money) <i>in
+			sickness</i>, <i><span class="en">Sen. Ben. 4, 39,
+			2</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			Mental. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Disease, a fault, vice</i>, etc.: animi morbi sunt
+			cupiditates immensae,  et inanes, divitiarum, etc.,
+				<i><span class="en">Cic.
+				Fin. 1, 18, 59</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">morbum et insaniam,</span>”
+				 <i><span class="en">id. Verr. 2, 4, 1, § 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen insaniae significat mentis aegrotationem
+					et morbum,</span>”
+				 <i><span class="en">id.
+					Tusc. 3, 4, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hic morbus qui est in re publicā,
+					ingravescet,</span>”
+				 <i><span class="en">id.
+					Cat. 1, 13, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut, si qui aegrotet, quo morbo Barrus,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 6, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">maxima pars hominum morbo jactatur eodem,</span>”
+				 <i><span class="en">id. ib. 2, 3, 121</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui vultu morbum incessuque fatetur,</span>”
+				 <i><span class="en">Juv. 2,
+					17</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>Grief, sorrow, distress</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod mulier facere incepit, nisi id efficere
+					perpetrat, Id illi morbo, id illi senio est,</span>”
+				<i>affliction, distress</i>,
+				 <i><span class="en">Plaut. Truc. 2, 5, 12</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">salvere me jubes, quoi tu abiens offers morbum?</span>”
+				 <i><span class="en">id.
+					As. 3, 3, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>III.</b>
+			<b>Trop.</b>, of trees, plants, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">infestantur namque et arbores morbis,</span>”
+				<i>a disease</i>,
+				 <i><span class="en">Plin. 17, 24, 37, § 116
+				al.</span></i>
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>IV.</b>
+			<b><span class="alpheios-lex-la" lang="lat">Morbus</span></b> , personified as a
+				deity, <i>the son of Erebus and Nox</i>,
+				<i><span class="en">Cic.
+				N. D. 3, 17, 44</span></i>; Hyg. Fab. praef.; <i><span class="en">Sen. Herc. Fur. 694</span></i>; cf. <i><span class="en">Verg. A. 6,
+				275</span></i>; <i><span class="en">Claud. VI. Cons. Hon.
+			323</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

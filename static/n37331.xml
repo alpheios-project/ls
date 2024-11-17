@@ -1,0 +1,282 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n37331" body-key=""><b><span class="alpheios-lex-la" lang="lat">prae</span></b> , adv., and prep. with
+		abl. [for prai, kindred with Sanscr. prefix pra-, before;
+		Gr. <span class="alpheios-lex-greek" lang="grc">πρό, πρίν, πρόσω</span>; cf.: pro,
+		prior, porro, primus]. <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<i>Adv.</i>, <i>before</i>, <i>in front.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b> (ante-class.): 
+				“<span class="alpheios-lex-la" lang="lat">abi prae, Sosia, Jam ego sequar,</span>”
+				<i>go before</i>, <i>go in advance</i>,
+				 <i><span class="en">Plaut. Am. 1, 3, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">i prae, sequar,</span>”
+				 <i><span class="en">Ter.
+					And. 1, 1, 144</span></i>
+			; <i><span class="en">id. Eun. 5, 2, 69</span></i>: i tu prae, virgo; 
+				“<span class="alpheios-lex-la" lang="lat">non queo, quod pone me est, servare,</span>”
+				 <i><span class="en">Plaut.
+					Curc. 4, 2, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">age, age nunc tu, i prae,</span>”
+				 <i><span class="en">id.
+					Pers. 4, 4, 56</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, as a particle of comparison, with <i>ut</i>, <i>quam</i>, or <i>quod</i> (also written in one word, praeut and
+			praequam; cf. Wagner ad <i><span class="en">Plaut. Aul. 503</span></i>), <i>in comparison with</i>, <i>compared with</i>
+			(ante- and post-class. and colloq.): 
+				“<span class="alpheios-lex-la" lang="lat">parum etiam, praeut futurum est praedicas,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 218</span></i>
+			; <i><span class="en">id. Bacch. 4, 9, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">immo noster nunc quidem est de verbis, prae ut
+					dudum fuit,</span>”
+				 <i><span class="en">id.
+					Men. 5, 5, 33</span></i>
+			; <i><span class="en">2, 3, 25</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nihil hercle quidem hoc, Prae ut alia dicam,</span>”
+				 <i><span class="en">id.
+					Mil. 1, 1, 20</span></i>
+			; <i><span class="en">id. Merc. 2, 4, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ludum dices fuisse, praeut hujus rabies quae
+					dabit,</span>”
+				 <i><span class="en">Ter.
+					Eun. 2, 3, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">satin' parva res est voluptatum in
+					vitā atque in aetate agundā, praequam
+					quod molestum'st?</span>”
+				<i>in comparison with the trouble</i>,
+				 <i><span class="en">Plaut.
+					Am. 2, 2, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil hoc est, triginta minae, prae quam alios
+					dapsilis sumptus facit,</span>”
+				 <i><span class="en">id.
+					Most. 4, 2, 62</span></i>
+			 Lorenz ad loc.: 
+				“<span class="alpheios-lex-la" lang="lat">jam minoris omnia facio prae quam quibus modis
+					Me ludificatus est,</span>”
+				 <i><span class="en">id. ib. 5, 2, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sed hoc etiam pulcrum'st praequam sumptus ubi
+					petunt,</span>”
+				 <i><span class="en">id.
+					Aul. 3, 5, 33</span></i>
+			; <i><span class="en">id. Merc. prol. 23</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quae etsi longioribus verbis comprehensa est
+					praequam illud Graecum, etc.,</span>”
+				 <i><span class="en">Gell.
+					16, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">immo res omnis relictas habeo prae quod tu
+					velis,</span>”
+				 <i><span class="en">Plaut. Stich. 2, 2, 38</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<i>Prep.</i> with abl. (with <i>acc.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">prae cornua, prae litteras,</span>”
+				 <i><span class="en">Petr. 39, 12</span></i>
+			; <i><span class="en">46, 1</span></i>), <i>before</i>, <i>in front of</i>, <i>in advance
+			of.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">cavendum erit, ut (villa) a tergo potius quam
+					prae se flumen habeat,</span>”
+				<i>before it</i>,
+				 <i><span class="en">Col.
+					1, 5, 4</span></i>
+			: limina alia prae aliis erant, App. de Mundo, p. 69,
+			22.—Esp. freq.: prae se ferre, agere, mittere, <i>to bear</i>, <i>carry</i>, <i>drive</i>, or <i>send before one's
+				self</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ille qui stillantem prae se pugionem tulit,</span>”
+				 <i><span class="en">Cic.
+					Phil. 2, 12, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">argenti prae se in aerarium tulit quattuordecim
+					milia pondo,</span>”
+				 <i><span class="en">Liv.
+					28, 38, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae se ferens Darium puerum,</span>”
+				 <i><span class="en">Suet. Calig. 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae se armentum agens,</span>”
+				 <i><span class="en">Liv.
+					1, 7, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">singulos prae se inermes mittere,</span>”
+				 <i><span class="en">Sall. J. 94, 2</span></i>
+			: prae manu, and, less freq., prae manibus, <i>at
+				hand</i>, <i>on hand</i> (ante- and postclass.): 
+				“<span class="alpheios-lex-la" lang="lat">patri reddidi omne aurum, quod fuit prae manu,</span>”
+				 <i><span class="en">Plaut.
+					Bacch. 4, 3, 9</span></i>
+			; <i><span class="en">Ter. Ad. 5, 9, 23</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum prae manu debitor (pecuniam) non haberet,</span>”
+				 <i><span class="en">Dig.
+					13, 7, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si Caesaris liber prae manibus est, promi
+					jubeas,</span>”
+				 <i><span class="en">Gell.
+					19, 8, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aes si forte prae manu non fuerit,</span>”
+				 <i><span class="en">App. M. 6, p. 180, 30</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen.: prae se ferre,
+			less freq., prae se gerere, declarare, etc., prop. to carry before
+			one's self. as if to show it; hence, <i>to show</i>,
+				<i>exhibit</i>, <i>manifest</i>, <i>reveal</i>, <i>make known</i>, <i>betray</i>, <i>discover</i>, <i>indicate</i> (freq. and class.), <i><span class="en">Cic. Agr. 2,
+				2, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">fortasse ceteri tectiores: ego semper me
+					didicisse, prae me tuli,</span>”
+				 <i><span class="en">id.
+					Or. 42, 146</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec vero cum venit, prae se fert, aut qui sit
+					aut unde veniat,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 3, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scelus et facinus prae se ferens et confitens,</span>”
+				 <i><span class="en">id.
+					Mil. 16, 43</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ceteris prae se fert et ostentat,</span>”
+				 <i><span class="en">id.
+					Att. 2, 23, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">beata vita glorianda et praedicanda et prae se
+					ferenda est: nihil est enim aliud quod praedicandum et prae
+					se ferendum sit,</span>”
+				 <i><span class="en">id.
+					Tusc. 5, 17, 50</span></i>
+			: conjecturam prae se gerere. <i><span class="en">id. Inv. 2,
+				9, 30</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">animum altum et erectum prae se gerebat, Auct.
+					B. Afr. 10: prae se declarant gaudia vultu,</span>”
+				 <i><span class="en">Cat.
+					64, 34</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae se maximam speciem ostentare,</span>”
+				 <i><span class="en">App. Flor. p. 342, 10</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In
+			partic., in comparisons, <i>in comparison with</i>,
+				<i>compared with</i> (mostly in comparisons which
+			imply a contrast of kind; while praeter refers to a contrast of
+			degree only: dives prae ceteris, in contrast with the others, who
+			are poor: dives praeter ceteros, richer than the other rich ones;
+			cf. Krebs, Antibarb. p. 894). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> With <i>positive adj.</i> (class.; 
+				v.
+				infra
+			): 
+				“<span class="alpheios-lex-la" lang="lat">omnia prae meo commodo,</span>”
+				 <i><span class="en">Ter.
+					Ad. 2, 3, 9</span></i>
+			: omnium unguentum odor prae tuo nautea est, Plaut.  Curc. 1, 2, 5; <i><span class="en">id. Men. 1, 2,
+				67</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Gallis prae magnitudine corporum suorum
+					brevitas nostra contemptui est,</span>”
+				 <i><span class="en">Caes.
+					B. G. 2, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae divitiis,</span>”
+				 <i><span class="en">Liv. 3,
+					26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">videbant omnes prae illo parvi futuros,</span>”
+				 <i><span class="en">Nep.
+					Eum. 10, 4</span></i>
+			; <i><span class="en">Cic. Agr. 2, 35, 96</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">veros illos Atticos prae se paene agrestes
+					putat,</span>”
+				 <i><span class="en">id.
+					Brut. 83, 286</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab isto prae lucro praedāque nec
+					vectigalium nec posteritatis habitam esse rationem,</span>”
+				 <i><span class="en">id. Verr. 2, 3, 55, § 128</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non tu quidem vacuus molestiis, sed prae nobis
+					beatus,</span>”
+				 <i><span class="en">id.
+					Fam. 4, 4, 2</span></i>
+			; <i><span class="en">Hor. Ep. 1, 11, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">(stultitia) prae ceteris parit immensas
+					cupiditates,</span>”
+				 <i><span class="en">Auct. Her. 2, 22, 34</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b> So
+			with <i>comp.</i> for quam (ante- and post-class.): 
+				“<span class="alpheios-lex-la" lang="lat">atque me minoris facio prae illo,</span>”
+				 <i><span class="en">Plaut. Ep. 3, 4, 85</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">id prae illo, quod honestum nobis est, fit
+					plenius,</span>”
+				 <i><span class="en">Gell.
+					1, 3, 25</span></i>
+			; <i><span class="en">Front. Ep. ad M. Caes. 1, 2</span></i>;
+					<i><span class="en">Hier. in Psa. 44, 3</span></i>; Aug. c.
+			Acad. 1, 22.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> In giving the cause, which, as it were, goes before, <i>for</i>, <i>because of</i>, <i>by reason of</i>, <i>on account
+			of</i> (class. only of a hinderance; with an express or implied
+			negation; or with <i>vix</i>, v. Zumpt, §
+			310): Ulixi cor frixit prae pavore, Liv. Andron. ap.
+					<i><span class="en">Serv. Verg. A. 1, 92</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">prae laetitiā lacrumae praesiliunt
+					mihi,</span>”
+				 <i><span class="en">Plaut. Stich. 3, 2, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae lassitudine opus est ut lavem,</span>”
+				 <i><span class="en">id.
+					Truc. 2, 3, 7</span></i>
+			; <i><span class="en">Ter. Heaut. 1, 1, 71</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">prae gaudio ubi sim nescio,</span>”
+				 <i><span class="en">id. ib. 2, 3, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vivere non quit Prae macie,</span>”
+				 <i><span class="en">Lucr.
+					4, 1167</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec loqui prae maerore potuit,</span>”
+				 <i><span class="en">Cic.
+					Planc. 41, 99</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quorum ille nomen prae metu ferre non poterat,</span>”
+				 <i><span class="en">id.
+					Phil. 13, 9, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">solem prae jaculorum multitudine non videbitis,</span>”
+				 <i><span class="en">id.
+					Tusc. 1, 42, 101</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prae irā,</span>”
+				 <i><span class="en">Liv.
+					31, 24 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vix sibimet ipsi prae nec opinato gaudio
+					credentes,</span>”
+				 <i><span class="en">id.
+					39, 49</span></i>
+			.—In composition, prae usually denotes,
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b>
+			<i>Before</i>: praedico, praebibo, praecaveo, etc.; so
+			too, praeceps, <i>headforemost</i>, <i>headlong.</i>—In time: praecanus, <i>gray before one's time.</i>—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Enhancing the main idea, qs. in
+			advance of others: praealtus, <i>extremely high</i>:
+			praeclarus, <i>very celebrated;</i> praevalidus, <i>very strong</i>, etc.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

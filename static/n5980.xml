@@ -1,0 +1,934 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n5980" body-key=""><b><span class="alpheios-lex-la" lang="lat">cădo</span></b> , cĕcĭdi,
+			cāsum, 3 (<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>part. pres. gen. plur.</i> cadentūm,
+				<i><span class="en">Verg.
+				A. 10, 674</span></i>; <i><span class="en">12, 410</span></i>), v. n.
+			cf. Sanscr. çad-, to fall away.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In an extended sense, <i>to be driven</i> or <i>carried by
+				one</i>'<i>s weight from a higher to a lower
+			point</i>, <i>to fall down</i>, <i>be
+				precipitated</i>, <i>sink down</i>, <i>go down</i>, <i>sink</i>, <i>fall</i> (so mostly <b>poet.</b>;
+			in prose, in place of it, the compounds decĭdo,
+			occĭdo, excĭdo, etc.; cf. also ruo, labor; 
+				“<span class="alpheios-lex-la" lang="lat">opp. surgo, sto): tum arbores in te cadent,</span>”
+				 <i><span class="en">Plaut. Men. 2, 3, 25</span></i>
+			: (aves) praecipites cadunt in terram aut in aquam, <i>fall headlong to the earth</i> or <i>into the water</i>, <i><span class="en">Lucr. 6, 745</span></i>; cf. <i><span class="en">id. 6,
+			828</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">imitated by Verg.: (apes) praecipites cadunt,</span>”
+				 <i><span class="en">Verg.
+					G. 4, 80</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nimbus, Ut picis e caelo demissum flumen, in
+					undas Sic cadit, etc.,</span>”
+				 <i><span class="en">Lucr.
+					6, 258</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadit in terras vis flammea,</span>”
+				 <i><span class="en">id. 2,
+					215</span></i>
+			; so with <i>in</i>, <i><span class="en">id. 2,
+			209</span></i>; <i><span class="en">4,
+			1282</span></i>; <i><span class="en">6,
+			1006</span></i>; 6, 1125; <i><span class="en">Prop. 4</span></i> (5), 4, 64: 
+				“<span class="alpheios-lex-la" lang="lat">in patrios pedes,</span>”
+				 <i><span class="en">Ov. F.
+					2, 832</span></i>
+			.—With a different meaning: 
+				“<span class="alpheios-lex-la" lang="lat">omnes plerumque cadunt in vulnus,</span>”
+				<i>in the direction of</i>, <i>towards their
+					wound</i>,
+				 <i><span class="en">Lucr.
+					4, 1049</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">prolapsa in vulnus moribunda cecidit,</span>”
+				 <i><span class="en">Liv.
+					1, 58, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadit in vultus,</span>”
+				 <i><span class="en">Ov. M.
+					5, 292</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in pectus,</span>”
+				 <i><span class="en">id.
+					ib. 4, 579</span></i>
+			.—Less freq. with <i>ad</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad terras,</span>”
+				 <i><span class="en">Plin.
+					2, 97, 99, § 216</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad terram,</span>”
+				 <i><span class="en">Quint. 5, 10, 84</span></i>
+			.—The place <i>from which</i> is
+			designated by <i>ab</i>, <i>ex</i>, <i>de</i>: 
+				“<span class="alpheios-lex-la" lang="lat">a summo cadere,</span>”
+				 <i><span class="en">Plaut. Mil. 4, 4, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">a mento cadit manus,</span>”
+				 <i><span class="en">Ov. F.
+					3, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aves ab alto,</span>”
+				 <i><span class="en">Plin.
+					10, 38, 54, § 112</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut cadat (avis) e regione loci,</span>”
+				 <i><span class="en">Lucr.
+					6, 824</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex arbore,</span>”
+				 <i><span class="en">Plin.
+					17, 20, 34, § 148</span></i>
+			; <i><span class="en">Dig. 50, 16, 30, § 4</span></i>;
+				<i><span class="en">18, 1, 80,
+				§ 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cecidisse de equo dicitur,</span>”
+				 <i><span class="en">Cic.
+					Clu. 62, 175</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadere de equo,</span>”
+				 <i><span class="en">Plaut. Mil. 3, 1, 125</span></i>
+			 (for which Cæsar, Nepos, and Pliny employ
+			decidere): 
+				“<span class="alpheios-lex-la" lang="lat">de manibus arma cecidissent,</span>”
+				 <i><span class="en">Cic.
+					Phil. 14, 7, 21</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">de manibus civium delapsa arma ipsa ceciderunt,</span>”
+				 <i><span class="en">id.
+					Off. 1, 22, 77</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadunt altis de montibus umbrae,</span>”
+				 <i><span class="en">Verg.
+					E. 1, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">de caelo,</span>”
+				 <i><span class="en">Lucr.
+					5, 791</span></i>
+			; <i><span class="en">Ov. M. 2, 322</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">de matre (i. e. nasci),</span>”
+				 <i><span class="en">Claud. in Rufin. 1, 92</span></i>
+			.—With <i>per</i>: 
+				“<span class="alpheios-lex-la" lang="lat">per inane profundum,</span>”
+				 <i><span class="en">Lucr.
+					2, 222</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">per aquas,</span>”
+				 <i><span class="en">id. 2,
+					230</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">per salebras altaque saxa,</span>”
+				 <i><span class="en">Mart.
+					11, 91</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">imbre per indignas usque cadente genas,</span>”
+				 <i><span class="en">Ov.
+					Tr. 1, 3, 18</span></i>
+			.—With the adverb <i>altius</i>:
+			altius atque cadant summotis nubibus imbres, <i>and
+				poured forth from a greater height</i>, etc., <i><span class="en">Verg. E. 6,
+				38</span></i>.—And <i>absol.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">folia nunc cadunt,</span>”
+				 <i><span class="en">Plaut. Men. 2, 3, 24</span></i>
+			; <i><span class="en">Ter. Ad. 1, 1, 12</span></i>; <i><span class="en">Lucr. 6,
+			297</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut pluere in multis regionibus et cadere
+					imbres,</span>”
+				 <i><span class="en">id. 6,
+					415</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadens nix,</span>”
+				 <i><span class="en">id. 3,
+					21</span></i>
+			; <i><span class="en">3, 402</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">velut si prolapsus cecidisset,</span>”
+				 <i><span class="en">Liv.
+					1, 56, 12</span></i>
+			: quaeque ita concus 
+			 sa est, ut jam casura putetur, <i><span class="en">Ov. P. 2,
+				3, 59</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cadentem Sustinuisse,</span>”
+				 <i><span class="en">id. M.
+					8, 148</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">saepius, of epileptics,</span>”
+				 <i><span class="en">Plin. Val. 12, 58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">casuri, si leviter excutiantur, flosculi,</span>”
+				 <i><span class="en">Quint. 12, 10, 73</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Esp.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Of heavenly bodies, <i>to decline</i>, <i>set</i> (opp.
+			orior), <i><span class="en">Ov. F. 1, 295</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">oceani finem juxta solemque cadentem,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 480</span></i>
+			; <i><span class="en">8, 59</span></i>; <i><span class="en">Tac. G. 45</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">soli subjecta cadenti arva,</span>”
+				 <i><span class="en">Avien. Descr. Orb. 273</span></i>
+			; cf. <i><span class="en">Tac. Agr. 12</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quā (nocte) tristis Orion cadit,</span>”
+				 <i><span class="en">Hor.
+					Epod. 10, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Arcturus cadens,</span>”
+				 <i><span class="en">id.
+					C. 3, 1, 27</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>To separate from something by falling</i>, <i>to fall off</i> or <i>away</i>, <i>fall out</i>, <i>to drop off</i>, <i>be shed</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">nam tum dentes mihi cadebant primulum,</span>”
+				 <i><span class="en">Plaut. Men. 5, 9, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dentes cadere imperat aetas,</span>”
+				 <i><span class="en">Lucr.
+					5, 671</span></i>
+			; <i><span class="en">Sen. Ep. 12, 3</span></i>; <i><span class="en">83, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">pueri qui primus ceciderit dens,</span>”
+				 <i><span class="en">Plin.
+					28, 4, 9, § 41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">barba,</span>”
+				 <i><span class="en">Verg.
+					E. 1, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quam multa in silvis autumni frigore primo
+					Lapsa cadunt folia,</span>”
+				 <i><span class="en">id. A.
+					6, 310</span></i>
+			; cf. <i><span class="en">Cat. 11, 22</span></i>; <i><span class="en">Hor. A. P.
+			61</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">lanigeris gregibus Sponte suā lanae
+					cadunt,</span>”
+				 <i><span class="en">Ov. M.
+					7, 541</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">saetae,</span>”
+				 <i><span class="en">id.
+					ib. 14, 303</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quadrupedibus pilum cadere,</span>”
+				 <i><span class="en">Plin.
+					11, 39, 94, § 231</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">poma,</span>”
+				 <i><span class="en">Ov. M.
+					7, 586</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cecidere manu quas legerat, herbae,</span>”
+				 <i><span class="en">id.
+					ib. 14, 350</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">elapsae manibus cecidere tabellae,</span>”
+				 <i><span class="en">id.
+					ib. 9, 571</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et colus et fusus digitis cecidere remissis,</span>”
+				 <i><span class="en">id.
+					ib. 4, 229</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b> Of a
+			stream, <i>to fall</i>, <i>empty
+			itself</i>: 
+				“<span class="alpheios-lex-la" lang="lat">amnis Aretho cadit in sinum maris,</span>”
+				 <i><span class="en">Liv.
+					38, 4, 3</span></i>
+			; <i><span class="en">38, 13, 6</span></i>;
+				<i><span class="en">44, 31, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">flumina in pontum cadent,</span>”
+				 <i><span class="en">Sen. Med. 406</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">flumina in Hebrum cadentia,</span>”
+				 <i><span class="en">Plin.
+					4, 11, 18, § 50</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tandem in alterum amnem cadit,</span>”
+				 <i><span class="en">Curt.
+					6, 4, 6</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b> Of
+			dice, <i>to be thrown</i> or <i>cast; to
+				turn up</i>: 
+				“<span class="alpheios-lex-la" lang="lat">illud, quod cecidit forte,</span>”
+				 <i><span class="en">Ter. Ad. 4, 7, 23 sq.</span></i>
+			; <i><span class="en">Liv. 2, 12,
+			16</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>e.</b>
+			Alicui (alicujus) ad pedes, <i>to fall at one</i>'<i>s feet</i> in supplication, etc. (post-class. for
+			abicio, proicio), <i><span class="en">Sen. Contr. 1, 1, 19</span></i>;
+					<i><span class="en">Eutr. 4, 7</span></i>; <i><span class="en">Aug.
+				Serm. 143, 4</span></i>; <i><span class="en">Vulg. Joan. 11, 32
+			al.</span></i>—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>f.</b>
+			Super collum allcujus, <i>to embrace</i> (late Lat.),
+				<i><span class="en">Vulg.
+				Luc. 15, 20</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In a more restricted sense. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>To fall</i>, <i>to fall down</i>, <i>drop</i>, <i>fall to</i>, <i>be precipitated</i>, etc.; <i>to sink
+				down</i>, <i>to sink</i>, <i>settle</i> (the usual class. signif. in prose and poetry): 
+				“<span class="alpheios-lex-la" lang="lat">cadere in plano,</span>”
+				 <i><span class="en">Ov. Tr. 3, 4, 17 sq.</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">deorsum,</span>”
+				 <i><span class="en">Plaut. Rud. 1, 2, 89</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">uspiam,</span>”
+				 <i><span class="en">Ter.
+					Ad. 1, 1, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Brutus, velut si prolapsus cecidisset,</span>”
+				 <i><span class="en">Liv.
+					1, 56, 12</span></i>
+			; cf. <i><span class="en">id. 5, 21, 16</span></i>; <i><span class="en">1, 58, 12</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">dum timent, ne aliquando cadant, semper jacent,</span>”
+				 <i><span class="en">Quint. 8, 5, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sinistrā manu sinum ad ima crura
+					deduxit (Caesar), quo honestius caderet,</span>”
+				 <i><span class="en">Suet. Caes. 82</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadere supinus,</span>”
+				 <i><span class="en">id. Aug. 43 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in pectus pronus,</span>”
+				 <i><span class="en">Ov. M.
+					4, 579</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadunt toti montes,</span>”
+				 <i><span class="en">Lucr.
+					6, 546</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">radicitus exturbata (pinus) prona cadit,</span>”
+				 <i><span class="en">Cat.
+					64, 109</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">concussae cadunt urbes,</span>”
+				 <i><span class="en">Lucr.
+					5, 1236</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">casura moenia Troum,</span>”
+				 <i><span class="en">Ov.
+					M. 13, 375</span></i>
+			; <i><span class="en">id. H. 13, 71</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">multaque praeterea ceciderunt moenia magnis
+					motibus in terris,</span>”
+				 <i><span class="en">Lucr.
+					6, 588</span></i>
+			: languescunt omnia membra; 
+				“<span class="alpheios-lex-la" lang="lat">bracchia palpebraeque cadunt,</span>”
+				<i>their arms and eyelids fall</i>,
+				 <i><span class="en">id. 4,
+					953</span></i>
+			; <i><span class="en">3, 596</span></i>; so, 
+				“<span class="alpheios-lex-la" lang="lat">ceciderunt artus,</span>”
+				 <i><span class="en">id. 3,
+					453</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sed tibi tamen oculi, voltus, verba
+					cecidissent,</span>”
+				 <i><span class="en">Cic.
+					Dom. 52, 133</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">oculos vigiliā fatigatos cadentesque
+					in opere detineo,</span>”
+				 <i><span class="en">Sen.
+					Ep. 8, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">patriae cecidere manus,</span>”
+				 <i><span class="en">Verg.
+					A. 6, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cur facunda parum decoro Inter verba cadit
+					lingua silentio?</span>”
+				 <i><span class="en">Hor.
+					C. 4, 1, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cecidere illis animique manusque,</span>”
+				 <i><span class="en">Ov. M.
+					7, 347</span></i>
+			; <i><span class="en">Val.
+				Fl. 1, 300</span></i>; cf. II. F.
+			infra.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In a
+			pregn. signif. (as in most langg., to fall in battle, to die), <i>to fall so as to be unable to rise</i>, <i>to fall dead</i>, <i>to fall</i>, <i>die</i> (opp. vivere), <i><span class="en">Prop. 2</span></i>
+			(3), 28, 42 (usu. of those who die in battle; 
+				“<span class="alpheios-lex-la" lang="lat">hence most freq. in the histt.): hostes crebri
+					cadunt,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 79 sq.</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aut in acie cadendum fuit aut in aliquas
+					insidias incidendum,</span>”
+				 <i><span class="en">Cic.
+					Fam. 7, 3, 3</span></i>
+			; <i><span class="en">Curt. 4, 1, 28</span></i>; <i><span class="en">Ov. M. 7,
+				142</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut cum dignitate potius cadamus quam cum
+					ignominiā serviamus,</span>”
+				 <i><span class="en">Cic.
+					Phil. 3, 14, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pauci de nostris cadunt,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 15</span></i>
+			; <i><span class="en">id.
+				B. C. 3, 53</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">optimus quisque cadere aut sauciari,</span>”
+				 <i><span class="en">Sall. J. 92, 8</span></i>
+			; so <i><span class="en">id. C. 60, 6</span></i>; <i><span class="en">id. J.
+				54, 10</span></i>; <i><span class="en">Nep. Paus. 1, 2</span></i>; <i><span class="en">id.
+				Thras. 2, 7</span></i>; <i><span class="en">id. Dat. 1, 2</span></i>; <i><span class="en">6, 1</span></i>; <i><span class="en">8, 3</span></i>; <i><span class="en">Liv. 10,
+				35, 15</span></i> and 19; 21, 7, 10; 23, 21, 7; 29, 14, 8; <i><span class="en">Tac. G.
+			33</span></i>; <i><span class="en">Hor. Ep. 1, 12, 27</span></i>; <i><span class="en">Ov. M. 7,
+				142</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">per acies,</span>”
+				 <i><span class="en">Tac. A.
+					1, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pro patriā,</span>”
+				 <i><span class="en">Quint. 2, 15, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ante diem,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 620</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">bipenni,</span>”
+				 <i><span class="en">Ov.
+					M. 12, 611</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ense,</span>”
+				 <i><span class="en">Val.
+					Fl. 1, 812</span></i>
+			.—Not in battle: 
+				“<span class="alpheios-lex-la" lang="lat">inque pio cadit officio,</span>”
+				 <i><span class="en">Ov. M.
+					6, 250</span></i>
+			.—With abl. of means or instrument: 
+				“<span class="alpheios-lex-la" lang="lat">suoque Marte (i. e. suā manu) cadunt,</span>”
+				 <i><span class="en">Ov. M.
+					3, 123</span></i>
+			; cf. <i><span class="en">Tac. A. 3, 42 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">suā manu cecidit,</span>”
+				<i>fell by his own hand</i>,
+				 <i><span class="en">id. ib. 15, 71</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exitu voluntario,</span>”
+				 <i><span class="en">id. H.
+					1, 40</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">muliebri fraude cadere,</span>”
+				 <i><span class="en">id. A.
+					2, 71</span></i>
+			:  cecidere justā Morte Centauri,
+			cecidit tremendae Flamma Chimaerae, <i><span class="en">Hor. C.
+				4, 2, 14 sq.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">manu femineā,</span>”
+				 <i><span class="en">Sen. Herc. Oet. 1179</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">femineo Marte,</span>”
+				 <i><span class="en">Ov.
+					M. 12, 610</span></i>
+			.—With abl. of agent with <i>ab</i>: 
+				“<span class="alpheios-lex-la" lang="lat">torqueor, infesto ne vir ab hoste cadat,</span>”
+				<i>should be slain by</i>,
+				 <i><span class="en">Ov. H.
+					9, 36</span></i>
+			; so <i><span class="en">id. M. 5, 192</span></i>; <i><span class="en">Suet.
+				Oth. 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">a centurione volneribus adversis tamquam in
+					pugnā,</span>”
+				 <i><span class="en">Tac. A.
+					16, 9</span></i>
+			.—And without <i>ab</i>: 
+				“<span class="alpheios-lex-la" lang="lat">barbarae postquam cecidere turmae Thessalo
+					victore,</span>”
+				 <i><span class="en">Hor.
+					C. 2, 4, 9</span></i>
+			; imitated by Claudian, IV. Cons. Hon. 89;
+				<i><span class="en">Grat. Cyn. 315</span></i>.—
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Of victims, <i>to be slain</i> or <i>offered</i>,
+				<i>to be sacrificed</i>, <i>to
+			fall</i> (<b>poet.</b>): 
+				“<span class="alpheios-lex-la" lang="lat">multa tibi ante aras nostrā cadet
+					hostia dextrā,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 334</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si tener pleno cadit haedus anno,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 18, 5</span></i>
+			; <i><span class="en">Tib. 1, 1, 23</span></i>; <i><span class="en">4, 1, 15</span></i>; <i><span class="en">Ov. M. 7,
+				162</span></i>; <i><span class="en">13, 615</span></i>; <i><span class="en">id. F. 4,
+				653</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> In mal. part., = succumbo, <i>to yield
+			to</i>, <i><span class="en">Plaut. Pers. 4, 4, 104</span></i>; <i><span class="en">Tib. 4, 10,
+				2</span></i>; <i><span class="en">Sen. Contr. 1, 3,
+			7</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			Matre cadens, <i>just born</i> (<b>poet.</b>), <i><span class="en">Val. Fl. 1, 355</span></i>; cf. of the custom
+			of laying the new-born child at the father's feet: tellure cadens.
+				<i><span class="en">Stat. S. 1, 2, 209</span></i>; <i><span class="en">5, 5,
+			69</span></i>.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>To come</i> or <i>fall under</i>, <i>to fall</i>, <i>to be subject</i> or
+				<i>exposed to something</i> (more rare than its
+			compound incidere, but class.); constr. usually with <i>sub</i> or <i>in</i>, sometimes with <i>ad</i>: 
+				“<span class="alpheios-lex-la" lang="lat">sub sensus cadere nostros,</span>”
+				i. e. <i>to be perceived by the senses</i>,
+				 <i><span class="en">Lucr.
+					1, 448</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sub sensum,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 30, 48</span></i>
+			: in cernendi sensum. <i><span class="en">id. Tim.
+				3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">sub oculos,</span>”
+				 <i><span class="en">id. Or.
+					3, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in conspectum,</span>”
+				<i>to become visible</i>,
+				 <i><span class="en">id.
+					Tusc. 1, 22, 50</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sub aurium mensuram,</span>”
+				 <i><span class="en">id.
+					Or. 20, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sponte suā (genus humanum) cecidit
+					sub leges artaque jura,</span>”
+				<i>subjected itself to law and the force of right</i>,
+				 <i><span class="en">Lucr.
+					5, 1146</span></i>
+			; so <i><span class="en">id. 3, 848</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad servitia,</span>”
+				 <i><span class="en">Liv.
+					1, 40, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">utrorum ad regna,</span>”
+				 <i><span class="en">Lucr.
+					3, 836</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">sub imperium dicionemque Romanorum,</span>”
+				 <i><span class="en">Cic.
+					Font. 5, 12</span></i>
+			 (1, 2): 
+				“<span class="alpheios-lex-la" lang="lat">in potestatem unius,</span>”
+				 <i><span class="en">id.
+					Att. 8, 3, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in cogitationem,</span>”
+				<i>to suggest itself to the thoughts</i>,
+				 <i><span class="en">id.
+					N. D. 1, 9, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in hominum disceptationem,</span>”
+				 <i><span class="en">id. de
+					Or. 2, 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in deliberationem,</span>”
+				 <i><span class="en">id.
+					Off. 1, 3, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in offensionem alicujus,</span>”
+				 <i><span class="en">id.
+					N. D. 1, 30, 85</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in morbum,</span>”
+				 <i><span class="en">id.
+					Tusc. 1, 32, 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in suspitionem alicujus,</span>”
+				 <i><span class="en">Nep.
+					Paus. 2, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in calumniam,</span>”
+				 <i><span class="en">Quint. 9, 4, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">abrupte cadere in narrationem,</span>”
+				 <i><span class="en">id.
+					4, 1, 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in peccatum,</span>”
+				 <i><span class="en">Aug. in Psa. 65, 13</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In
+			gen.: in or sub aliquem or aliquid, <i>to belong to any
+				object</i>, <i>to be in accordance with</i>, <i>agree with</i>, <i>refer to</i>, <i>be suitable to</i>, <i>to fit</i>,
+				<i>suit</i>, <i>become</i> (so esp.
+			freq. in philos. and rhet. lang.): 
+				“<span class="alpheios-lex-la" lang="lat">non cadit in hos mores, non in hunc pudorem,
+					non in hanc vitam, non in hunc hominem ista suspitio,</span>”
+				 <i><span class="en">Cic.
+					Sull. 27, 75</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadit ergo in bonum virum mentiri, emolumenti
+					sui causā?</span>”
+				 <i><span class="en">id.
+					Off. 3, 20, 81</span></i>
+			; so <i><span class="en">id. Cael. 29, 69</span></i>; <i><span class="en">id. Har.
+				Resp. 26, 56</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">haec Academica... in personas non cadebant,</span>”
+				 <i><span class="en">id.
+					Att. 13, 19, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui pedes in orationem non cadere quī
+					possunt?</span>”
+				 <i><span class="en">id.
+					Or. 56, 188</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque in unam formam cadunt omnia,</span>”
+				 <i><span class="en">id. ib. 11, 37</span></i>
+			; 57, 191; 27, 95; <i><span class="en">id. de Or. 3, 47, 182</span></i>; <i><span class="en">Quint. 3, 7,
+				6</span></i>; <i><span class="en">4, 2,
+			37</span></i>; <i><span class="en">4, 2,
+			93</span></i>; 6, prooem. § 5; 7, 2, 30 and 31; <i><span class="en">Plin. 35,
+				10, 36, § 82</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">heu, cadit in quemquam tantum scelus?</span>”
+				 <i><span class="en">Verg.
+					E. 9, 17</span></i>
+			; <i><span class="en">Cic. Or. 27, 95</span></i>; <i><span class="en">11, 37</span></i>;
+				<i><span class="en">Quint. 3, 5, 16</span></i>; <i><span class="en">3, 6, 91</span></i>; <i><span class="en">5, 10, 30</span></i>; 6, 3, 52;
+			7, 2, 31; 9, 1, 7; 
+				“<span class="alpheios-lex-la" lang="lat">9, 3, 92: hoc quoque in rerum naturam cadit,
+					ut, etc.,</span>”
+				 <i><span class="en">id.
+					2, 17, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in iis rebus, quae sub eandem rationem cadunt,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 30, 47</span></i>
+			; <i><span class="en">Quint. 8, 3,
+			56</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<i>To fall upon a definite time</i> (rare): 
+				“<span class="alpheios-lex-la" lang="lat">considera, ne in alienissimum tempus cadat
+					adventus tuus,</span>”
+				 <i><span class="en">Cic.
+					Fam. 15, 14, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in id saeculum Romuli cecidit aetas, cum, etc.,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 10, 18</span></i>
+			.—Hence, in mercantile lang., of payments, <i>to fall due</i>: in eam diem cadere (<i>were due</i>) nummos, qui a Quinto debentur, <i><span class="en">Cic. Att.
+				15, 20, 4</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>D.</b> (Acc. to I. 1. e.) Alicui, <i>to fall to
+			one</i> (as by lot), <i>fall to one</i>'<i>s lot</i>, <i>happen to one</i>, <i>befall;</i> and <i>absol.</i> (for
+			accidere), <i>to happen</i>, <i>come to
+				pass</i>, <i>occur</i>, <i>result</i>, <i>turn out</i>, <i>fall
+				out</i> (esp. in an unexpected manner; cf. accido; very freq.
+			in prose and poetry). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			Alicui: 
+				“<span class="alpheios-lex-la" lang="lat">nihil ipsis jure incommodi cadere possit,</span>”
+				 <i><span class="en">Cic. Quint. 16, 51</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc cecidit mihi peropportune, quod, etc.,</span>”
+				 <i><span class="en">id.
+					de Or. 2, 4, 15</span></i>
+			; <i><span class="en">id.
+				Att. 3, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">insperanti mihi, cecidit, ut, etc.,</span>”
+				 <i><span class="en">id.
+					de Or. 1, 21, 96</span></i>
+			; <i><span class="en">id. Att. 8, 3, 6</span></i>; <i><span class="en">id. Mil. 30,
+				81</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mihi omnia semper honesta et jucunda
+					ceciderunt,</span>”
+				 <i><span class="en">id. Q.
+					Fr. 1, 3, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sunt, quibus ad portas cecidit custodia sorti,</span>”
+				 <i><span class="en">Verg.
+					G. 4, 165</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haec aliis maledicta cadant,</span>”
+				 <i><span class="en">Tib.
+					1, 6, 85</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neu tibi pro vano verba benigna cadunt,</span>”
+				 <i><span class="en">Prop. 1, 10, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut illis... voluptas cadat dura inter saepe
+					pericla,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 2, 40</span></i>
+			: verba cadentia, 
+			<i>uttered at random</i>, <i><span class="en">id.
+				Ep. 1, 18, 12</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Ab sol.</i>, Afran. ap.
+				<i><span class="en">Charis. p. 195</span></i> P.; 
+				“<span class="alpheios-lex-la" lang="lat">Cic. Leg .2, 13, 33: verebar quorsum id casurum
+					esset,</span>”
+				<i>how it would turn out</i>,
+				 <i><span class="en">id. Att. 3, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliorsum vota ceciderunt,</span>”
+				 <i><span class="en">Flor.
+					2, 4, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum aliter res cecidisset ac putasses,</span>”
+				<i>had turned out differently from what was
+					expected</i>,
+				 <i><span class="en">Cic.
+					Fam. 5, 19, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sane ita cadebat ut vellem,</span>”
+				 <i><span class="en">id.
+					Att. 3, 7, 1</span></i>
+			; <i><span class="en">id. Div. 2, 52, 107</span></i>; Cael. ap. <i><span class="en">Cic. Fam.
+				8, 12, 3</span></i>; <i><span class="en">Cic. Verr. 1, 2, 5</span></i>; <i><span class="en">Caes. B. C.
+				3, 73</span></i>, <i><span class="en">Nep. Milt. 2, 5</span></i> Dähne: 
+				“<span class="alpheios-lex-la" lang="lat">cum, quae tum maxime acciderant, casura
+					praemonens, a furioso incepto eos deterreret,</span>”
+				 <i><span class="en">Liv.
+					36, 34, 3</span></i>
+			; <i><span class="en">22, 40, 3</span></i>;
+				<i><span class="en">35, 13, 9</span></i>; 38,
+			46, 6; <i><span class="en">Plin. Pan. 31, 1</span></i>; <i><span class="en">Tac. A. 2,
+			80</span></i>; <i><span class="en">6, 8</span></i>; <i><span class="en">Suet. Tib. 14 al.</span></i>; <i><span class="en">Verg. A. 2,
+				709</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut omnia fortiter fiant, feliciter cadant,</span>”
+				 <i><span class="en">Sen. Suas. 2, p. 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multa. fortuito in melius casura,</span>”
+				 <i><span class="en">Tac. A.
+					2, 77</span></i>
+			.—With adj.: 
+				“<span class="alpheios-lex-la" lang="lat">si non omnia caderent secunda,</span>”
+				 <i><span class="en">Caes.
+					B. C. 3, 73</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vota cadunt, i.e. rata sunt,</span>”
+				<i>are fulfilled</i>, <i>realized</i>,
+				 <i><span class="en">Tib.
+					2, 2, 17</span></i>
+			 (diff. from <i><span class="en">Prop. 1, 17, 4</span></i>; v. under
+			F.).—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> With
+				<i>in</i> and <i>acc.</i>: nimia
+			illa libertas et populis et privatis in nimiam servitutem cadit (cf.
+				<span class="alpheios-lex-greek" lang="grc">μεταβάλλει</span>), <i><span class="en">Cic. Rep.
+				1, 44, 68</span></i>.—Esp.: in (ad) irritum or cassum, <i>to be frustrated</i>, <i>fail</i>,
+				<i>be</i> or <i>remain
+			fruitless</i>: 
+				“<span class="alpheios-lex-la" lang="lat">omnia in cassum cadunt,</span>”
+				 <i><span class="en">Plaut. Poen. 1, 2, 147</span></i>
+			; <i><span class="en">Lucr. 2, 1166</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad irritum cadens spes,</span>”
+				 <i><span class="en">Liv.
+					2, 6, 1</span></i>
+			; so <i><span class="en">Tac. H. 3, 26</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">in irritum,</span>”
+				 <i><span class="en">id. A.
+					15, 39</span></i>
+			; cf. with irritus, adj.: 
+				“<span class="alpheios-lex-la" lang="lat">ut irrita promissa ejus caderent,</span>”
+				 <i><span class="en">Liv.
+					2, 31, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haud irritae cecidere minae,</span>”
+				 <i><span class="en">id.
+					6, 35, 10</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>E.</b>
+			<i>To fall</i>, <i>to become less</i>
+			(in strength, power, worth, etc.), <i>to decrease</i>,
+				<i>diminish</i>, <i>lessen</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cadunt vires,</span>”
+				 <i><span class="en">Lucr.
+					5, 410</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mercenarii milites pretia militiae casura in
+					pace aegre ferebant,</span>”
+				 <i><span class="en">Liv.
+					34, 36, 7</span></i>
+			.—More freq. in an extended signif. (acc. to I. B.
+			2.), </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>F.</b>
+			<i>To lose all one</i>'<i>s
+			strength</i>, <i>worth</i>, <i>value</i>, etc., <i>to fall</i>, <i>to
+				perish</i>, <i>vanish</i>, <i>decay</i>, <i>cease.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen.: pellis item
+			cecidit, vestis contempta ferina. <i>declined in
+			value</i>, <i><span class="en">Lucr. 5, 1417</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">turpius est enim privatim cadere (i. e.
+					fortunis everti) quam publice,</span>”
+				 <i><span class="en">Cic.
+					Att. 16, 15, 6</span></i>
+			; so <i><span class="en">id. Fam. 6, 10, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">atque ea quidem tua laus pariter cum re
+					publicā cecidit,</span>”
+				 <i><span class="en">id.
+					Off. 2, 13, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tanta civitas, si cadet,</span>”
+				 <i><span class="en">id.
+					Har. Resp. 20, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">huc cecidisse Germanici exercitus gloriam, ut,
+					etc.,</span>”
+				 <i><span class="en">Tac. H.
+					3, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non tibi ingredienti fines ira cecidit?</span>”
+				 <i><span class="en">Liv.
+					2, 40, 7</span></i>
+			; <i><span class="en">Pers. 5, 91</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">amicitia nec debilitari animos aut cadere
+					patitur,</span>”
+				 <i><span class="en">Cic.
+					Lael. 7, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animus,</span>”
+				<i>to fail</i>,
+				 <i><span class="en">Liv.
+					1, 11, 3</span></i>
+			; <i><span class="en">Ov. M. 11, 537</span></i>; cf. <i><span class="en">id. ib. 7,
+				347</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">non debemus ita cadere animis, etc.,</span>”
+				<i>to lose courage</i>, <i>be disheartened</i>,
+				 <i><span class="en">Cic.
+					Fam. 6, 1, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tam graviter,</span>”
+				 <i><span class="en">id.
+					Off. 1, 21, 73</span></i>
+			; cf. <i><span class="en">Sen. Ep. 8, 3</span></i>.—Esp., <i>to fail</i> in speaking: 
+				“<span class="alpheios-lex-la" lang="lat">magnus orator est... minimeque in lubrico
+					versabitur, et si semel constiterit numquam cadet,</span>”
+				 <i><span class="en">Cic.
+					Or. 28, 98</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alte enim cadere non potest,</span>”
+				 <i><span class="en">id. ib.</span></i>
+			 —So in the lang. of the jurists, causā or
+			formulā, <i>to lose one</i>'<i>s cause</i> or <i>suit</i>: 
+				“<span class="alpheios-lex-la" lang="lat">causā cadere,</span>”
+				 <i><span class="en">Cic.
+					Inv. 2, 19, 57</span></i>
+			; so <i><span class="en">id. de Or. 1, 36, 166 sq.</span></i>; <i><span class="en">id. Fam. 7,
+				14, 1</span></i>; <i><span class="en">Quint. 7, 3, 17</span></i>; <i><span class="en">Luc. 2,
+			554</span></i>; <i><span class="en">Suet. Calig. 39</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">formulā cadere,</span>”
+				 <i><span class="en">Sen. Ep. 48, 10</span></i>
+			; <i><span class="en">Quint. 3, 6, 69</span></i>.—With <i>in</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ita quemquam cadere in judicio, ut, etc.,</span>”
+				 <i><span class="en">Cic.
+					Mur. 28, 58</span></i>
+			.—Also <i>absol.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cadere,</span>”
+				 <i><span class="en">Tac. H.
+					4, 6</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">criminibus repetundarum,</span>”
+				 <i><span class="en">id. ib. 1, 77</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">conjurationis crimine,</span>”
+				 <i><span class="en">id. A.
+					6, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut cecidit Fortuna Phrygum,</span>”
+				 <i><span class="en">Ov.
+					M. 13, 435</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omniaque ingrato litore vota cadunt, i. e.
+					irrita sunt,</span>”
+				<i>remain unfulfilled</i>, <i>unaccomplished</i>,
+				 <i><span class="en">Prop.
+					1, 17, 4</span></i>
+			 (diff. from <i><span class="en">Tib. 2, 2, 17</span></i>; v. above, D. 2.);
+			cf.: 
+				“<span class="alpheios-lex-la" lang="lat">at mea nocturno verba cadunt zephyro,</span>”
+				 <i><span class="en">Prop. 1, 16, 34</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multa renascentur, quae jam cecidere, cadentque
+					Quae nunc sunt in honore vocabula,</span>”
+				<i>to fall into disuse</i>, <i>grow out of date</i>,
+				 <i><span class="en">Hor. A.
+					P. 70</span></i>
+			 —Hence of theatrical representations, <i>to fall through</i>, <i>to fail</i>,
+				<i>be condemned</i> (opp. stare, to win applause; 
+				“<span class="alpheios-lex-la" lang="lat">the fig. derived from combatants): securus
+					cadat an recto stet fabula talo,</span>”
+				 <i><span class="en">Hor. Ep. 2, 1, 176</span></i>
+			.—<i>Impers..</i> periculum est, ne
+			cadatur, <i><span class="en">Aug. Don. Persev.
+			1</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Esp. of the wind (opp. surgo), <i>to abate</i>, <i>subside</i>, <i>die away</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">cadit Eurus et umida surgunt Nubila,</span>”
+				 <i><span class="en">Ov. M.
+					8, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ventus premente nebulā cecidit,</span>”
+				 <i><span class="en">Liv. 29, 27, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cadente jam Euro,</span>”
+				 <i><span class="en">id.
+					25, 27, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">venti vis omnis cecidit,</span>”
+				 <i><span class="en">id.
+					26, 39, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ubi primum aquilones ceciderunt,</span>”
+				 <i><span class="en">id.
+					36, 43, 11</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">sic cunctus pelagi cecidit fragor,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 154</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ventosi ceciderunt murmuris aurae,</span>”
+				 <i><span class="en">id. E.
+					9, 58</span></i>
+			; <i><span class="en">id. G. 1, 354</span></i> Serv. and
+			Wagn.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>G.</b> Rhet.
+			and gram. t. t. of words, syllables, clauses, etc., <i>to be terminated</i>, <i>end</i>, <i>close</i>: 
+				“<span class="alpheios-lex-la" lang="lat">verba melius in syllabas longiores cadunt,</span>”
+				 <i><span class="en">Cic.
+					Or. 57, 194</span></i>
+			; <i><span class="en">67, 223</span></i>: qua (littera 
+			 sc. m) nullum Graece verbum cadit, <i><span class="en">Quint.
+				12, 10, 31</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">plerique censent cadere tantum numerose
+					oportere terminarique sententiam,</span>”
+				 <i><span class="en">Cic.
+					Or. 59, 199</span></i>
+			; so <i><span class="en">id. Brut. 8, 34</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">apto cadens oratio,</span>”
+				 <i><span class="en">Quint. 9, 4, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">numerus opportune cadens,</span>”
+				 <i><span class="en">id.
+					9, 4, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ultima syllaba in gravem vel duas graves cadit
+					semper,</span>”
+				 <i><span class="en">id.
+					12, 10, 33</span></i>
+			 Spald.: similiter cadentia = <span class="alpheios-lex-greek" lang="grc">όμοιόπτωτα</span>, <i>the ending of words
+				with the same cases</i> or <i>verbal forms</i>,
+			diff. from similiter desinentia = <span class="alpheios-lex-greek" lang="grc">όμοιοτέλευτα</span>, similar endings of any kind, <i><span class="en">Cic. de
+				Or. 3, 54, 206</span></i>; <i><span class="en">id. Or. 34, 135</span></i>;
+					<i><span class="en">Auct. Her. 4, 20, 28</span></i>; <i><span class="en">Quint. 9,
+				4, 42</span></i>; cf. <i><span class="en">id. 9, 4, 18</span></i>; <i><span class="en">9, 3, 78</span></i>; <i><span class="en">9, 3, 79</span></i>; 1, 7, 23;
+			Aquil. Rom. Figur. §§ 25 and 26.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

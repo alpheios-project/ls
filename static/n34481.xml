@@ -1,0 +1,430 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n34481" body-key=""><b><span class="alpheios-lex-la" lang="lat">pendĕo</span></b> , pĕpendi,
+		2, v. n.
+		<i>intr.</i> of pendo, q. v., <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to hang</i>, <i>hang down</i>, <i>be suspended.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>, constr. with <i>ab</i>,
+				<i>ex</i>, or <i>in</i> and
+				abl.; also (<b>poet.</b>), with
+				abl. alone, or with <i>de</i>:
+			pendent peniculamenta, Enn. ap. <i><span class="en">Non. 149,
+			32</span></i> (Ann. v. 363 Vahl.): in candelabro pendet strigilis, Varr.
+			ap. <i><span class="en">Non. 223, 7</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">in arbore,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 23, § 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sagittae pende, bant ab umero,</span>”
+				 <i><span class="en">id. ib. 2, 4, 34</span></i>
+			, § 
+				“<span class="alpheios-lex-la" lang="lat">74: ex arbore,</span>”
+				 <i><span class="en">id. ib. 2, 3, 26</span></i>
+			, § 
+				“<span class="alpheios-lex-la" lang="lat">66: ubera circum (pueri),</span>”
+				 <i><span class="en">Verg.
+					A. 8, 632</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">horrida pendebant molles super ora capilli,</span>”
+				 <i><span class="en">Ov.
+					P. 3, 3, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">capiti patiar sacros pendere corymbos,</span>”
+				 <i><span class="en">Prop. 2, 23, 35</span></i>
+			 (3, 28, 39): 
+				“<span class="alpheios-lex-la" lang="lat">telum ... summo clipei nequiquam umbone
+					pependit,</span>”
+				 <i><span class="en">Verg.
+					A. 2, 544</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">deque viri collo dulce pependit onus,</span>”
+				 <i><span class="en">Ov. F.
+					2, 760</span></i>
+			.—Of garments: 
+				“<span class="alpheios-lex-la" lang="lat">chlamydemque ut pendeat apte, Collocat,</span>”
+				 <i><span class="en">Ov. M.
+					2, 733</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tigridis exuviae per dorsum a vertice pendent,</span>”
+				 <i><span class="en">Verg.
+					A. 11, 577</span></i>
+			.—Of slaves, who were strung up to be flogged, <i><span class="en">Plaut. As.
+				3, 3, 27</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quando pendes per pedes,</span>”
+				 <i><span class="en">id. ib. 2, 2, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ibi pendentem ferit,</span>”
+				 <i><span class="en">id.
+					Trin. 2, 1, 19</span></i>
+			; <i><span class="en">id. Truc. 4, 3, 3</span></i>; cf. <i><span class="en">id. Men. 5,
+				5, 48</span></i>: quid me fiet nunciam? <i>Theo.</i>
+			Verberibus caedere pendens, <i><span class="en">id. Most.
+				5, 2, 45</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ego plectar pendens, nisi, etc.,</span>”
+				 <i><span class="en">Ter.
+					Phorm. 1, 4, 43</span></i>
+			; <i><span class="en">id. Eun. 5, 6, 20</span></i>.—<b>Poet.</b>, of suspended votive offerings: 
+				“<span class="alpheios-lex-la" lang="lat">omnibus heu portis pendent mea noxia vota,</span>”
+				 <i><span class="en">Prop.
+				4</span></i>
+			 (5), 3, 17; <i><span class="en">Tib. 1, 1, 16</span></i> (24): 
+				“<span class="alpheios-lex-la" lang="lat">pendebatque vagi pastoris in arbore votum,</span>”
+				 <i><span class="en">id.
+					2, 5, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendebit fistula pinu,</span>”
+				 <i><span class="en">Verg.
+					E. 7, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multaque praeterea sacris in postibus arma,
+					Captivi pendent currus, etc.,</span>”
+				 <i><span class="en">id. A.
+					7, 184</span></i>
+			.—Of one who hangs himself, <i><span class="en">Mart. 8,
+				61, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">e trabe sublimi triste pependit onus,</span>”
+				 <i><span class="en">Ov. R. Am. 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendentem volo Zoilum videre,</span>”
+				 <i><span class="en">Mart.
+					4, 77, 5</span></i>
+			.—Of any thing hung up for public notice; 
+				“<span class="alpheios-lex-la" lang="lat">of the names of persons accused,</span>”
+				 <i><span class="en">Suet. Dom. 9</span></i>
+			, <i><span class="en">Plin. Ep. 4, 9, 1</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">of goods hung up, exposed for sale,</span>”
+				 <i><span class="en">Phaedr. 3, 4, 1</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">transf., of a debtor whose goods are exposed
+					for sale,</span>”
+				 <i><span class="en">Suet. Claud. 9 <i>fin.</i></span></i>
+			—Prov.: pendere filo or tenui filo, <i>to hang by a thread</i>, i. e. <i>to be in great
+				danger</i>: hac noctu filo pendebit Etruria tota, Enn. ap.
+					<i><span class="en">Macr. S. 1, 4</span></i> (Ann. v. 153
+			Vahl.): 
+				“<span class="alpheios-lex-la" lang="lat">omnia sunt hominum tenui pendentia filo,</span>”
+				 <i><span class="en">Ov.
+					P. 4, 3, 35</span></i>
+			; <i><span class="en">Val.
+				Max. 6, 4, 1</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b> (mostly <b>poet.</b>; cf. immineo). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>To hang in the air</i>, <i>be
+				suspended</i>, <i>to float</i>, <i>hover</i>, <i>overhang</i>: per speluncas saxis
+			structas asperis, pendentibus, Poët. ap. <i><span class="en">Cic. Tusc.
+				1, 16, 37</span></i> (Trag. Rel. p. 245 Rib.); 
+				“<span class="alpheios-lex-la" lang="lat">imitated,</span>”
+				 <i><span class="en">Lucr.
+					6, 195</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hinc scopulus raucis pendet adesus aquis,</span>”
+				 <i><span class="en">Ov. H.
+					10, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dum siccā tellure licet, dum nubila
+					pendent,</span>”
+				 <i><span class="en">Verg.
+					G. 1, 214</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hi summo in fluctu pendent,</span>”
+				 <i><span class="en">id. A.
+					1, 106</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illisaque prora pependit,</span>”
+				 <i><span class="en">id. ib. 5, 206</span></i>
+			; <i><span class="en">Curt. 4, 2, 9</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">dumosā pendere procul de rupe videbo
+					(capros),</span>”
+				 <i><span class="en">Verg.
+					E. 1, 77</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendentes rupe capellae,</span>”
+				 <i><span class="en">Ov.
+					P. 1, 8, 51</span></i>
+			.—So of birds, which float or hover in the air: 
+				“<span class="alpheios-lex-la" lang="lat">olor niveis pendebat in aëra pennis,</span>”
+				 <i><span class="en">Ov. M.
+					7, 379</span></i>
+			; <i><span class="en">8, 145</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">et supra vatem multa pependit avis,</span>”
+				 <i><span class="en">Mart. Spect. 21</span></i>
+			.— 
+				“<span class="alpheios-lex-la" lang="lat">Of a rapid course: raraque non fracto vestigia
+					pulvere pendent,</span>”
+				 <i><span class="en">Stat.
+					Th. 6, 638</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>To hang loosely together</i>, <i>be
+				unstable</i>, <i>movable</i>: 
+				“<span class="alpheios-lex-la" lang="lat">opertum (litus) pendeat algā,</span>”
+				 <i><span class="en">Ov.
+					M. 11, 233</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>To hang about</i>, <i>loiter</i>, <i>tarry</i>, <i>linger</i> anywhere: 
+				“<span class="alpheios-lex-la" lang="lat">nostroque in limine pendes,</span>”
+				 <i><span class="en">Verg.
+					A. 6, 151</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>To hang down</i>, <i>be flabby</i> or
+				<i>flaccid</i>, <i>weak</i>, <i>without strength</i>: 
+				“<span class="alpheios-lex-la" lang="lat">fluidos pendere lacertos,</span>”
+				 <i><span class="en">Ov.
+					M. 15, 231</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendentesque genas et aniles aspice rugas,</span>”
+				 <i><span class="en">Juv.
+					10, 193</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<i>To weigh</i>: 
+				“<span class="alpheios-lex-la" lang="lat">offula cum duabus costis quae penderet III. et
+					XX. pondo,</span>”
+				 <i><span class="en">Varr. R. R. 2, 4, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cyathus pendet drachmas X., mna pendet drachmas
+					Atticas centum,</span>”
+				 <i><span class="en">Plin.
+					21, 34, 109, § 185</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Lucio Titio modios centum, qui singuli pondo
+					centum pendeant, heres dato,</span>”
+				 <i><span class="en">Dig.
+					33, 6, 7</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>To hang</i>, <i>rest</i>, or <i>depend upon</i> a person or thing (class.); constr.
+			with <i>ex</i>, <i>in</i>, <i>ab</i>, the simple abl., or <i>de</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tuorum, qui ex te pendent,</span>”
+				 <i><span class="en">Cic.
+					Fam. 6, 22, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">spes pendet ex fortunā,</span>”
+				 <i><span class="en">id.
+					Par. 2, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex quo verbo tota causa pendebat,</span>”
+				 <i><span class="en">id.
+					de Or. 2, 25, 107</span></i>
+			; <i><span class="en">id. Fam. 5, 13, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">hinc omnis pendet Lucilius,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 4, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an ignoratis. vectigalia perlevi saepe momento
+					fortunae pendere?</span>”
+				 <i><span class="en">Cic.
+					Agr. 2, 29, 80</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">salus nostra, quae spe exiguā
+					extremāque pendet,</span>”
+				 <i><span class="en">Cic. Fl. 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tam levi momento mea apud vos fama pendet,</span>”
+				 <i><span class="en">Liv.
+					2, 7, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendere ex alterius vultu ac nutu,</span>”
+				 <i><span class="en">id.
+					39, 5, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oblite, tuā nostram pendere salutem,</span>”
+				 <i><span class="en">Sil.
+					3, 109</span></i>
+			: in sententiis 
+			 omnium civium famam nostram fortunamque pendere,
+				<i><span class="en">Cic.
+				Pis. 41, 98</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ex ancipiti temporum mutatione pendere,</span>”
+				 <i><span class="en">Curt.
+					4, 1, 27</span></i>
+			; <i><span class="en">Luc. 5, 686</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">deque tuis pendentia Dardana fatis,</span>”
+				 <i><span class="en">Sil.
+					13, 504</span></i>
+			; <i><span class="en">Hor. Ep. 1, 1, 105</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">tyrannus, cum quo fatum pendebat amici,</span>”
+				 <i><span class="en">Juv. 4,
+					88</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>To hang upon</i> a person's words, <i>to gaze fixedly</i>, <i>listen attentively
+			to</i> (<b>poet.</b> and in post-Aug. prose; cf. 
+				“<span class="alpheios-lex-la" lang="lat">haereo): (Dido) pendet iterum narrantis ab ore,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 79</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">narrantis conjux pendet ab ore viri,</span>”
+				 <i><span class="en">Ov. H.
+					1, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab imagine pendet,</span>”
+				 <i><span class="en">Sil. 8,
+					93</span></i>
+			; cf. <i><span class="en">Quint. 11, 3, 72</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">pervigil Arcadio Tiphys pendebat ab astro,</span>”
+				 <i><span class="en">Val.
+					Fl. 1, 481</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">attentus et pendens,</span>”
+				 <i><span class="en">Plin.
+					Ep. 1, 10, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex vultu dicentis pendent omnium vultus,</span>”
+				 <i><span class="en">Sen. Contr. 9, 23, 5</span></i>
+			.—<b>Poet.</b>, with a terminal
+			clause: 
+				“<span class="alpheios-lex-la" lang="lat">e summo pendent cupida agmina vallo, Noscere
+					quisque suos,</span>”
+				 <i><span class="en">Stat.
+					Th. 10, 457</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<i>To be suspended</i>, <i>interrupted</i>, <i>discontinued</i> (<b>poet.</b> and in post-class. prose): 
+				“<span class="alpheios-lex-la" lang="lat">pendent opera interrupta,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 88</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mutui datio interdum pendet,</span>”
+				 <i><span class="en">Dig.
+					12, 1, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">condictio pendet,</span>”
+				 <i><span class="en">ib.
+					7, 1, 12 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">actio negotiorum gestorum pendeat,</span>”
+				 <i><span class="en">ib. 3,
+					5, 8</span></i>
+			; <i><span class="en">24, 1, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">pendet jus liberorum, propter jus postliminii,</span>”
+				 <i><span class="en">Just. Inst. 1, 12, 5</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>D.</b>
+			<i>To hang suspended</i>, <i>be ready to
+				fall</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec amicum pendentem corruere patitur,</span>”
+				 <i><span class="en">Cic.
+					Rab. Post. 16, 43</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>E.</b>
+			<i>To be in suspense</i>, <i>to be
+				uncertain</i>, <i>doubiful</i>, <i>irresolute</i>, <i>perplexed</i> (cf. haesito): 
+				“<span class="alpheios-lex-la" lang="lat">animus tibi pendet?</span>”
+				 <i><span class="en">Ter.
+					Ad. 2, 2, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nolo suspensam et incertam plebem Romanam
+					obscurā spe et caecā exspectatione
+					pendere,</span>”
+				 <i><span class="en">Cic.
+					Agr. 2, 25, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne diutius pendeas,</span>”
+				 <i><span class="en">id.
+					Att. 4, 15, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quia quam diu futurum hoc sit, non nimis
+					pendeo,</span>”
+				 <i><span class="en">Sen. Ep. 61, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mortales pavidis cum pendent mentibus,</span>”
+				 <i><span class="en">Lucr.
+					6, 51</span></i>
+			.—Esp. freq.: 
+				“<span class="alpheios-lex-la" lang="lat">pendere animi (locative case, v.
+					Kühnast,</span>”
+				 <i><span class="en">Liv. Synt. p. 39</span></i>
+			): 
+				“<span class="alpheios-lex-la" lang="lat">Clitipho cum spe pendebit animi,</span>”
+				 <i><span class="en">Ter.
+					Heaut. 4, 4, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exanimatus pendet animi,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 16, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pendeo animi exspectatione Corfiniensi,</span>”
+				 <i><span class="en">id.
+					Att. 8, 5, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animi pendeo et de te et de me,</span>”
+				 <i><span class="en">id. ib. 16, 12</span></i>
+			.—With <i>rel.-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ego animi pendeo, quid illud sit negotii,</span>”
+				 <i><span class="en">Plaut. Merc. 1, 2, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ostendis te pendere animi, quamnam rationem,
+					etc.,</span>”
+				 <i><span class="en">Cic.
+					Att. 11, 12, 1</span></i>
+			; <i><span class="en">id. Leg. 1, 3, 9</span></i>.—Less freq.:
+			pendere animo: atque animo noctu pendens eventa timebat, Cic.
+			poët. ap. <i><span class="en">Non. 204,
+			8</span></i>.—In plur.: 
+				“<span class="alpheios-lex-la" lang="lat">animis: quodsi exspectando et desiderando
+					pendemus animis, cruciamur, angimur,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 1, 40, 96</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sollicitis ac pendentibus animis,</span>”
+				 <i><span class="en">Liv. 7,
+					30 <i>fin.</i></span></i>
+			 dub. (al. animi, v. Drak. ad loc.).—With <i>cum</i>: 
+				“<span class="alpheios-lex-la" lang="lat">plebs innumera mentibus cum dimicationum
+					curulium eventu pendentem,</span>”
+				 <i><span class="en">Amm. 14, 6, 26</span></i>
+			.—Law t. t., to be <i>undetermined</i>, <i>to await decision</i>: 
+				“<span class="alpheios-lex-la" lang="lat">pendente condicione,</span>”
+				 <i><span class="en">Gai. Inst. 2, 200</span></i>
+			; <i><span class="en">1, 186</span></i>;
+				<i><span class="en">3,
+			179</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>F.</b>
+			<i>To have weight</i> or <i>value</i>: 
+				“<span class="alpheios-lex-la" lang="lat">bona vera idem pendent,</span>”
+				 <i><span class="en">Sen. Ep. 66, 30</span></i>
+			 (Haas; al. pendunt).—Hence, <b><span class="alpheios-lex-la" lang="lat">pendens</span></b> , entis, P. a.
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Hanging;</i> in econom. lang., of fruits not yet
+			plucked or gathered: 
+				“<span class="alpheios-lex-la" lang="lat">vinum,</span>”
+				 <i><span class="en">Cato, R. R. 147</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vindemia,</span>”
+				 <i><span class="en">Dig.
+					19, 1, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">olea,</span>”
+				 <i><span class="en">Cato, R. R. 146</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fructus,</span>”
+				 <i><span class="en">Dig.
+					6, 1, 44</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>Pending;</i> hence, in jurid, Lat., in pendenti
+			esse, <i>to be pending</i>, <i>undecided</i>, <i>uncertain</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quando in pendenti est, an, etc.,</span>”
+				 <i><span class="en">Dig. 38, 17, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in pendenti est posterior solutio ac prior,</span>”
+				 <i><span class="en">ib.
+					46, 3, 58</span></i>
+			; <i><span class="en">7, 1, 25</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">in pendenti habere aliquid,</span>”
+				<i>to regard a thing as uncertain</i>,
+					<i>doubtful</i>,
+				 <i><span class="en">Dig. 49, 17, 19 <i>fin.</i></span></i>
+			</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

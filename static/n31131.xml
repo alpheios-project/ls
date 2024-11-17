@@ -1,0 +1,541 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n31131" body-key=""><b><span class="alpheios-lex-la" lang="lat">nōmen</span></b> , ĭnis
+		(archaic form of <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>gen. sing.</i> NOMINVS, S. C. de Bacch. Corp. Inscr. Lat. 196,
+			8), n.
+			for gnōmen, from root gno, whence gnosco, nosco,
+				co-gnosco, <i>a name, appellation</i> (syn.
+			vocabulum). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">nomen est, quod unicuique personae datur, quo
+					suo quaeque proprio et certo vocabulo appellatur,</span>”
+				 <i><span class="en">Cic. Inv. 1, 24, 134</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">imponere nova rebus nomina,</span>”
+				 <i><span class="en">id.
+					Fin. 3, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui haec rebus nomina posuerunt,</span>”
+				 <i><span class="en">id.
+					Tusc. 3, 5, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">appellare aliquem nomine,</span>”
+				 <i><span class="en">id.
+					de Or. 1, 56, 239</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">huic urbi nomen Epidamno inditum est,</span>”
+				 <i><span class="en">Plaut. Men. 2, 1, 37</span></i>
+			; cf. <i><span class="en">Liv. 7, 2, 6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Theophrastus divinitate loquendi nomen invenit,</span>”
+				 <i><span class="en">Cic.
+					Or. 19, 62</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lituus ab ejus litui, quo canitur, similitudine
+					nomen invenit,</span>”
+				 <i><span class="en">id.
+					Div. 1, 17, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut is locus ex calamitate populi Romani nomen
+					caperet,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 13</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">ludi, Pythia de domitae serpentis nomine dicti,</span>”
+				 <i><span class="en">Ov. M.
+					1, 447</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">clari nominis vir,</span>”
+				 <i><span class="en">Vell.
+					2, 34, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nominis minoris vir,</span>”
+				 <i><span class="en">id.
+					2, 100, 5</span></i>
+			; cf. <i><span class="en">id. 2, 112, 2</span></i>; <i><span class="en">2, 103, 1</span></i>: est mihi
+			nomen, inditur mihi nomen, with <i>nom.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cui saltationi Titius nomen est,</span>”
+				 <i><span class="en">Cic.
+					Brut. 62, 225</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">eique morbo nomen est avaritia,</span>”
+				 <i><span class="en">id.
+					Tusc. 4, 11, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">canibus pigris ... Nomen erit pardus, tigris,
+					leo,</span>”
+				 <i><span class="en">Juv. 8,
+					36</span></i>
+			.—With <i>dat.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">haec sunt aedes, hic habet: Lesbonico'st nomen,</span>”
+				 <i><span class="en">Plaut. Trin. 2, 2, 110</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juventus nomen fecit Peniculo mihi,</span>”
+				 <i><span class="en">id.
+					Men. 1, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nam mihi est Auxilio nomen,</span>”
+				 <i><span class="en">id.
+					Cist. 1, 3, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">huic ego die nomen Trinummo facio,</span>”
+				 <i><span class="en">id.
+					Trin. 4, 2, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen Arcturo est mihi,</span>”
+				 <i><span class="en">id.
+					Rud. prol. 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cantus cui nomen neniae,</span>”
+				 <i><span class="en">Cic.
+					Leg. 2, 24, 62</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">puero ab inopiā nomen Egerio est
+					inditum,</span>”
+				 <i><span class="en">Liv. 1,
+					34</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">est illis strigibus nomen,</span>”
+				 <i><span class="en">Ov. F.
+					6, 139</span></i>
+			.—With <i>gen.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cujus nomen est Viventis,</span>”
+				 <i><span class="en">Vulg.
+					Gen. 25, 11</span></i>
+			.—Rarely with <i>ad</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ut det nomen ad molas coloniam,</span>”
+				 <i><span class="en">Plaut. Ps. 4, 6, 38</span></i>
+			.—Nomen dare, edere, profiteri, ad nomina
+			respondere, <i>to give in one's name, be enrolled,
+				enlist; to answer to one's name</i> when summoned to military
+			duty: 
+				“<span class="alpheios-lex-la" lang="lat">ne nomina darent,</span>”
+				 <i><span class="en">Liv. 2,
+					24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomina profiteri,</span>”
+				 <i><span class="en">id. 2,
+					24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nominis edendi apud consules potestas,</span>”
+				 <i><span class="en">id. 2,
+					24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">virgis caesi, qui ad nomina non respondissent,</span>”
+				 <i><span class="en">id. 7,
+				4</span></i>
+			; also, 
+				“<span class="alpheios-lex-la" lang="lat">dare nomen in conjurationem,</span>”
+				<i>to join the conspiracy</i>,
+				 <i><span class="en">Tac.
+					A. 15, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab re nomen habet (terra),</span>”
+				<i>is named for</i>,
+				 <i><span class="en">Liv.
+					38, 18, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae (sapientia) divinarum humanarumque rerum
+					cognitione hoc nomen apud antiquos adsequebatur,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 5, 3, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dea (Viriplaca) nomen hoc a placandis viris
+					fertur adsecuta,</span>”
+				 <i><span class="en">Val.
+					Max. 2, 1, 6</span></i>
+			.—Esp.: 
+				“<span class="alpheios-lex-la" lang="lat">nomen accipere = nominari: turris quae nomen ab
+					insulā accepit,</span>”
+				 <i><span class="en">Caes. B. C. 3, 112, 1</span></i>
+			; <i><span class="en">Quint. 3, 3, 13</span></i>; <i><span class="en">Just. 1, 5,
+				1</span></i>; <i><span class="en">Tac. A. 6, 37</span></i>; <i><span class="en">15, 74</span></i>;
+				<i><span class="en">Plin.
+				Ep. 2, 10, 8</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In partic., <i>the middle name of the
+				three which every freeborn Roman had</i>, as distinguished from
+			the praenomen and cognomen. The nomen distinguished one gens from
+			another, the cognomen one familia from another, and the praenomen
+			one member of the familia from another, <i><span class="en">Quint. 7,
+				3, 27</span></i>.—But sometimes nomen is used in the
+			signif. of praenomen: 
+				“<span class="alpheios-lex-la" lang="lat">id nomen (sc. Gaja),</span>”
+				 <i><span class="en">Cic.
+					Mur. 12, 27</span></i>
+			.—So, too, in the signif. of cognomen: 
+				“<span class="alpheios-lex-la" lang="lat">Sex. Clodius, cui nomen est Phormio,</span>”
+				 <i><span class="en">Cic.
+					Caecin. 10, 27</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tamquam habeas tria nomina,</span>”
+				i. e. <i>as if you were a Roman</i>,
+				 <i><span class="en">Juv.
+					5, 127</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> Esp.
+			in phrase: sub nomine, <i>under the</i> assumed <i>name</i>: 
+				“<span class="alpheios-lex-la" lang="lat">qui litteras exitiales Demetrio sub nomine
+					Flaminini adtulerant,</span>”
+				 <i><span class="en">Liv.
+					40, 54, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sub nomine meo,</span>”
+				 <i><span class="en">Quint. 7, 2, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">carmina sub alieno nomine edere,</span>”
+				 <i><span class="en">Suet. Aug. 55</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multa vana sub nomine celebri vulgabantur,</span>”
+				 <i><span class="en">Tac. A.
+					6, 12</span></i>
+			; <i><span class="en">13, 25</span></i>; <i><span class="en">id. H. 1, 5</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">rogatio repente sub unius tribuni nomine
+					promulgatur,</span>”
+				 <i><span class="en">Liv.
+					43, 16, 6</span></i>
+			; <i><span class="en">Suet. Aug. 29</span></i>; <i><span class="en">Plin. Pan.
+				50, 5</span></i>; cf. also II. B. infra.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>A title</i> of power or honor: 
+				“<span class="alpheios-lex-la" lang="lat">imperatoris,</span>”
+				 <i><span class="en">Caes. B. C. 2, 32, 14</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b> In
+			gram., <i>a noun</i>, <i><span class="en">Quint. 1,
+				4, 18</span></i>; <i><span class="en">1,
+			5</span></i>,  42 et saep.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Nomen alicu jus deferre,
+				<i>to bring an accusation against, to accuse</i> a
+			person: 
+				“<span class="alpheios-lex-la" lang="lat">nomen alicujus de parricidio deferre,</span>”
+				 <i><span class="en">Cic.
+					Rosc. Am. 10, 28</span></i>
+			: nomen recipere, <i>to receive the
+			accusation</i>: 
+				“<span class="alpheios-lex-la" lang="lat">palam de sellā ac tribunali
+					pronuntiat: si quis absentem Sthenium rei capitalis reum
+					facere vellet, sese ejus nomen recepturum: et simul, ut
+					nomen deferret, etc.,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 38, § 94</span></i>
+			; cf. context.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>A bond, note, a demand, claim, a debt</i>: tituli
+			debitorum nomina dicuntur praesertim in iis debitis, in quibus
+			hominum nomina scripta sunt, quibus pecuniae commodatae sunt, Ascon.
+			ap. <i><span class="en">Cic. Verr. 2, 1, 10, § 28</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">repromittam istoc nomine solutam rem futuram,</span>”
+				 <i><span class="en">Plaut. As. 2, 4, 48</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si neque in tuas tabulas ullum nomen referres,
+					cum tot tibi nominibus acceptum Curtii referrent,</span>”
+				 <i><span class="en">Cic. Verr. 2, 1, 39, § 102</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui tibi, ut ais, certis nominibus grandem
+					pecuniam debuit,</span>”
+				<i>on good bonds, good security</i>,
+				 <i><span class="en">id. Quint. 11, 38</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">egone hos digitos meos impellere potui, ut
+					falsum perscriberent nomen?</span>”
+				 <i><span class="en">id.
+					Rosc. Com. 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">volo persolvere, ut expungatur nomen, ne quid
+					debeam,</span>”
+				 <i><span class="en">Plaut. Cist. 1, 3, 40</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">solvere,</span>”
+				 <i><span class="en">Cic.
+					Att. 6, 2, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">expedire, exsolvere,</span>”
+				 <i><span class="en">id. ib. 16, 6, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomina sua exigere,</span>”
+				<i>to collect one's debts</i>,
+				 <i><span class="en">id. Verr. 2, 1, 10, § 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc nomen, quod urget, nunc, cum petitur,
+					dissolvere,</span>”
+				 <i><span class="en">id.
+					Planc. 28, 68</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">transcribere in alium,</span>”
+				 <i><span class="en">Liv.
+					35, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui venit ad dubium grandi cum codice nomen,</span>”
+				<i>comes with a huge ledger to sue for a doubtful
+					debt</i>,
+				 <i><span class="en">Juv.
+					7, 110</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			Nomina facere, in the case of written obligations, <i>to set down</i> or <i>book the items of debt in
+				the account-book</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nomina se facturum, qua ego vellem die,</span>”
+				 <i><span class="en">Cic.
+					Fam. 7, 23, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">emit homo cupidus (Canius) tanti, quanti
+					Pythius voluit et emit instructos: nomina facit (Pythius),
+					negotium conficit,</span>”
+				 <i><span class="en">id.
+					Off. 3, 14, 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomina facturi diligenter in patrimonium et
+					vasa debitoris inquirimus,</span>”
+				 <i><span class="en">Sen. Ben. 1, 1, 2</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			Nomen locare, <i>to offer as surety</i>, <i><span class="en">Phaedr. 1,
+				16, 1</span></i> (dub.).—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b>
+			<b>Transf.</b>, <i>an item of
+			debt;</i> and hence, <i>a debtor</i>: 
+				“<span class="alpheios-lex-la" lang="lat">hoc sum assecutus, ut bonum nomen existimer,</span>”
+				i. e. <i>a good payer</i>,
+				 <i><span class="en">Cic.
+					Fam. 5, 6, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lenta nomina non mala,</span>”
+				 <i><span class="en">Sen. Ben. 5, 22, 1</span></i>
+			; cf. <i><span class="en">id. ib. 7, 29, 2</span></i>; <i><span class="en">Col. 1, 7,
+			2</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>A family, race, stock, people, nation</i>: 
+				“<span class="alpheios-lex-la" lang="lat">C. Octavium in familiam nomenque adoptavit,</span>”
+				 <i><span class="en">Suet. Caes. 83</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Crispum C. Sallustius in nomen ascivit,</span>”
+				 <i><span class="en">Tac. A.
+					3, 30</span></i>
+			; <i><span class="en">Luc. 7, 584</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> With national names: nomen Romanum,
+				<i>whatever is called Roman</i>, i. e. <i>the Roman dominion, nation, power;</i> esp. <i>of the army</i>: 
+				“<span class="alpheios-lex-la" lang="lat">gens infestissuma nomini Romano,</span>”
+				 <i><span class="en">Sall. C. 52, 24</span></i>
+			: CEIVIS ROMANVS NEVE NOMINVS LATINI NEVE SOCIVM QVISQVAM,
+			etc., S. C. de Bacch.; so, 
+				“<span class="alpheios-lex-la" lang="lat">concitatis sociis et nomine Latino,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 19, 31</span></i>
+			; <i><span class="en">3, 29, 41</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ubi deletum omnibus videretur nomen Romanum,</span>”
+				 <i><span class="en">Liv.
+					23, 6, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">relicum Romani nominis,</span>”
+				 <i><span class="en">id.
+					22, 55, 5</span></i>
+			; <i><span class="en">27, 33,
+			11</span></i>; <i><span class="en">1, 10,
+			3</span></i>; cf. <i><span class="en">id. 9, 7, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Aeolio regnatas nomine terras,</span>”
+				 <i><span class="en">Sil.
+					14, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Volscūm nomen prope deletum est,</span>”
+				 <i><span class="en">Liv.
+					3, 8, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen Atheniensium tueri,</span>”
+				 <i><span class="en">Just.
+					5, 6, 9</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b>
+			<b>Poet.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b>
+			<i>A thing</i>: 
+				“<span class="alpheios-lex-la" lang="lat">infaustum interluit Allia nomen,</span>”
+				 <i><span class="en">Verg.
+					A. 7, 717</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b>
+			<i>A person</i>: 
+				“<span class="alpheios-lex-la" lang="lat">popularia nomina Drusos,</span>”
+				 <i><span class="en">Luc.
+					6, 759</span></i>
+			; <i><span class="en">1, 311</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec fidum femina nomen,</span>”
+				 <i><span class="en">Tib.
+					3, 4, 61</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in diversa trahunt unum duo nomina pectus,</span>”
+				i. e. <i>the love of a mother and sister</i>,
+				 <i><span class="en">Ov. M.
+					8, 464</span></i>
+			; <i><span class="en">id.
+				H. 8, 30</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Name, fame, repute, reputation, renown</i> (syn.: 
+				“<span class="alpheios-lex-la" lang="lat">existimatio, fama): hujus magnum nomen fuit,</span>”
+				 <i><span class="en">Cic.
+					Brut. 67, 238</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen habere,</span>”
+				 <i><span class="en">id. ib. 69, 244</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">magnum in oratoribus nomen habere,</span>”
+				 <i><span class="en">id. Or.
+					6, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">officere nomini alicujus, Liv. praef.
+					§ 3: et nos aliquod nomenque decusque Gessimus,</span>”
+				 <i><span class="en">Verg.
+					A. 2, 89</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen gerere,</span>”
+				 <i><span class="en">Lact. 1, 20, 3</span></i>
+			; <i><span class="en">4, 29, 15 al.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">multi Lydia nominis Romanā vigui
+					clarior Iliā,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 9, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen alicujus stringere,</span>”
+				 <i><span class="en">Ov.
+					Tr. 2, 350</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">homines nonnullius in litteris nominis, Plin
+					Ep. 7, 20, 3: parentes, quorum maximum nomen in civitatibus
+					est suis,</span>”
+				 <i><span class="en">Liv. 22, 22, 13</span></i>
+			.—Of <i>ill repute, bad
+			reputation</i>: malum nomen (only rare and late Lat.): magis
+			eligendum in paupertate nomen bonum quam in divitiis nomen pessimum,
+			Hier. Com. Ep. Tit., Paris, 1546, p. 104 H.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of inanimate things: 
+				“<span class="alpheios-lex-la" lang="lat">ne vinum nomen perdat,</span>”
+				 <i><span class="en">Cato, R. R. 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec Baccho genus aut pomis sua nomina servat,</span>”
+				 <i><span class="en">Verg.
+					G. 2, 240</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>A title, pretext, pretence, color, excuse, account,
+				sake, reason, authority, behalf</i>, etc.: alio nomine et
+			aliā de causā abstulisse. Cic. Rosc. Com. 
+			 14, 40: 
+				“<span class="alpheios-lex-la" lang="lat">legis agrariae simulatione atque nomine,</span>”
+				 <i><span class="en">id. Agr. 2, 6, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">classis nomine pecuniam imperatam queruntur,</span>”
+				 <i><span class="en">id. Fl. 12, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haec a te peto amicitiae nostrae nomine,</span>”
+				 <i><span class="en">id. Fam. 12, 12, 3</span></i>
+			; <i><span class="en">2, 1, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nomine sceleris conjurationisque damnati,</span>”
+				 <i><span class="en">id. Verr. 2, 5, 5, § 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomine neglegentiae suspectum esse,</span>”
+				 <i><span class="en">id. Fam. 2, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid exornamus philosophiam, aut quid ejus
+					nomine gloriosi sumus?</span>”
+				 <i><span class="en">id. Tusc. 2, 14, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui cum luxuriose viverent, non
+					reprehenderentur eo nomine,</span>”
+				 <i><span class="en">id. Fin. 2, 7, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gratias boni viri agebant et tuo nomine
+					gratulabantur,</span>”
+				<i>on your account</i>,
+				 <i><span class="en">id. Phil. 1, 12, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Antonio tuo nomine gratias egi,</span>”
+				<i>on your behalf</i>,
+				 <i><span class="en">id. Att. 1, 16, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">legationes tuo nomine proficiscentes,</span>”
+				 <i><span class="en">id. Fam. 3, 8, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quem quidem tibi etiam suo nomine commendo,</span>”
+				<i>for his own sake</i>,
+				 <i><span class="en">id. ib. 13, 21, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">meo nomine,</span>”
+				 <i><span class="en">Tac. H.
+					1, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">feminarum suarum nomine,</span>”
+				 <i><span class="en">id. G.
+				8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">bellum populo Romano suo nomine indixit,</span>”
+				 <i><span class="en">Cic.
+					Cat. 2, 6, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">decretae eo nomine supplicationes,</span>”
+				 <i><span class="en">Tac.
+					A. 14, 59</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">but: acceptā ex aerario
+					pecuniā tuo nomine,</span>”
+				<i>on your responsibility</i>,
+				 <i><span class="en">Cic.
+					Q. Fr. 1, 3, 7</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<i>A name</i>, as opposed to the reality: 
+				“<span class="alpheios-lex-la" lang="lat">me nomen habere duarum legionum exilium (opp.
+					exercitum habere tantum),</span>”
+				 <i><span class="en">Cic.
+					Att. 5, 15, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Campani magis nomen ad praesidium sociorum,
+					quam vires cum attulissent,</span>”
+				 <i><span class="en">Liv. 7,
+					29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nomen amicitia est, nomen inane fides,</span>”
+				 <i><span class="en">Ov. A.
+					A. 1, 740</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>III.</b>
+			In eccl. Lat., </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			Periphrastically: 
+				“<span class="alpheios-lex-la" lang="lat">invocavit nomen Domini,</span>”
+				 <i><span class="en">Vulg.
+					Gen. 13, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omnipotens nomen ejus,</span>”
+				 <i><span class="en">ib.
+					Exod. 15, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">psallam nomini Domini,</span>”
+				 <i><span class="en">ib.
+					Psa. 7, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">blasphemare nomen ejus,</span>”
+				 <i><span class="en">ib.
+					Apoc. 13, 6</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Delegated power</i>: 
+				“<span class="alpheios-lex-la" lang="lat">in nomine tuo daemones eicimus,</span>”
+				 <i><span class="en">Vulg.
+					Matt. 7, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in quo nomine fecistis,</span>”
+				 <i><span class="en">ib. Act.
+					4, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">locuti sunt in nomine Domini,</span>”
+				 <i><span class="en">ib. Jacob. 5, 10</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

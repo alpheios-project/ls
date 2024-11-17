@@ -1,0 +1,325 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n31444" body-key=""><b><span class="alpheios-lex-la" lang="lat">nunc</span></b> , adv.
+		Sanscr. nu, nūnam, now; Gr. <span class="alpheios-lex-greek" lang="grc">νύ,
+				νῦν</span>; cf. Lat. num, with <i>demonstr.</i> -ce, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>now, at present, at this time</i> (prop of that
+			which is present to the speaker or writer). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Contrasted with past time (opp. tum, tunc, antea,
+			quondam, aliquando, olim, etc.): 
+				“<span class="alpheios-lex-la" lang="lat">longe aliam, inquam, praebes nunc atque olim,</span>”
+				 <i><span class="en">Plaut. As. 1, 3, 53</span></i>
+			; <i><span class="en">Ter. Heaut. 2, 1, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">alium esse censes nunc me atque olim,</span>”
+				 <i><span class="en">id.
+					And. 3, 3, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omnia, quae sunt conclusa nunc artibus,
+					dispersa quondam fuerunt,</span>”
+				 <i><span class="en">Cic. de Or 1, 42, 187</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sed tu illum animum nunc adhibe, quaeso, quo me
+					tum esse oportere censebas,</span>”
+				 <i><span class="en">id.
+					Fam. 6, 1, 16</span></i>
+			; <i><span class="en">Ter. Ad. 1, 2, 24</span></i>; <i><span class="en">Verg. A. 6,
+				776</span></i>: sed erat tunc excusatio oppressis; 
+				“<span class="alpheios-lex-la" lang="lat">nunc nulla est,</span>”
+				 <i><span class="en">Cic.
+					Phil. 7, 5, 14</span></i>
+			; <i><span class="en">Liv. 4, 34, 6</span></i>; <i><span class="en">4, 25, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">arx minus aliquanto nunc munita quam antea,</span>”
+				 <i><span class="en">Cic.
+					Div. in Caecil. 5, 13</span></i>
+			: nunc si videtur, hoc; 
+				“<span class="alpheios-lex-la" lang="lat">illud alias,</span>”
+				 <i><span class="en">id.
+					Tusc. 1, 11, 23</span></i>
+			; <i><span class="en">Liv. 29, 18, 18</span></i>; <i><span class="en">Suet.
+				Tib. 29</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">aut nunc ... aut aliquando,</span>”
+				 <i><span class="en">Cic.
+					Mil. 25, 67</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ante hoc tempus numquam ... sed nunc,</span>”
+				 <i><span class="en">id. Ac. 1, 1, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Contrasted with future time (opp. postea, mox, olim, etc.): 
+				“<span class="alpheios-lex-la" lang="lat">Cluentio nisi nunc satisfecero, postea
+					satisfaciendi potestas non erit,</span>”
+				 <i><span class="en">Cic.
+					Clu. 4, 10</span></i>
+			; <i><span class="en">Liv. 39, 19, 6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">deos nunc testes esse, mox fore ultores,</span>”
+				 <i><span class="en">id. 3,
+					2, 4</span></i>
+			; <i><span class="en">3, 25, 8</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">qui olim nominabitur, nunc intellegitur,</span>”
+				 <i><span class="en">Quint. 10, 1, 104</span></i>
+			; <i><span class="en">Verg. A. 4, 627</span></i>; cf. <i><span class="en">Liv. 40,
+				15, 4</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<b>
+				<i>Absol.</i>
+			</b> of present time, without suggestion of contrast, = hodie,
+			nostro tempore: 
+				“<span class="alpheios-lex-la" lang="lat">nunc tibi pater hic est,</span>”
+				 <i><span class="en">Plaut. Capt. 5, 4, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Marcellus, qui nunc aedilis curulis est,</span>”
+				 <i><span class="en">Cic.
+					de Or. 1, 13, 57</span></i>
+			.— With the <i>interrog. ne</i>, in
+			the form <b><span class="alpheios-lex-la" lang="lat">nun-cine</span></b>  (for
+			num-ce-ne; 
+				“<span class="alpheios-lex-la" lang="lat">ante-class.): hem, nuncin demum?</span>”
+				 <i><span class="en">Ter.
+					And. 4, 1, 59</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Strengthened by demum, denique, primum (v. h. vv.): 
+				“<span class="alpheios-lex-la" lang="lat">nunc demum intellego,</span>”
+				 <i><span class="en">Plaut. Mil. 2, 6, 62</span></i>
+			; <i><span class="en">Ter. Heaut. 2, 3, 12</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc demum rescribo his litteris,</span>”
+				 <i><span class="en">Cic.
+					Att. 16, 3, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tantum accessit, ut mihi nunc denique amare
+					videar, antea dilexisse,</span>”
+				 <i><span class="en">id. ib.</span></i>
+			
+			 14, 17, A, 5; <i><span class="en">id. Fam.
+				9, 14, 11</span></i>; <i><span class="en">Ov. A. A. 3, 121</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc, quam rem oratum huc veni, primum
+					proloquar,</span>”
+				 <i><span class="en">Plaut. Am. prol. 50</span></i>
+			; <i><span class="en">2, 2, 63</span></i>; <i><span class="en">2, 2, 52</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc primum hoc aures tuae crimen accipiunt?</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 8, § 24</span></i>
+			; <i><span class="en">2, 2, 60, § 147</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">hoc quoque propter tuos ternos denarios nunc
+					primum postulatur,</span>”
+				 <i><span class="en">id. ib. 2, 3, 25</span></i>
+			, § 63.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b> In special phrases. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Ut nunc est, <i>as things now are, in the
+				present state of affairs, as matters stand</i>: constitui, ut
+			nunc est, cum exercitu proficisci, Poll. ap. <i><span class="en">Cic. Fam.
+				9, 31, 17</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quae (causae) si manebunt ... et, ut nunc est,
+					mansurae videntur,</span>”
+				 <i><span class="en">Cic.
+					Att. 12, 29, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">suaviter, ut nunc est, inquam,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 9, 5</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Qui
+			nunc sunt, <i>the men of this time, those now living,
+				the present age</i>: 
+				“<span class="alpheios-lex-la" lang="lat">judiciis, qui nunc sunt. hominum,</span>”
+				 <i><span class="en">Cic. ad Q. Fr. 1, 1, 15, §
+				43</span></i>
+			; <i><span class="en">Plin. 22, 25, 71, § 147</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tace stulta: non tu nunc hominum mores vides?</span>”
+				<i>of the men of this day</i>,
+				 <i><span class="en">Plaut. Pers. 3, 1, 57</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> Nunc
+			ipsum, <i>just now, at this very time</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quin nunc ipsum non dubitabo rem tantam abicere
+					si id erit rectius,</span>”
+				 <i><span class="en">Cic.
+					Att. 7, 3, 2</span></i>
+			; <i><span class="en">8, 9, 2</span></i>; <i><span class="en">12, 40, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc tamen ipsum,</span>”
+				 <i><span class="en">id. ib. 12, 16, 11</span></i>
+			.—Nunc repeated with emphasis: 
+				“<span class="alpheios-lex-la" lang="lat">nunc, nunc o liceat crudelem abrumpere vitam,</span>”
+				 <i><span class="en">Verg.
+					A. 8, 579</span></i>
+			 (al. nunc o nunc); 
+				“<span class="alpheios-lex-la" lang="lat">5, 189: nunc, nunc adeste, nunc in hostiles
+					domos Iram vertite,</span>”
+				 <i><span class="en">Hor.
+					Epod. 5, 53</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Of past or future time,
+			conceived as present, <i>now, at that time</i>.
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Of past time: 
+				“<span class="alpheios-lex-la" lang="lat">id adeo nos nunc factum invenimus,</span>”
+				 <i><span class="en">Plaut. Most. 2, 2, 46</span></i>
+			: item Menandri Phasma nunc nuper dedit (Gr. <span class="alpheios-lex-greek" lang="grc">νῦν ἄρτι</span>), <i><span class="en">Ter. Eun.
+				prol. 9</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc in causā refrixit,</span>”
+				 <i><span class="en">Cic.
+					Planc. 23, 55</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quos ego campos antea nitidissimos vidissem,
+					hos ita vastatos nunc videbam, ut, etc.,</span>”
+				 <i><span class="en">id. Verr. 2, 3, 18, § 47</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nunc reus erat apud Crassum,</span>”
+				 <i><span class="en">id.
+					Att. 2, 24, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum eum antea tui similem in dicendo viderim,
+					tum vero nunc ... multo videbam similiorem,</span>”
+				 <i><span class="en">id.
+					Brut. 71, 250</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">incerto nunc etiam exitu victoriae signa
+					intulerunt,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 62, 6</span></i>
+			; <i><span class="en">6, 40, 6</span></i>: nunc Saliaribus Ornare pul vinar
+			deorum Tempus erat dapibus, Hor C. 1, 37, 2.—Esp. in orat.
+			obliq., where the nunc of direct narration is retained: dixit, nunc
+			demum se voti esse damnatum, Nep Timol. 5, 3; <i><span class="en">Liv. 3, 19,
+				8</span></i>; <i><span class="en">3, 40,
+			10</span></i>; <i><span class="en">8, 33,
+			18</span></i>; 8, 34, 3; 
+				“<span class="alpheios-lex-la" lang="lat">42, 52, 8: nec nunc adulteria objecturum ait,</span>”
+				 <i><span class="en">Tac.
+					A. 11, 30</span></i>
+			; cf. Nipperd. ad <i><span class="en">Tac. A. 14, 35</span></i>; Krebs, Antibarb. p.
+			774. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of
+			future time (rare): 
+				“<span class="alpheios-lex-la" lang="lat">quis nunc te adibit? Cui videberis bella? Quem
+					nunc amabis?</span>”
+				 <i><span class="en">Cat.
+					8, 16 sq.</span></i>
+			; <i><span class="en">Just. 8, 2,
+			10</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Of the state of affairs, the condition of the argument, etc., <i>now, under these circumstances, in view of
+			this</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen.: 
+				“<span class="alpheios-lex-la" lang="lat">nunc quoniam hominem generavit et ornavit deus,
+					perspicuum sit, etc.,</span>”
+				 <i><span class="en">Cic.
+					Leg. 1, 9, 27</span></i>
+			; <i><span class="en">Prop. 4, 9, 73</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">vera igitur illa sunt nunc omnia,</span>”
+				 <i><span class="en">Cic. Ac. 2, 33, 106</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non ego nunc vereor, ne sis mihi vilior istis,</span>”
+				 <i><span class="en">Prop.
+					1, 2, 25</span></i>
+			; <i><span class="en">Ov. F. 1, 333</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc itaque et versus et cetera ludicra pono,</span>”
+				 <i><span class="en">Hor. Ep. 1, 1, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid nunc?</span>”
+				 <i><span class="en">Plaut. As. 3, 3, 71</span></i>
+			; <i><span class="en">id. Aul. 2, 3,
+			77</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			Introducing a fact or conclusion opposed to a previous supposition
+			or thought: 
+				“<span class="alpheios-lex-la" lang="lat">etiamsi ad vos esset singulos aliquid ex hoc
+					agro perventurum, tamen honestius eum vos universi quam
+					singuli possideretis. Nunc vero cum ad nos nihil pertineat,
+					etc.,</span>”
+				 <i><span class="en">Cic.
+					Agr. 2, 31, 85</span></i>
+			; <i><span class="en">id. Tusc. 3, 1, 2</span></i>; <i><span class="en">id. Cat. 2,
+				7, 16</span></i>; <i><span class="en">id. Font. 11, 24</span></i>: si ecastor nunc
+			habeas quod des, alia verba perhibeas; 
+				“<span class="alpheios-lex-la" lang="lat">nunc quia nihil habes, maledictis te eam
+					ductare postulas,</span>”
+				 <i><span class="en">Plaut. As. 1, 3, 36</span></i>
+			; <i><span class="en">id. Bacch. 3, 3, 8</span></i>; <i><span class="en">Quint. 8,
+				6, 48</span></i>; <i><span class="en">10, 5,
+			7</span></i>; <i><span class="en">Liv. 21, 40, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quodsi Mazaeus supervenisset, ingens clades
+					accipi potuit: nunc, dum ille segnis in eo tumulo sedet,
+					etc.,</span>”
+				 <i><span class="en">Curt. 4, 12, 15</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			Nunc ... nunc, <i>now ... now; at one time, at another;
+				sometimes ... sometimes</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tribuni plebis nunc fraudem, nunc neglegentiam
+					consulum accusabant,</span>”
+				 <i><span class="en">Liv. 4,
+					2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nunc hac parte, nunc illā,</span>”
+				 <i><span class="en">id.
+					34, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut nunc in liminibus starent, nunc errabundi
+					domos suas pervagarentur,</span>”
+				 <i><span class="en">id. 1,
+					29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nunc hos, nunc illos aditus omnemque pererrat
+					Arte locum,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 441</span></i>
+			; <i><span class="en">5, 189</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nunc huc, nunc illuc curro,</span>”
+				 <i><span class="en">Ov. H.
+					10, 19</span></i>
+			.—Also thrice repeated: 
+				“<span class="alpheios-lex-la" lang="lat">nunc ad prima signa, nunc in medium, nunc in
+					ultimo agmine aderat,</span>”
+				 <i><span class="en">Curt.
+					7, 3, 17</span></i>
+			; <i><span class="en">Just. 4, 1, 4</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">and even five times,</span>”
+				 <i><span class="en">Sen.
+					Dial. 5</span></i>
+			 (Ira), 3, 6.—The first nunc is sometimes poetically
+			omitted: pariterque sinistros, Nunc dextros solvere sinus, Verg. A.
+				
+			 5, 830.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Nunc ... mox, <i><span class="en">Vell. 2,
+			63</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b>
+			Nunc ... postremo, <i><span class="en">Liv. 3,
+			49</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>d.</b>
+			Nunc ... modo, <i><span class="en">Liv. 8, 32</span></i>; <i><span class="en">Ov. M. 13,
+				922</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>D.</b> In forming a climax, <i>but now</i>, <i><span class="en">Plaut.
+				Bacch. 3, 3, 8</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quae quidem multo plura evenirent, si ad
+					quietem integri iremus: nunc onusti cibo et vino perturbata
+					et confusa cernimus,</span>”
+				 <i><span class="en">Cic.
+					Div. 1, 29, 60</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si haec non ad cives Romanos, si non ad
+					homines, verum ad bestias conqueri vellem, tamen
+					tantā rerum atrocitate commoverentur. Nunc vero
+					cum loquar apud senatores populi Romani, etc.,</span>”
+				 <i><span class="en">id. Verr. 2, 5, 67, § 171</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si ... nunc (vero),</span>”
+				 <i><span class="en">id.
+					Font. 11, 25</span></i>
+			; <i><span class="en">id. Cat. 2, 7, 14</span></i>; <i><span class="en">id. Fam.
+				15, 13, 3</span></i>: cum aliquid videbatur caveri posse, tum id
+			neglegi dolebam; 
+				“<span class="alpheios-lex-la" lang="lat">nunc vero, eversis omnibus rebus, etc.,</span>”
+				 <i><span class="en">id. ib. 6, 21, 1</span></i>
+			: cum ... nunc vero, Brut. ap. <i><span class="en">Cic. Fam.
+				11, 19, 1</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>E.</b> In a transition, to introduce a new subject, <i>in that case, now, then</i>: abi nunc, populi fidem
+			implora, Auct. ap. <i><span class="en">Cic. Fam. 10, 32, 3</span></i>; <i><span class="en">Sen. Ben. 5, 12, 3 sq.</span></i>; <i><span class="en">6, 35, 5</span></i>; <i><span class="en">Plaut.
+				Stich. 1, 3, 17</span></i>; cf. <i><span class="en">Sall. J.
+				14, 17</span></i>; for nunciam, v. jam, I. A. 1. b.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

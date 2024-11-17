@@ -1,0 +1,105 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n31877" body-key=""><b><span class="alpheios-lex-la" lang="lat">obsŏlesco</span></b> , lēvi,
+			lētum, 3, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>v. inch. n.</i> [obs-olesco], <i>to
+				wear out, to grow old, decay, fall into disuse, lose value,
+				become obsolete</i>
+			 (class.; 
+				“<span class="alpheios-lex-la" lang="lat">syn. exolesco): his (verbis) oportet, si
+					possis, non uti: sic enim obsolescent,</span>”
+				 <i><span class="en">Varr. L. L. 9, § 16</span></i>
+			 Müll.: 
+				“<span class="alpheios-lex-la" lang="lat">haec ne obsolescerent, renovabam, cum licebat,
+					legendo,</span>”
+				 <i><span class="en">Cic. Ac. 1, 3, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obsolevit jam oratio,</span>”
+				 <i><span class="en">id.
+					Imp. Pomp. 17, 52</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vectigal, quod in bello non obsolescat,</span>”
+				 <i><span class="en">id.
+					Agr. 1, 7, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">laus,</span>”
+				 <i><span class="en">Tac. A.
+					4, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">enituit aliquis in bello, sed obsolevit in
+					pace,</span>”
+				 <i><span class="en">Plin.
+					Pan. 4, 5</span></i>
+			.—Hence, <b><span class="alpheios-lex-la" lang="lat">obsŏlētus</span></b> , a, um,
+				P. a.
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>, <i>old, worn out, thrown
+				off</i>: 
+				“<span class="alpheios-lex-la" lang="lat">erat veste obsoletā,</span>”
+				 <i><span class="en">Liv.
+					27, 34</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vestitus,</span>”
+				 <i><span class="en">Nep. Ages. 8, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">amiculum,</span>”
+				 <i><span class="en">Curt.
+					6, 9, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vestitu obsoletiore, Cig. Agr. 2, 5, 13: homo
+					obsoletus,</span>”
+				<i>in a worn-out dress</i>,
+				 <i><span class="en">id. Pis. 36, 89</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tectum,</span>”
+				<i>old, ruinous</i>,
+				 <i><span class="en">Hor.
+					C. 2, 10, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">verba,</span>”
+				<i>obsolete</i>,
+				 <i><span class="en">Cic. de Or. 3, 37, 150</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obsoleta et vulgaria,</span>”
+				 <i><span class="en">id. Quint. 18, 56</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>, <i>common, ordinary,
+				poor, mean, low</i>: 
+				“<span class="alpheios-lex-la" lang="lat">crimina,</span>”
+				 <i><span class="en">Cic. Verr. 2, 5, 44, § 177</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gaudia,</span>”
+				 <i><span class="en">Liv.
+					30, 42</span></i>
+			.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">obsoletior oratio,</span>”
+				<i>a too ordinary, too negligent style</i>,
+				 <i><span class="en">Cic.
+					de Or. 3, 9, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">honores,</span>”
+				<i>of little worth</i>,
+				 <i><span class="en">Nep.
+					Milt. 6, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">color,</span>”
+				 <i><span class="en">Col. 4,
+					30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">o nec paternis obsoleta sordibus,</span>”
+				 <i><span class="en">Hor.
+					Epod. 17, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dextra obsoleta sanguine,</span>”
+				<i>defiled</i>,
+				 <i><span class="en">Sen. Agam. 977</span></i>
+			.—Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">obsŏlētē</span></b> , <i>in an old</i> or <i>worn-out style,
+				poorly, meanly</i>: 
+				“<span class="alpheios-lex-la" lang="lat">paulo tamen obsoletius vestitus,</span>”
+				 <i><span class="en">Cic. Verr. 2, 1, 58, § 152</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

@@ -1,0 +1,917 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n7592" body-key=""><b><span class="alpheios-lex-la" lang="lat">certus</span></b> , a, um
+		orig. P. a. from cerno; hence, adj.,
+			<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>determined</i>,
+				<i>resolved</i>, <i>fixed</i>, <i>settled</i>, <i>purposed</i>: non
+			dubius. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b> (Acc. to cerno,
+			II. D.) Certum est (mihi), <i>it is determined</i>,
+				<i>it is my</i> (<i>thy</i>, <i>his</i>, etc.) <i>decision</i>, <i>resolution</i>, <i>will</i>, <i>I am resolved</i>, <i>I mean</i>,
+			etc. (mostly ante-class.; most freq. in Plaut.); with <i>inf.</i>: quorum virtuti belli Fortuna pepercit,
+			Eorundem me libertati parcere certum est, Enn. ap. <i><span class="en">Cic. Off.
+				1, 12, 38</span></i> (Ann. v. 206 Vahl.): 
+				“<span class="alpheios-lex-la" lang="lat">certum'st hominem eludere,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 109</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tibi credere,</span>”
+				 <i><span class="en">id.
+					Aul. 4, 9, 7</span></i>
+			; cf. <i><span class="en">id. Capt. 3, 1, 32</span></i>; <i><span class="en">id. Curc. 2,
+				1, 1</span></i>; <i><span class="en">id. Cas. 2, 4, 15</span></i>; <i><span class="en">id. Cist.
+				3, 1, 16</span></i>; <i><span class="en">id. Ep. 5, 1, 57</span></i>; <i><span class="en">id. Bacch.
+				5, 2, 37</span></i>; <i><span class="en">id. Most. 1, 3, 80</span></i>; <i><span class="en">id. Men. 5,
+				6, 12</span></i>; <i><span class="en">id. Mil. 2, 3, 32</span></i>; <i><span class="en">id. Merc. 3,
+				1, 7</span></i>; <i><span class="en">id. Ps. 1, 5, 138</span></i>; <i><span class="en">id. Poen.
+				5, 5, 25</span></i>; <i><span class="en">id. Pers. 2, 2, 39</span></i>; <i><span class="en">id. Rud. 3,
+				3, 22</span></i>; <i><span class="en">id. Stich. 5, 4, 2</span></i>; <i><span class="en">id. Trin.
+				2, 1, 34</span></i>; <i><span class="en">id. Truc. 2, 6, 68</span></i>; <i><span class="en">Ter. And.
+				2, 1, 11</span></i>; <i><span class="en">id. Eun. 1, 2, 108</span></i>: certum est  deliberatumque, quae ad causam pertinere arbitror,
+			omnia dicere, <i><span class="en">Cic. Rosc. Am. 11, 31</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certum atque decretum est non dare signum,</span>”
+				 <i><span class="en">Liv.
+					2, 45, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certum est igni circumdare muros,</span>”
+				 <i><span class="en">Verg.
+					A. 9, 153</span></i>
+			.—Certum'st mihi with <i>inf.</i>,
+				<i><span class="en">Plaut. As. 1, 3, 94</span></i>; <i><span class="en">3, 3,
+			23</span></i>; <i><span class="en">id. Cas. 1, 1, 3</span></i>; <i><span class="en">id. Mil.
+				3, 1, 154</span></i>; <i><span class="en">id. Ps. 4, 8, 2</span></i>; <i><span class="en">Cic. de
+				Or. 2, 33, 144</span></i>; <i><span class="en">Liv. 35,
+				46, 13</span></i>; <i><span class="en">Ov. M. 9, 53 al.</span></i>—Without
+				<i>inf.</i>, esp. parenthet., with expression of
+			purpose by a <i>fut. tense</i>: 
+				“<span class="alpheios-lex-la" lang="lat">certum est, malam rem potius quaeram cum lucro,</span>”
+				 <i><span class="en">Plaut. Aul. 4, 6, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certum est, jam dicam patri,</span>”
+				 <i><span class="en">id.
+					Bacch. 3, 1, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certum est, ibo ad medicum,</span>”
+				 <i><span class="en">id.
+					Merc. 2, 4, 4</span></i>
+			: <i>An.</i> Certumn' est tibi? <i>Ly.</i> Certum, <i><span class="en">id. Poen. 2, 48</span></i>; cf. <i><span class="en">id. Stich.
+				4, 2, 33</span></i>.—With <i>pron.</i> or
+				<i>subst.: Ar.</i> Certumne'st tibi istuc? <i>He.</i> Non moriri certius, <i><span class="en">Plaut.
+				Capt. 3, 5, 74</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">so further with istuc,</span>”
+				 <i><span class="en">id. ib. 2, 1, 20</span></i>
+			; <i><span class="en">Ter. Eun. 3, 3, 30</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mihi autem abjurare certius est quam dependere,</span>”
+				 <i><span class="en">Cic.
+					Att. 1, 8, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad eum senem oppugnare certum est consilium,</span>”
+				 <i><span class="en">Plaut. Ep. 1, 2, 60</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quae nunc sunt certa ei consilia, etc.,</span>”
+				 <i><span class="en">Ter.
+					And. 2, 3, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certa res hanc est objurgare,</span>”
+				 <i><span class="en">Plaut. Am. 2, 2, 73</span></i>
+			; so <i><span class="en">id. Merc. 5, 2, 16</span></i>; <i><span class="en">id. Mil. 2,
+				4, 45</span></i>; <i><span class="en">Ter. And. 2, 2, 31</span></i>; <i><span class="en">Plaut.
+				Most. 3, 2, 16</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> (From the time of the Aug. poets.) <b>Transf.</b> to the person who is determined upon
+			something, <i>determined</i>, <i>resolved</i>, <i>bent.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> With <i>inf.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">certa mori,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 564</span></i>
+			 (cf. <i><span class="en">id. ib. 4, 475</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">decrevitque mori): certi non cedere,</span>”
+				 <i><span class="en">Ov. M.
+					9, 43</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certa sequi,</span>”
+				 <i><span class="en">Val.
+					Fl. 5, 47</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b>
+			With <i>gen.</i> (cf. Ramsh. Gr. p. 323; Zumpt, Gr.
+			§ 437, n. 1; 
+				“<span class="alpheios-lex-la" lang="lat">A. and S. § 213, R. 1): certus eundi,</span>”
+				 <i><span class="en">Verg.
+					A. 4, 554</span></i>
+			; <i><span class="en">Ov. M. 11, 440</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">desciscendi,</span>”
+				 <i><span class="en">Tac. H.
+					4, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">relinquendae vitae,</span>”
+				 <i><span class="en">id. A.
+					4, 34</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">necis,</span>”
+				 <i><span class="en">Sil. 6,
+					27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fugae,</span>”
+				 <i><span class="en">Plin. Ep. 6, 16, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">destinationis,</span>”
+				 <i><span class="en">Tac.
+					A. 12, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sceleris,</span>”
+				 <i><span class="en">id. ib. 12, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">consilii,</span>”
+				 <i><span class="en">id. H.
+					2, 46</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(g).</b>
+			With <i>an</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec sat certa an cederet armis,</span>”
+				 <i><span class="en">Sil.
+					9, 480</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b> An
+			epithet of all those objects whose existence or reality is <i>fixed</i>, <i>determined</i> (hence
+			in connection with definitus, <i><span class="en">Quint. 7,
+				10, 7</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">with praefinitus,</span>”
+				 <i><span class="en">Suet. Galb. 14</span></i>
+			), or in respect to which there can be no doubt (hence opp.
+			dubius, <i><span class="en">Quint. 7, 6, 3</span></i>; <i><span class="en">5, 12, 3</span></i>; <i><span class="en">12, 3, 6 al.</span></i>).
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Object. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Of things whose external qualities,
+			number, etc., are invariable, <i>established</i>, <i>settled</i>, <i>fixed</i>, <i>particular</i>, <i>specified</i>,
+			etc. (class.): 
+				“<span class="alpheios-lex-la" lang="lat">Arboribus primum certis gravis umbra tributa,</span>”
+				 <i><span class="en">Lucr.
+					6, 783</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fruges, bacae,</span>”
+				 <i><span class="en">Cic.
+					Leg. 2, 8, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam ad certas res conficiendas certos homines
+					delectos ac descriptos habebat,</span>”
+				 <i><span class="en">id.
+					Cat. 3, 7, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">concilium in diem certam indicere,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 30 <i>fin.</i></span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">so with dies,</span>”
+				<i>a fixed term</i>,
+				 <i><span class="en">Cato, R. R. 149, 1</span></i>
+			; <i><span class="en">Cic. Att. 6, 2, 9</span></i>; <i><span class="en">Nep.
+				Chabr. 3, 1</span></i>; <i><span class="en">Liv. 1, 50, 1</span></i>; <i><span class="en">Tac. G. 9
+			al.</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">certis diebus,</span>”
+				 <i><span class="en">Verg.
+					G. 2, 329</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quaerere ab judicibus cur in certa verba
+					jurent, cur certo tempore conveniant, certo discedant,</span>”
+				 <i><span class="en">Cic. Inv. 2, 45, 132</span></i>
+			; cf. <i><span class="en">Suet. Aug. 41</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certum praefinitumque tempus,</span>”
+				 <i><span class="en">id. Galb. 14</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">certum statumque vectigal,</span>”
+				 <i><span class="en">id. Calig. 40</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pecunia (opp. arbitraria), v. arbitrarius:
+					finis aerumnarum,</span>”
+				 <i><span class="en">Lucr.
+					1, 108</span></i>
+			; cf. <i><span class="en">id. 2, 512</span></i>; <i><span class="en">8, 1091</span></i>; <i><span class="en">Hor. S. 1,
+				1, 106</span></i>; <i><span class="en">id. Ep. 1, 2, 56</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">locus,</span>”
+				 <i><span class="en">Caes.
+					B. G. 5, 1, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">numerus,</span>”
+				 <i><span class="en">id. ib. 7, 75</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">signum,</span>”
+				<i>fixed</i>, <i>agreed upon</i>,
+				 <i><span class="en">id. B.
+					C. 1, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">naves,</span>”
+				<i>fixed in number and quality</i>,
+				 <i><span class="en">id. ib. 1, 56</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pecuniae imperabantur,</span>”
+				 <i><span class="en">id. ib. 3, 32</span></i>
+			
+			<i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">conviva,</span>”
+				i. e. <i>a daily</i>, <i>constant guest</i>,
+				 <i><span class="en">Hor. Ep. 1, 7, 75</span></i>
+			 Schmid: 
+				“<span class="alpheios-lex-la" lang="lat">ecquem tu illo certiorem nebulonem,</span>”
+				 <i><span class="en">Cic.
+					Att. 15, 21, 2</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> But
+			sometimes indef., like quidam, and our <i>certain</i>,
+			of things, the certainty of whose existence is given, but whose
+			nature is not more definitely designated, or comes not into
+			consideration (cf. aliquis): 
+				“<span class="alpheios-lex-la" lang="lat">Cephaloedi mensis est certus, quo mense
+					sacerdotem maximum creari oporteat,</span>”
+				 <i><span class="en">Cic. Verr. 2, 2, 52, § 128</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">habet certos sui studiosos,</span>”
+				 <i><span class="en">id.
+					Brut. 16, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(hunc) certis rebus imperatis regnare jussit,</span>”
+				 <i><span class="en">id.
+					Sest. 27, 58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certi homines ad eam rem periti,</span>”
+				 <i><span class="en">id. ib. 18, 41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">res a certis hominibus corrupta,</span>”
+				 <i><span class="en">id.
+					Fam. 1, 2, 3</span></i>
+			; <i><span class="en">4, 9, 2</span></i>; <i><span class="en">16, 11, 2</span></i>; <i><span class="en">id. Marcell.
+				6, 16</span></i>; <i><span class="en">id. Deiot. 4, 11</span></i>; <i><span class="en">Liv. 34,
+				61, 7</span></i>.—Hence in Quint. several times in
+			connection with quidam and aliquis: 
+				“<span class="alpheios-lex-la" lang="lat">ad certas quasdam dicendi leges alligati,</span>”
+				 <i><span class="en">Quint.
+				8</span></i>
+			, prooem. § 2; so <i><span class="en">id. 8</span></i>,
+			prooem. § 12; 4, 2, 28; 5, 10, 2; 5, 10, 5; 9, 4, 8; 
+				“<span class="alpheios-lex-la" lang="lat">11, 2, 28: aliquos compositionis certos pedes,</span>”
+				 <i><span class="en">id.
+					10, 2, 13</span></i>
+			; so <i><span class="en">id.
+				7</span></i>, prooem. § 4; and <i>subst.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">in his certos aliquos docebit,</span>”
+				 <i><span class="en">id.
+					2, 8, 13</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<b>Trop.</b>, of things whose internal moral
+			qualities are established, fixed, can be relied upon, <i>sure</i>, <i>unerring</i>, <i>to be depended upon</i>, <i>true</i>,
+				<i>faithful</i>,
+			 etc. (so most freq. in all periods and species of
+			composition; syn.: firmus, confirmatus, exploratus, indubitatus,
+			manifestus al.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Of
+			persons: amicus certus in re incertā cernitur, Enn. ap.
+				<i><span class="en">Cic.
+				Lael. 17, 64</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tu ex amicis certis mi es certissimus,</span>”
+				 <i><span class="en">Plaut. Trin. 1, 2, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certi homines, quibus dem litteras,</span>”
+				 <i><span class="en">Cic.
+					Fam. 1, 7, 1</span></i>
+			; cf. <i><span class="en">id. Cat. 3, 7, 16</span></i>; <i><span class="en">Nep. Paus. 2,
+				4</span></i>; <i><span class="en">id. Alcib. 10, 1</span></i>; <i><span class="en">Cic. Rosc.
+				Am. 19, 53</span></i>; <i><span class="en">id. Verr. 2, 2, 64, § 156</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certus enim promisit Apollo, etc.,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 7, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">auctor (mortis),</span>”
+				 <i><span class="en">Quint. 6, 3, 68</span></i>
+			; cf. <i><span class="en">Suet. Tib. 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">adversus hostem nec spe nec animo certiorem, i.
+					e. firmiorem,</span>”
+				 <i><span class="en">Liv. 10, 35, 17</span></i>
+			: apud latera certos collocaverat, Sall. ap.
+					<i><span class="en">Serv. ad Verg. A. 1, 576</span></i> (H.
+			1, 53 Dietsch); cf. <i><span class="en">Nep. Dion, 9, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">per litora certos dimittam,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 576</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certissimus auctor (Phoebus),</span>”
+				 <i><span class="en">id. G.
+					1, 432</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Of
+			things: 
+				“<span class="alpheios-lex-la" lang="lat">satis animo certo et confirmato,</span>”
+				 <i><span class="en">Cic. Quint. 24, 77</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">pectora,</span>”
+				 <i><span class="en">Verg.
+					A. 9, 249</span></i>
+			, and certior indoles, <i><span class="en">Suet.
+				Ner. 10</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">promissa,</span>”
+				 <i><span class="en">Cic.
+					Fam. 6, 12, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">parata dicendi copia et certa,</span>”
+				 <i><span class="en">Quint. 10, 6, 6</span></i>
+			; <i><span class="en">id.
+			6</span></i>, prooem. § 
+				“<span class="alpheios-lex-la" lang="lat">9: jus,</span>”
+				 <i><span class="en">id.
+					12, 3, 6</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">jactus (telorum),</span>”
+				 <i><span class="en">Tac.
+					A. 14, 37</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">in this sense certa hasta,</span>”
+				 <i><span class="en">Verg.
+					A. 11, 767</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sagitta,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 12, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fides segetis,</span>”
+				 <i><span class="en">id. ib. 3, 16, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">spes,</span>”
+				 <i><span class="en">id. C. S.
+					74</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">trames,</span>”
+				 <i><span class="en">id.
+					S. 2, 3, 49</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lar,</span>”
+				 <i><span class="en">id. Ep. 1, 7, 58 al.</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plana et certa,</span>”
+				 <i><span class="en">Plaut.
+					Pers. 2, 2, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certa et clara,</span>”
+				 <i><span class="en">Ter.
+					Hec. 5, 4, 1</span></i>
+			 Ruhnk.; so <i><span class="en">Liv. 22, 39, 22</span></i>; cf. <i><span class="en">Hor. S. 2,
+				6, 27</span></i>.—Subst., with <i>gen.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">certa maris,</span>”
+				 <i><span class="en">Tac. H.
+					4, 81</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Subject., of that which is established by evidence, etc., placed
+			beyond doubt, <i>certain</i>, <i>sure</i>, <i>true</i>, <i>proved</i>,
+				<i>established</i> (class.; esp. freq. in <i>neutr.</i>): 
+				“<span class="alpheios-lex-la" lang="lat">cum ad has suspitiones certissimae res
+					accederent,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 19</span></i>
+			; <i><span class="en">5, 29</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">incerta pro certis malebant,</span>”
+				 <i><span class="en">Sall. C. 17, 6</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">incerta pro certis mutare,</span>”
+				 <i><span class="en">id.
+					J. 83, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">postremo certior res,</span>”
+				 <i><span class="en">Liv.
+					29, 6, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certiora esse dicunt quam, etc.,</span>”
+				 <i><span class="en">Cic.
+					N. D. 3, 5, 13</span></i>
+			; <i><span class="en">id. Att. 3, 11, 2</span></i>; <i><span class="en">Liv. 10,
+				35, 12</span></i>: <i>So.</i> Satin hoc certum'st? <i>Ge.</i> Certum: 
+				“<span class="alpheios-lex-la" lang="lat">hisce oculis egomet vidi,</span>”
+				 <i><span class="en">Ter.
+					Ad. 3, 2, 31</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam satis certumst virginem vitiatam esse?</span>”
+				 <i><span class="en">id. Enn. 4, 4, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum certius tibi sit me esse Romae quam mihi te
+					Athenis,</span>”
+				 <i><span class="en">Cic.
+					Att. 1, 9, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">id parum certum est,</span>”
+				 <i><span class="en">Liv.
+					5, 35, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum de altero intellectu certum est, de altero
+					dubium,</span>”
+				 <i><span class="en">Quint.
+					7, 6, 3</span></i>
+			; cf. <i><span class="en">id. 7, 3, 4</span></i>: non certum traditur, with
+				<i>interrog.-clause</i>, <i><span class="en">Liv. 2, 8,
+			8</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec quicquam certi respondes mihi?</span>”
+				 <i><span class="en">Ter.
+					Hec. 4, 4, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque tanto spatio certi quid esset explorari
+					poterat,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certum inveniri non potest ne ... an,</span>”
+				 <i><span class="en">id. B.
+					C. 1, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si quicquam humanorum certi est,</span>”
+				 <i><span class="en">Liv.
+					5, 33, 1</span></i>
+			: <i>Ph.</i> Civemne? <i>Th.</i>
+			Arbitror: 
+				“<span class="alpheios-lex-la" lang="lat">Certum non scimus,</span>”
+				 <i><span class="en">Ter.
+					Eun. 1, 2, 31</span></i>
+			; cf. <i><span class="en">id. Phorm. 1, 2, 98</span></i>; <i><span class="en">Cic. Att.
+				12, 23, 2</span></i>.—So, certum scire, <i>to
+				know for a certainty</i>, <i><span class="en">Ter. Eun.
+				5, 3, 12</span></i>; <i><span class="en">id. Hec. 3, 1, 44</span></i>; <i><span class="en">Cic. Fam. 9,
+				23 <i>init.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certum habere,</span>”
+				<i>to reckon certain</i>,
+				 <i><span class="en">id.
+					Att. 1, 13, 1</span></i>
+			; <i><span class="en">Liv. 36, 28, 4</span></i>; <i><span class="en">5, 3, 2</span></i>; <i><span class="en">Quint. 2, 3,
+				9</span></i>; <i><span class="en">Col. 2, 22, 5 al.</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certum respondeo,</span>”
+				 <i><span class="en">Cic. Ac. 2, 29, 92</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cognoscere, Auct. B. Alex. 53: comperire, Auct.
+					B. Hisp. 22.—So also pro certo habere,</span>”
+				 <i><span class="en">Cic.
+					Att. 10, 6, 3</span></i>
+			; Matius ap. <i><span class="en">Cic. Att. 9, 15</span></i>, A <i>med.</i>; <i><span class="en">Sall. C. 52, 17</span></i>; <i><span class="en">Suet.
+				Dom. 23</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">negare,</span>”
+				 <i><span class="en">Cic.
+					Att. 5, 21, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">polliceri,</span>”
+				 <i><span class="en">id.
+					Agr. 2, 37, 102</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dicere aliquid,</span>”
+				 <i><span class="en">id.
+					Brut. 3, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ponere,</span>”
+				 <i><span class="en">Liv.
+					23, 6, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scire,</span>”
+				 <i><span class="en">id.
+					25, 10, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">affirmare,</span>”
+				 <i><span class="en">id.
+					27, 1, 13</span></i>
+			; <i><span class="en">3, 23, 7</span></i>;
+			cf. <i><span class="en">id. 1,
+				3, 2</span></i> Drak.: 
+				“<span class="alpheios-lex-la" lang="lat">creditur,</span>”
+				 <i><span class="en">Sall. C. 15, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">coeperit esse,</span>”
+				 <i><span class="en">Quint. 5, 12, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certius cognoscere ex aliquo de
+					aliquā re,</span>”
+				 <i><span class="en">Caes.
+					B. G. 5, 52, 5</span></i>
+			.—Strengthened by <i>comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quin nihil invenies magis hoc certo certius,</span>”
+				 <i><span class="en">Plaut. Capt. 3, 4, 111</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">et hoc certo certius est et saepissime
+					constitutum,</span>”
+				 <i><span class="en">Dig. 42, 8, 10, § 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certo certius,</span>”
+				 <i><span class="en">Ambros. in Ephes. 5</span></i>
+			; <i><span class="en">Paul. Vit. St. Ambros. 25</span></i>;
+					<i><span class="en">App. M. 9, p. 237,
+			27</span></i>.—In Plaut. certum or certius facere alicui, <i>to give certainty to one concerning any thing</i>,
+				<i>make him certain</i>, <i><span class="en">Plaut. Men.
+				2, 1, 17</span></i>; <i><span class="en">5, 2, 12</span></i>; <i><span class="en">id. Ps. 2,
+				2, 4</span></i>.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<b>Transf.</b> to the person who is made certain in
+			reference to a thing, <i>certain</i>, <i>sure</i>: 
+				“<span class="alpheios-lex-la" lang="lat">certi sumus periisse omnia,</span>”
+				 <i><span class="en">Cic.
+					Att. 2, 19, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">num quid nunc es certior?</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 191</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">posteritatis,</span>”
+				i. e. <i>of posthumous fame</i>,
+				 <i><span class="en">Plin.
+					Ep. 9, 3, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sententiae,</span>”
+				 <i><span class="en">Quint.
+					4, 3, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">judicii,</span>”
+				 <i><span class="en">Sen. Ep. 45, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certus de suā geniturā,</span>”
+				 <i><span class="en">Suet. Vesp. 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">damnationis,</span>”
+				 <i><span class="en">id. Tib. 61</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exitii,</span>”
+				 <i><span class="en">Tac. A.
+					1, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">spei,</span>”
+				 <i><span class="en">id. H.
+					4, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">matrimonii,</span>”
+				 <i><span class="en">id. A.
+					12, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certi sumus, etc.,</span>”
+				 <i><span class="en">Gell. 18, 10, 5</span></i>
+			.—In class. prose mostly in the phrase certiorem
+			facere aliquem (de aliquā re, alicujus rei, with a foll,
+				acc. and <i>inf.</i>, with a <i>rel.-clause</i> or <i>absol.</i>),
+				<i>to inform</i>, 
+			<i>apprise one of a thing</i>: 
+				“<span class="alpheios-lex-la" lang="lat">me certiorem face,</span>”
+				 <i><span class="en">Ter.
+					Phorm. 4, 3, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut nos facias certiores,</span>”
+				 <i><span class="en">Plaut. Curc. 5, 2, 32</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">uti se (sc. Caesarem) de his rebus certiorem
+					faciant,</span>”
+				 <i><span class="en">Caes. B.
+					G. 2, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui certiorem me sui consilii fecit,</span>”
+				 <i><span class="en">Cic.
+					Att. 9, 2</span></i>
+			, a, 2: 
+				“<span class="alpheios-lex-la" lang="lat">Caesarem certiorem faciunt, sese non facile ab
+					oppidis vim hostium prohibere,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">faciam te certiorem quid egerim,</span>”
+				 <i><span class="en">Cic.
+					Att. 3, 11, 1</span></i>
+			.— With <i>subj.</i> only: 
+				“<span class="alpheios-lex-la" lang="lat">milites certiores facit, paulisper
+					intermitterent proelium,</span>”
+				 <i><span class="en">Caes. B.
+					G. 3, 5 <i>fin.</i></span></i>
+			—<i>Pass.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod crebro certior per me fias de omnibus
+					rebus,</span>”
+				 <i><span class="en">Cic.
+					Fam. 1, 7, 1</span></i>
+			; so <i><span class="en">Caes. B. G. 1, 7</span></i>; <i><span class="en">Sall. J.
+				104, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Caesar certior factus est, tres jam copiarum
+					partes Helvetios id flumen transduxisse,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 12</span></i>
+			; so <i><span class="en">id. ib. 1, 21</span></i>; 1, 41; 2, 1;
+				<i><span class="en">Sall. J. 82, 2</span></i>; <i><span class="en">Nep. Att. 12,
+				3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">factus certior, quae res gererentur,</span>”
+				 <i><span class="en">Caes.
+					B. C. 1, 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non consulibus certioribus factis,</span>”
+				 <i><span class="en">Liv.
+					45, 21, 4</span></i>
+			.—Also in <i>posit.</i>, though
+			rarely: 
+				“<span class="alpheios-lex-la" lang="lat">fac me certum quid tibi est,</span>”
+				 <i><span class="en">Plaut. Ps. 1, 1, 16</span></i>
+			; <i><span class="en">4, 6, 35</span></i>; <i><span class="en">Verg. A. 3,
+				179</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">lacrimae suorum Tam subitae matrem certam
+					fecere ruinae,</span>”
+				 <i><span class="en">Ov. M.
+					6, 268</span></i>
+			.— Hence, adv. in two
+			forms. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b><span class="alpheios-lex-la" lang="lat">certō</span></b> , <i>with certainty</i>, <i>certainly</i>,
+				<i>surely</i>, <i>of a truth</i>,
+				<i>in fact</i>, <i>really</i>,
+			object. and subject. (cf. supra, II. A. and B.); only in the comic
+			poets, and sometimes (most. freq. in his epistt.) in Cic., while the
+			adverbial form certe belongs to all periods and all species of
+			composition. The difference between them is, perhaps, merely
+			historical; but 
+				v.
+				infra
+			, certe, B. I. 2. <i>init.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Object.: 
+				“<span class="alpheios-lex-la" lang="lat">perii certo, haud arbitrario,</span>”
+				 <i><span class="en">Plaut. Poen. 3, 5, 42</span></i>
+			; cf. <i><span class="en">id. Merc. 2, 3, 106</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mihi certo nomen Sosia'st,</span>”
+				 <i><span class="en">id.
+					Am. 1, 1, 176</span></i>
+			; <i><span class="en">id. Men. 2, 2, 39</span></i>; <i><span class="en">Ter. Phorm.
+				1, 3, 12</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nihil ita exspectare quasi certo futurum,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 5, 28, 81</span></i>
+			 (cf. the passage cited under certo, I. 1., from <i><span class="en">id. Div. 2,
+				7, 18</span></i>).—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In affirm. answers: <i>Me.</i> Liberum ego
+			te jussi abire? <i>Mes.</i> Certo, <i>yes</i>, <i>certainly</i>, <i><span class="en">Plaut. Men.
+				5, 8, 9</span></i>; so <i><span class="en">id. ib. 5, 9,
+			50</span></i>; 2, 3, 38; <i><span class="en">id. Poen. 5, 5, 21</span></i>; <i><span class="en">Ter. Eun. 5,
+				1, 9</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Subject. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> In
+			gen. (very rare): 
+				“<span class="alpheios-lex-la" lang="lat">certo enim ego vocem hic loquentis modo mi
+					audire visus sum,</span>”
+				 <i><span class="en">Plaut.
+					Aul. 4, 5, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ego rus abituram me esse certo decrevi,</span>”
+				 <i><span class="en">Ter.
+					Hec. 4, 4, 10</span></i>
+			: <i>Th.</i> Quid aīs? <i>Py.</i> Atqui certo comperi, <i><span class="en">id. Eun. 5,
+				1, 9</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Esp. in the formula of asseveration, certo scio, <i>I certainly know</i>, <i>I am fully
+				persuaded</i>, <i>beyond all doubt</i> (class.): 
+				“<span class="alpheios-lex-la" lang="lat">certo edepol scio, me vidisse, etc.,</span>”
+				 <i><span class="en">Plaut.
+					Mil. 2, 3, 2</span></i>
+			; <i><span class="en">id. Truc. 1, 1, 49</span></i>; <i><span class="en">Ter. And.
+				5, 4, 26</span></i>; <i><span class="en">id. Ad. 4, 5, 14</span></i>; <i><span class="en">id. Eun.
+				1, 2, 119</span></i>; <i><span class="en">id. Heaut. 1, 1, 19</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod te moleste ferre certo scio,</span>”
+				 <i><span class="en">Cic.
+					Att. 1, 12, 3</span></i>
+			; <i><span class="en">2, 23, 2</span></i>; <i><span class="en">id. Fam. 4,
+				13, 6</span></i>; <i><span class="en">id. Q. Fr. 1, 2, 2, § 6</span></i>;
+				<i><span class="en">id.
+				Rosc. Am. 8, 21</span></i>; <i><span class="en">id. Phil.
+				3, 6, 17</span></i>; <i><span class="en">id. Sen. 1, 1</span></i>; <i><span class="en">1, 2</span></i>;
+				<i><span class="en">Sall.
+				J. 9, 2</span></i>; <i><span class="en">id. C. 51, 16</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">veniunt in mentem mihi permulta: vobis plura,
+					certo scio,</span>”
+				 <i><span class="en">Cic.
+					Caecin. 19, 55</span></i>
+			 (cf. under certe, I. 2.).—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b><span class="alpheios-lex-la" lang="lat">certē</span></b>  (class.; cf.
+			supra, certo <i>init.</i>). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b> Affirming strongly, <i>with certainty</i>, <i>certainly</i>, <i>undoubtedly</i>, <i>assuredly</i>,
+				<i>surely</i>, <i>really.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Object.: 
+				“<span class="alpheios-lex-la" lang="lat">certe edepol, tu me alienabis,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 243</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ego quidem ab hoc certe exorabo,</span>”
+				 <i><span class="en">id.
+					Bacch. 5, 2, 58</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certe hercle,</span>”
+				 <i><span class="en">id.
+					As. 2, 1, 15</span></i>
+			; cf. <i><span class="en">Ter. Phorm. 5, 1, 8</span></i>; <i><span class="en">Plaut.
+				Truc. 1, 2, 71</span></i>; <i><span class="en">Ter. And. 2, 2, 10</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quom is certe Renuntiarit,</span>”
+				 <i><span class="en">id.
+					Heaut. 4, 4, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certe captus est!</span>”
+				 <i><span class="en">id.
+					And. 1, 1, 55</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">certe ut videamur cernere eum,</span>”
+				 <i><span class="en">Lucr.
+					4, 760</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si enim scit, certe illud eveniet: sin certe
+					eveniet, nulla fortuna est,</span>”
+				 <i><span class="en">Cic.
+					Div. 2, 7, 18</span></i>
+			; cf. <i><span class="en">id. N. D. 1, 2, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">fuit certe id aequum et certe exspectatum est,
+					etc.,</span>”
+				 <i><span class="en">id.
+					Planc. 16, 38</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ea certe vera sunt,</span>”
+				 <i><span class="en">id.
+					Mil. 35, 96</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">M. Catoni certe licuit, etc.,</span>”
+				 <i><span class="en">id.
+					Rep. 1, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam illa perfugia certe minime sunt audienda,</span>”
+				 <i><span class="en">id. ib. 1, 5, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum se certe decessurum videret,</span>”
+				 <i><span class="en">id. Verr. 2, 3, 44, § 104</span></i>
+			; <i><span class="en">Cat. 62, 8</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certe hinc Romanos olim fore ductores
+					pollicitus,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 234</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">o dea certe,</span>”
+				<i>a goddess surely</i>,
+				 <i><span class="en">id. ib. 1, 328</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">postremo expellet certe vivacior heres,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 2, 132</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">placuit tibi, Delphice, certe, Dum, etc.,</span>”
+				 <i><span class="en">Ov.
+					M. 2, 543 al.</span></i>
+			— <i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">speculatores mittere, qui certius explorata
+					referant,</span>”
+				 <i><span class="en">Liv.
+					3, 40, 13</span></i>
+			; <i><span class="en">35, 48, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si reperire vocas amittere certius,</span>”
+				 <i><span class="en">Ov. M.
+					5, 519</span></i>
+			; <i><span class="en">App. M. 2, p. 118,
+				1</span></i>.—<i>Sup.</i>,
+					<i><span class="en">Tert. Pall.
+			4</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In
+			an answer of affirmation: 
+				“<span class="alpheios-lex-la" lang="lat">estne ipsus an non est! Is est, Certe is est,
+					is est profecto,</span>”
+				 <i><span class="en">Plaut. Trin. 4, 3, 65</span></i>
+			; so <i><span class="en">Ter. Ad. 1, 1, 53</span></i>; <i><span class="en">Cic. Tusc.
+				1, 5, 9</span></i>; <i><span class="en">id. Clu. 54, 149</span></i>; <i><span class="en">id. Phil.
+				1, 15, 37</span></i>; <i><span class="en">id. Ac. 2, 35,
+			113</span></i>; and in confirmation of a preceding fact: venerat, ut
+			opinor, haec res in judicium.  Certe, <i>certainly</i>, <i>surely</i>, <i><span class="en">Cic. Rosc.
+				Com. 14, 42</span></i>; <i><span class="en">id. Fam. 4, 2, 5</span></i>; <i><span class="en">id. Or. 42,
+				144</span></i>; cf. <i><span class="en">id. Off. 3, 29, 105</span></i>; <i><span class="en">id. Fin.
+				2, 27, 91</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Subject., mostly in the phrase certe scio, <i>I know to a certainty</i>, <i>I am
+				sure</i> (acc. to Klotz ad <i><span class="en">Cic. Sen. 1,
+			2</span></i>, certe scio = certum est me scire, <i>I am
+				fully convinced</i>: certo scio = certum est quod scio, <i>my knowledge is accurate</i>, etc.): 
+				“<span class="alpheios-lex-la" lang="lat">certe edepol scio, si aliud quicquam est quod
+					credam aut certo sciam, etc.,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 115</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">edepol certo scio,</span>”
+				 <i><span class="en">id.
+					Bacch. 2, 3, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scelestiorem me hac anu certe scio Vidisse
+					numquam,</span>”
+				 <i><span class="en">id.
+					Aul. 1, 1, 21</span></i>
+			; cf. <i><span class="en">Cic. Arch. 12, 32</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ex litteris certe scire potuistis,</span>”
+				 <i><span class="en">id.
+					Font. 4, 8</span></i>
+			; <i><span class="en">id. Phil. 12, 12, 29</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod iste certe statuerat ac deliberaverat non
+					adesse,</span>”
+				 <i><span class="en">id. Verr. 2, 1, 1, § 1</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In
+			affirm. answers: <i>Ar.</i> Ain' vero? <i>Le.</i> Certe, inquam, <i><span class="en">Plaut. As.
+				3, 3, 132</span></i>: <i>Ch.</i> Ain'tu? <i>So.</i> Certe, sic erit, <i><span class="en">Ter. Heaut.
+				5, 3, 12</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>c.</b> In a subjective supposition or presumption that a thing
+			is so, <i>certainly</i>, <i>surely</i>,
+				<i>assuredly</i>, <i>doubtless</i>,
+				<i>of course;</i> Gr. <span class="alpheios-lex-greek" lang="grc">ἴσως</span>: 
+				“<span class="alpheios-lex-la" lang="lat">ah nugas agis, Certe habes,</span>”
+				 <i><span class="en">Plaut. Aul. 4, 4, 25</span></i>
+			; <i><span class="en">id. Bacch. 5, 2, 58</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">si me tanti facis, quanti certe facis,</span>”
+				 <i><span class="en">Cic.
+					Fam. 11, 16, 3</span></i>
+			; <i><span class="en">7, 8, 1</span></i>; cf. <i><span class="en">Verg. A. 1,
+				234</span></i>; <i><span class="en">Ov. M. 2, 423</span></i>; <i><span class="en">Prop. 2, 7,
+				1</span></i>. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b> In interrog., <i><span class="en">Cic. Leg. 1, 1, 3</span></i>; <i><span class="en">Suet.
+				Aug. 33</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b> Affirming with restriction, <i>yet
+			surely</i>, <i>yet indeed</i>, <i>at
+				least</i>, <i>notwithstanding</i> (very freq. in
+			prose and poetry, esp. after the class. per.). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Alone: 
+				“<span class="alpheios-lex-la" lang="lat">si non ipsā re tibi istuc dolet,
+					Simulare certe est hominis,</span>”
+				 <i><span class="en">Ter.
+					Ad. 4, 7, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cingitur, certe expedit se,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 152</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut homines mortem vel optare incipiant, vel
+					certe timere desistant,</span>”
+				 <i><span class="en">Cic. Tusc. 1, 49, 117</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">haec... sint falsa sane, invidiosa certe non
+					sunt,</span>”
+				 <i><span class="en">id. Ac. 2, 32, 105</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">qui... ut non referat pedem, sistet certe,</span>”
+				 <i><span class="en">id.
+					Phil. 12, 4, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">res fortasse verae, certe graves,</span>”
+				 <i><span class="en">id.
+					Fin. 4, 3, 7</span></i>
+			; cf. <i><span class="en">Liv. 9, 11, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">consulatum unum certe plebis Romanae esse,</span>”
+				 <i><span class="en">id.
+					22, 34, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quos quoniam caeli nondum dignamur honore, Quas
+					dedimus certe terras habitare sinamus,</span>”
+				 <i><span class="en">Ov. M.
+					1, 195</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">quo quid sit beatius, mihi certe in mentem
+					venire non potest,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 5, 28, 81</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">ego certe,</span>”
+				 <i><span class="en">Quint. 8, 3, 65</span></i>
+			; <i><span class="en">9, 4, 57</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certe ego,</span>”
+				 <i><span class="en">Sall. J. 31, 5</span></i>
+			; <i><span class="en">Ov. H. 19, 81</span></i>; <i><span class="en">id. M. 13,
+				840</span></i>; <i><span class="en">id. Tr. 4, 5, 13</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mihi certe,</span>”
+				 <i><span class="en">Quint. 10, 3, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ipse certe,</span>”
+				 <i><span class="en">id.
+					8, 6, 30</span></i>
+			; <i><span class="en">Curt. 7, 4, 19</span></i>; <i><span class="en">7, 6,
+			22</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			With other particles. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			With <i>tamen</i>: 
+				“<span class="alpheios-lex-la" lang="lat">illud certe tamen, quod jam amplexi sumus,</span>”
+				 <i><span class="en">Cic.
+					de Or. 3, 6, 22</span></i>
+			; <i><span class="en">id. Sen. 23,
+			84</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			With <i>at</i>: quod (consilium) si non fuerit
+			prudens, at certe ab optima fide proficiscetur, Balb. et opp. ap.
+				<i><span class="en">Cic.
+				Att. 9, 7</span></i>, A, 1; <i><span class="en">Ov. F. 3, 351</span></i>; cf. at II.
+			3.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> With <i>sed</i>: non integrā re, sed certe minus
+			infractā, quam, etc., Att. ap. <i><span class="en">Cic. Att.
+				9, 10, 8</span></i>; cf. <i><span class="en">Cic. Leg. 1, 21, 56</span></i> dub. B. and K.
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b> With <i>quidem</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ubi sit animus, certe quidem in te est,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 1, 29, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quoniam volumus quidem certe senes fieri,</span>”
+				 <i><span class="en">id. Sen.
+					2, 6</span></i>
+			; <i><span class="en">id. Quint. 15, 50</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">certe quidem vos estis Romani, etc.,</span>”
+				 <i><span class="en">Liv.
+					45, 22, 5</span></i>
+			. (But quidem does not belong with certe in such passages as
+			the foll.: 
+				“<span class="alpheios-lex-la" lang="lat">hic quidem certe memorat, etc.,</span>”
+				 <i><span class="en">Plaut. Am. 1, 1, 261 al.</span></i>
+			; v. quidem; cf. also aut and vel.)</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

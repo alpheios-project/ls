@@ -1,0 +1,430 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n17239" body-key=""><b><span class="alpheios-lex-la" lang="lat">ex-specto</span></b>  (<b><span class="alpheios-lex-la" lang="lat">expect-</span></b> ), āvi, ātum, 1,
+			v. a., <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to look out for a thing</i> (syn.: prospecto,
+			opperior, maneo, moror, praestolor). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> Objectively, <i>to await</i>, <i>expect</i> something that is to come or to take
+			place, <i>to be waiting for</i>, etc. (very freq. and
+			class.). —Constr. with the acc., with <i>rel.-clauses</i>, with <i>dum</i>,
+				<i>si</i>, <i>ut</i>, <i>quin</i>, or <i>absol.;</i> very
+			rarely with <i>object-clause.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> With <i>acc.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">caritatem,</span>”
+				 <i><span class="en">Cato, R. R. 3, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alicujus mortem,</span>”
+				 <i><span class="en">Plaut. As. 3, 1, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum ea Scipio dixisset silentioque omnium
+					reliqua ejus exspectaretur oratio,</span>”
+				 <i><span class="en">Cic.
+					Rep. 2, 38</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">injurias,</span>”
+				 <i><span class="en">id. ib. 1, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">transitum tempestatis,</span>”
+				 <i><span class="en">id.
+					Att. 2, 21, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">adventum alicujus,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 27, 2</span></i>
+			; <i><span class="en">2, 16, 2</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">eventum pugnae,</span>”
+				 <i><span class="en">id. ib. 7, 49</span></i>
+			
+			<i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">scilicet ultima semper Exspectanda dies homini
+					est,</span>”
+				 <i><span class="en">Ov. M.
+					3, 136</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cenantes haud animo aequo Exspectans comites,</span>”
+				i. e. <i>waiting till they have done eating</i>,
+				 <i><span class="en">Hor.
+					S. 1, 5, 9</span></i>
+			 et saep.; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">exspectandus erit annus,</span>”
+				<i>I must wait a year</i>,
+				 <i><span class="en">Juv.
+					16, 42</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			With <i>relative</i> and esp. <i>interrogative clauses</i>: exspectabat populus atque ora
+			tenebat rebus, utri magni victoria sit data regni, Enn. ap. <i><span class="en">Cic. Div.
+				1, 48, 107</span></i> (Ann. s. 90, ed. Vahl.): 
+				“<span class="alpheios-lex-la" lang="lat">exspecto, quo pacto, etc.,</span>”
+				 <i><span class="en">Plaut.
+					Poen. 4, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspecto, quid ad ista,</span>”
+				 <i><span class="en">Cic.
+					Tusc. 4, 20, 46</span></i>
+			; <i><span class="en">id. Verr. 2, 2, 38, § 92</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quid hostes consilii caperent, exspectabat,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 24, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspectante Antonio, quidnam esset actura,</span>”
+				 <i><span class="en">Plin.
+					9, 35, 58, § 121</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne utile quidem, quam mox judicium fiat,
+					exspectare,</span>”
+				 <i><span class="en">Cic.
+					Inv. 2, 28, 85</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">quid exspectas quam mox ego dicam, etc.,</span>”
+				 <i><span class="en">id.
+					Rosc. Com. 15, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">et, quam mox signis collatis dimicandum sit, in
+					dies exspectet,</span>”
+				 <i><span class="en">id. 34, 11, 4</span></i>
+			; <i><span class="en">3, 37, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">exspectans, quando, etc.,</span>”
+				 <i><span class="en">Quint. 11, 3, 159</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> With
+				<i>dum</i>, <i>si</i>, <i>ut</i>, etc.: 
+				“<span class="alpheios-lex-la" lang="lat">ne exspectetis meas pugnas dum praedicem,</span>”
+				 <i><span class="en">Plaut.
+					Truc. 2, 6, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne exspectemus quidem, dum rogemur,</span>”
+				 <i><span class="en">Cic.
+					Lael. 13, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspectas fortasse, dum dicat, etc.,</span>”
+				 <i><span class="en">id.
+					Tusc. 2, 7, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspectare, dum hostium copiae augerentur,</span>”
+				 <i><span class="en">Caes.
+					B. G. 4, 13, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec dum repetatur, exspectat,</span>”
+				 <i><span class="en">Quint. 4, 2, 45</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Caesar non exspectandum sibi statuit, dum,
+					etc.,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 11 <i>fin.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">nec vero hoc loco exspectandum est, dum, etc.,</span>”
+				 <i><span class="en">Cic. Ac. 2, 7, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rusticus exspectat, dum defluat amnis,</span>”
+				 <i><span class="en">Hor. Ep. 1, 2, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam dudum exspecto, si tuum officium scias,</span>”
+				 <i><span class="en">Plaut. Poen. prol. 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspecto si quid dicas,</span>”
+				 <i><span class="en">id.
+					Trin. 1, 2, 61</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hanc (paludem) si nostri transirent, hostes
+					exspectabant,</span>”
+				 <i><span class="en">Caes.
+					B. G. 2, 9, 1</span></i>
+			; <i><span class="en">id. B. C. 2, 34, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nisi exspectare vis ut eam sine dote frater
+					conlocet,</span>”
+				 <i><span class="en">Plaut.
+					Trin. 3, 3, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mea lenitas hoc exspectavit, ut id quod
+					latebat, erumperet,</span>”
+				 <i><span class="en">Cic.
+					Cat. 2, 12, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nisi forte exspectatis ut illa diluam, quae,
+					etc.,</span>”
+				 <i><span class="en">id.
+					Rosc. Am. 29, 82</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque exspectant, ut de eorum imperio ad
+					populum feratur,</span>”
+				 <i><span class="en">Caes. ib. 1, 6, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quare nemo exspectet, ut, etc.,</span>”
+				 <i><span class="en">Quint. 7, 10, 14</span></i>
+			; <i><span class="en">Liv. 23, 31, 7</span></i>; <i><span class="en">26, 18, 5</span></i>; <i><span class="en">35, 8, 5
+				al.</span></i>—<i>Pass. impers.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nec ultra exspectato, quam dum Claudius Ostiam
+					proficisceretur,</span>”
+				 <i><span class="en">Tac.
+					A. 11, 26 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum omnium voces audirentur, exspectari diutius
+					non oportere, quin ad castra iretur,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 24 <i>fin.</i></span></i>
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<b>
+				<i>Absol.</i>
+			</b>: 
+				“<span class="alpheios-lex-la" lang="lat">comites ad portam exspectare dicunt,</span>”
+				 <i><span class="en">Cic.
+					Fam. 15, 17, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">diem ex die exspectabam, ut statuerem, quid
+					esset faciendum,</span>”
+				 <i><span class="en">id.
+					Att. 7, 26, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspectent paullum et agi ordine sinant,</span>”
+				 <i><span class="en">Quint. 4, 5, 19</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b> With
+				<i>object-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum expectaret effusos omnibus portis Aetolos
+					in fidem suam venturos,</span>”
+				 <i><span class="en">Liv.
+					43, 22, 2</span></i>
+			 Weissenb. ad loc.: 
+				“<span class="alpheios-lex-la" lang="lat">venturum istum,</span>”
+				 <i><span class="en">Aug. Conf. 5, 6</span></i>
+			.—* </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>, of an abstract subject, like maneo,
+				<i>to await</i>: 
+				“<span class="alpheios-lex-la" lang="lat">seu me tranquilla senectus Exspectat seu, etc.,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 1, 58</span></i>
+			.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b> To look for
+			with hope, fear, desire, expectation, <i>to hope
+			for</i>, <i>long for</i>, <i>expect</i>, <i>desire; to fear</i>, <i>dread</i>, <i>anticipate</i>, <i>apprehend.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> With <i>acc.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">reliquum est, ut tuam profectionem amore
+					prosequar, reditum spe exspectem,</span>”
+				 <i><span class="en">Cic.
+					Fam. 15, 21 <i>fin.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">quod magna cum spe exspectamus,</span>”
+				 <i><span class="en">id.
+					Att. 16, 16</span></i>
+			 E. <i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ego jam aut rem aut ne spem quidem exspecto,</span>”
+				 <i><span class="en">id. ib. 3, 22</span></i>
+			
+			<i>fin.</i>: magnum inceptas, si id exspectas, quod
+				 nusquam'st, <i><span class="en">Plaut.
+				Curc. 1, 2, 56</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quam (rem) avidissime civitas exspectat,</span>”
+				 <i><span class="en">Cic.
+					Phil. 14, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">longiores (epistolas) exspectabo vel potius
+					exigam,</span>”
+				 <i><span class="en">id.
+					Fam. 15, 16, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">finem laborum omnium,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 85, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">illum ut vivat, optant, meam autem mortem
+					exspectant scilicet,</span>”
+				<i>to wish</i>,
+				 <i><span class="en">Ter.
+					Ad. 5, 4, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fama mortis meae non accepta solum sed etiam
+					exspectata est,</span>”
+				 <i><span class="en">Liv.
+					28, 27, 9</span></i>
+			; cf. 
+				“<span class="alpheios-lex-la" lang="lat">in the pun with I.: cum Proculeius quereretur
+					de filio, quod is mortem suam exspectaret, et ille dixisset,
+					se vero non exspectare: Immo, inquit, rogo exspectes,</span>”
+				 <i><span class="en">Quint. 9, 3, 68</span></i>
+			 Spald.: 
+				“<span class="alpheios-lex-la" lang="lat">nescio quod magnum hoc nuntio exspecto malum,</span>”
+				<i>dread</i>,
+				 <i><span class="en">Ter. Ph. 1, 4, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mortem,</span>”
+				 <i><span class="en">id.
+					Hec. 3, 4, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multis de causis Caesar majorem Galliae motum
+					exspectans,</span>”
+				 <i><span class="en">Caes.
+					B. G. 6, 1, 1</span></i>
+			: 7, 43 <i>fin.</i>—With a personal
+			object: 
+				“<span class="alpheios-lex-la" lang="lat">pater exspectat aut me aut aliquem nuntium,</span>”
+				 <i><span class="en">Plaut. Capt. 2, 3, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ite intro, filii vos exspectant intus,</span>”
+				 <i><span class="en">id.
+					Bacch. 5, 2, 86</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hic ego mendacem usque puellam Ad mediam noctem
+					exspecto,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 5, 83</span></i>
+			; cf. <i><span class="en">Ov. M. 14, 418</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">video jam, illum, quem exspectabam, virum, cui
+					praeficias officio et muneri,</span>”
+				 <i><span class="en">Cic.
+					Rep. 2, 42</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<i>Aliquid ab</i> (rarely ex) <i>aliquo</i> (a favorite expression of Cicero): 
+				“<span class="alpheios-lex-la" lang="lat">a te hoc civitas vel omnes potius gentes non
+					exspectant solum, sed etiam postulant,</span>”
+				 <i><span class="en">Cic.
+					Fam. 11, 5, 3</span></i>
+			; cf. <i><span class="en">id. ib. 3, 10, 1</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">dixi Servilio, ut omnia a me majora
+					exspectaret,</span>”
+				 <i><span class="en">id. ib. 3, 12, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alimenta a nobis,</span>”
+				 <i><span class="en">id. Rep.
+					1, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ab aliquo gloriam,</span>”
+				 <i><span class="en">id. ib. 6, 19</span></i>
+			
+			<i>fin.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">tristem censuram ab laeso,</span>”
+				 <i><span class="en">Liv.
+					39, 41, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut ex iis (proletariis) quasi proles civitatis
+					exspectari videretur,</span>”
+				 <i><span class="en">Cic.
+					Rep. 2, 22, 40</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b>
+			<i>Aliquid ab</i> or <i>ex aliqua re</i>
+			(rare): 
+				“<span class="alpheios-lex-la" lang="lat">aliquid ab liberalitate alicujus,</span>”
+				 <i><span class="en">Caes.
+					B. C. 2, 28, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dedecus a philosopho,</span>”
+				 <i><span class="en">id. Tusc. 2, 12, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">omnia ex sua amicitia,</span>”
+				 <i><span class="en">id. ib. 3, 60, 1</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>4.</b>
+			<i>Aliquid aliquem</i> (very rare): ne quid exspectes
+			amicos, quod tute agere possies, Enn. ap. <i><span class="en">Gell. 2,
+			29</span></i>; Sat. v. 38 Vahl.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>5.</b> With <i>object-clause</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quid mihi hic adfers, quam ob rem exspectem aut
+					sperem porro non fore?</span>”
+				 <i><span class="en">Ter.
+					Phorm. 5, 9, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">exspecto cupioque te ita illud defendere,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 64, § 151</span></i>
+			.—With <i>inf.</i> alone (cf. cupio),
+				<i><span class="en">Front. ad Ver. Imp. p. 137</span></i>, ed.
+			Rom.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>6.</b>
+			<b>
+				<i>Absol.</i>
+			</b> (very rare): 
+				“<span class="alpheios-lex-la" lang="lat">cum mihi nihil improviso, nec gravius quam
+					exspectavissem pro tantis meis factis evenisset,</span>”
+				 <i><span class="en">Cic.
+					Rep. 1, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquando ad verum, ubi minime exspectavimus,
+					pervenimus,</span>”
+				 <i><span class="en">Quint. 12, 8, 11</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Poet.</b> transf., of an abstr. subject, <i>to have need of</i>, <i>require</i>: 
+				“<span class="alpheios-lex-la" lang="lat">silvarumque aliae pressos propaginis arcus
+					Exspectant,</span>”
+				 <i><span class="en">Verg.
+					G. 2, 27</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">neque illae (oleae) procurvam exspectant falcem
+					rastrosque tenaces,</span>”
+				 <i><span class="en">id. ib. 2, 421</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">lenta remedia et segnes medicos non exspectant
+					tempora mea,</span>”
+				 <i><span class="en">Curt.
+					3, 5, 13</span></i>
+			.—Hence, <b><span class="alpheios-lex-la" lang="lat">exspectātus</span></b>  (<b><span class="alpheios-lex-la" lang="lat">expect-</span></b> ), a, um, P.
+			a. (acc. to II.), <i>anxiously expected</i>, <i>longed for</i>, <i>desired</i>, <i>welcome</i> (class.): 
+				“<span class="alpheios-lex-la" lang="lat">carus omnibus exspectatusque venies,</span>”
+				 <i><span class="en">Cic.
+					Fam. 16, 7</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">venies exspectatus omnibus,</span>”
+				 <i><span class="en">id. ib. 4, 10, 1</span></i>
+			; <i><span class="en">Plaut. Most. 2, 2, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quibus Hector ab oris exspectate venis?</span>”
+				 <i><span class="en">Verg.
+					A. 2, 282</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sensi ego in exspectatis ad amplissimam
+					dignitatem fratribus tuis,</span>”
+				<i>who were expected to arrive at the highest dignities
+						of the state</i>,
+				 <i><span class="en">Cic. de Sen. 19, 68</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ubi te exspectatum ejecisset foras,</span>”
+				i. e. <i>whose death is waited</i>, <i>longed
+					for</i>,
+				 <i><span class="en">Ter.
+					Ad. 1, 2, 29</span></i>
+			 Ruhnk.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nimis ille potuit exspectatior venire,</span>”
+				 <i><span class="en">Plaut. Most. 2, 2, 12</span></i>
+			.—<i>Sup.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">adventus suavissimus exspectatissimusque,</span>”
+				 <i><span class="en">Cic.
+					Att. 4, 4</span></i>
+			 a: 
+				“<span class="alpheios-lex-la" lang="lat">litterae,</span>”
+				 <i><span class="en">id.
+					Fam. 10, 5, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">triumphus,</span>”
+				 <i><span class="en">Hirt. B. G. 8, 51 <i>fin.</i></span></i>
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In
+			the <i>neutr. absol.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quis non diversa praesentibus contrariaque
+					exspectatis aut speret aut timeat?</span>”
+				 <i><span class="en">Vell.
+					2, 75, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hosti Ante exspectatum positis stat in agmine
+					castris,</span>”
+				<i>before it was expected</i>,
+				 <i><span class="en">Verg.
+					G. 3, 348</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">ante exspectatum,</span>”
+				 <i><span class="en">Ov. M.
+					4, 790</span></i>
+			; <i><span class="en">8, 5</span></i>; <i><span class="en">Sen. Ep.
+				114</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ille ad patrem patriae exspectato revolavit
+					maturius,</span>”
+				<i>than was expected</i>,
+				 <i><span class="en">Vell. 2, 123, 1</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

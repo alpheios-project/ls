@@ -1,0 +1,589 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n19048" body-key=""><b><span class="alpheios-lex-la" lang="lat">fundo</span></b> , fūdi, fūsum,
+		3, v. a.
+		root FUD; Gr. <span class="alpheios-lex-greek" lang="grc">ΧΥ, χεϝ</span>-, in
+				<span class="alpheios-lex-greek" lang="grc">χέω, χεύσω</span>; 
+				“<span class="alpheios-lex-la" lang="lat">Lat. futis, futtilis, ec-futio, re-futo, etc.,</span>”
+				 <i><span class="en">Curt. Gr. Etym. p. 204 sq.</span></i>
+			, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to pour</i>, <i>pour out</i>, <i>shed.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>, of fluids. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> In gen.: 
+				“<span class="alpheios-lex-la" lang="lat">(natura terram) sucum venis cogebat fundere
+					apertis Consimilem lactis, etc.,</span>”
+				 <i><span class="en">Lucr.
+					5, 812</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sanguinem e patera,</span>”
+				 <i><span class="en">Cic.
+					Div. 1, 23, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">novum liquorem (i. e. vinum) de patera,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 31, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vina paterā in aras,</span>”
+				 <i><span class="en">Ov. M.
+					9, 160</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">vinum inter cornua,</span>”
+				 <i><span class="en">id.
+					ib. 7, 594</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vinum super aequora,</span>”
+				 <i><span class="en">id.
+					ib. 11, 247</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">duo rite mero libans carchesia Baccho Fundit
+					humi,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 78</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">laticem urnis,</span>”
+				 <i><span class="en">Ov. M.
+					3, 172</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lacrimas,</span>”
+				 <i><span class="en">Verg.
+					A. 3, 348</span></i>
+			: cf. Ov. M. 
+			 5, 540: 
+				“<span class="alpheios-lex-la" lang="lat">fundit Anigros aquas,</span>”
+				<i>pours out</i>,
+				 <i><span class="en">id. ib. 15, 282</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">parumne fusum est Latini sanguinis?</span>”
+				<i>shed</i>, <i>spilt</i>,
+				 <i><span class="en">Hor.
+					Epod. 7, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sanguine ob rem publicam fuso,</span>”
+				 <i><span class="en">Sall. H. Fr. 2, 96, 2</span></i>
+			 Dietsch: 
+				“<span class="alpheios-lex-la" lang="lat">sanguinem de regno (i. e. propter regnum),</span>”
+				 <i><span class="en">Curt.
+					10, 5</span></i>
+			.—Mid.: 
+				“<span class="alpheios-lex-la" lang="lat">memorandum, in septem lacus eum (Strymonem)
+					fundi,</span>”
+				<i>discharges itself</i>,
+				 <i><span class="en">Plin.
+					4, 10, 17, § 38</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ingentibus procellis fusus imber,</span>”
+				<i>pouring</i>,
+				 <i><span class="en">Liv.
+					6, 8, 7</span></i>
+			; <i><span class="en">6, 32, 6</span></i>;
+			cf.: 
+				“<span class="alpheios-lex-la" lang="lat">sanguis in corporibus fusus,</span>”
+				 <i><span class="en">Cic. de Or. 2, 77, 310</span></i>
+			.— </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In
+			partic. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Of metals, <i>to make by melting</i>, <i>to
+			melt</i>, <i>cast</i>, <i>found</i>: 
+				“<span class="alpheios-lex-la" lang="lat">exolevit fundendi aeris pretiosi ratio,</span>”
+				 <i><span class="en">Plin.
+					34, 2, 3, § 5</span></i>
+			; cf. <i><span class="en">id. 34, 7, 18, § 46</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">caldarium (aes) funditur tantum, malleis
+					fragile,</span>”
+				 <i><span class="en">id.
+					34, 8, 20, § 94</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aere fuso,</span>”
+				 <i><span class="en">id.
+					34, 11, 24, § 107</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vitrum,</span>”
+				 <i><span class="en">id.
+					34, 14, 42, § 148</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">glandes, Auct. B. Afr. 20, 3: Theodorus ipse se
+					ex aere fudit,</span>”
+				 <i><span class="en">Plin.
+					34, 8, 19, § 83</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne statuam quidem inchoari, cum ejus membra
+					fundentur,</span>”
+				 <i><span class="en">Quint. 2, 1, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fusis omnibus membris (statuae),</span>”
+				 <i><span class="en">id.
+					7 praef.</span></i>
+			 § 
+				“<span class="alpheios-lex-la" lang="lat">2: olim quaerere amabam, Quid sculptum infabre,
+					quid fusum durius esset,</span>”
+				 <i><span class="en">Hor.
+					S. 2, 3, 22</span></i>
+			.—* </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In medic. lang.: aliquem, <i>to cause one to
+				have fluid stools</i>, <i>to relax the bowels</i>
+			(opp. comprimere): si compresserit aliquem morbus aut fuderit, Cels.
+			praef. <i>med.</i>; cf. under P.
+			a.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Transf.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>To wet</i>, <i>moisten</i>, <i>bathe</i> with a liquid (<b>poet.</b> and very rare): 
+				“<span class="alpheios-lex-la" lang="lat">(ossa) niveo fundere lacte,</span>”
+				 <i><span class="en">Tib.
+					3, 2, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multo tempora funde mero,</span>”
+				 <i><span class="en">id.
+					1, 7, 50</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> Of
+			things non-fluid. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> In
+			gen., <i>to pour forth in abundance</i>, <i>to scatter</i>, <i>cast</i>, <i>hurl; to spread</i>, <i>extend</i>,
+				<i>diffuse</i>: 
+				“<span class="alpheios-lex-la" lang="lat">desectam cum stramento segetem corbibus fudere
+					in Tiberim,</span>”
+				 <i><span class="en">Liv.
+					2, 5, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">picem reliquasque res, quibus ignis excitari
+					potest, fundebant,</span>”
+				 <i><span class="en">Caes.
+					B. G. 7, 24, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tela,</span>”
+				 <i><span class="en">Val.
+					Fl. 3, 243</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sagittam,</span>”
+				 <i><span class="en">Sil.
+					7, 647</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(solis) radios per opaca domorum,</span>”
+				 <i><span class="en">Lucr.
+					2, 115</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quas (maculas) incuria fudit,</span>”
+				<i>has scattered</i>,
+				 <i><span class="en">Hor. A.
+					P. 352</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fundunt se carcere laeti Thraces equi,</span>”
+				<i>pour themselves forth</i>, <i>rush out</i>,
+				 <i><span class="en">Val.
+					Fl. 1, 611</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">se cuncta manus ratibus,</span>”
+				 <i><span class="en">id. 2,
+					662</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">littera fundens se in charta,</span>”
+				 <i><span class="en">Plin.
+					13, 12, 25, § 81</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">luna se fundebat per fenestras,</span>”
+				 <i><span class="en">Verg.
+					A. 3, 152</span></i>
+			.—Mid.: 
+				“<span class="alpheios-lex-la" lang="lat">ne (vitis) in omnes partes nimia fundatur,</span>”
+				<i>spread out</i>,
+				 <i><span class="en">Cic. de Sen. 15, 52</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">homines fusi per agros ac dispersi,</span>”
+				 <i><span class="en">Cic.
+					Sest. 42, 91</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> In
+			partic. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(a).</b> With the
+			accessory notion of production, <i>to bring forth</i>,
+				<i>bear</i> or <i>produce</i> (in
+			abundance): 
+				“<span class="alpheios-lex-la" lang="lat">crescunt arbusta et fetus in tempore fundunt,</span>”
+				 <i><span class="en">Lucr.
+					1, 351</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">terra feta frugibus et vario leguminum genere,
+					quae cum maxima largitate fundit,</span>”
+				 <i><span class="en">Cic. N. D. 2, 62, 156</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">flores aut fruges aut bacas,</span>”
+				 <i><span class="en">id.
+					Tusc. 5, 13, 37</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">frugem,</span>”
+				 <i><span class="en">id. de Sen. 15, 51</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plus materiae (vites),</span>”
+				 <i><span class="en">Plin.
+					17, 22, 35, § 192</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum centesimo Leontini campi fundunt,</span>”
+				 <i><span class="en">id.
+					18, 10, 21, § 95</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">facile illa (piscium ova) aqua et sustinentur
+					et fetum fundunt,</span>”
+				 <i><span class="en">Cic. N. D. 2, 51, 129</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(terra) animal prope certo tempore fudit Omne,</span>”
+				 <i><span class="en">Lucr.
+					5, 823</span></i>
+			; cf. <i><span class="en">ib. 917</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">fudit equum magno tellus percussa tridenti,</span>”
+				 <i><span class="en">Verg.
+					G. 1, 13</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Africa asinorum silvestrium multitudinem
+					fundit,</span>”
+				 <i><span class="en">Plin.
+					8, 30, 46, § 108</span></i>
+			: quae te beluam ex utero, non hominem fudit, Cic. Pis. <i>init.</i>; <i><span class="en">Verg. A. 8, 139</span></i>, v. Forbig. ad h.
+			l.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense5"><b>(b).</b> With
+			the secondary notion of depth or downward direction, <i>to throw</i> or <i>cast to the ground</i>, <i>to prostrate</i>: 
+				“<span class="alpheios-lex-la" lang="lat">(victi hostes) et de jugis, quae ceperant,
+					funduntur,</span>”
+				 <i><span class="en">Liv.
+					9, 43, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec prius absistit, quam septem ingentia victor
+					Corpora (cervorum) fundat humi,</span>”
+				 <i><span class="en">Verg.
+					A. 1, 193</span></i>
+			; cf. <i><span class="en">Ov. M. 13, 85</span></i>; <i><span class="en">Sil. 4,
+			533</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">aliquem arcu,</span>”
+				 <i><span class="en">Val.
+					Fl. 1, 446</span></i>
+			.—In middle force: 
+				“<span class="alpheios-lex-la" lang="lat">fundi in alga,</span>”
+				<i>to lie down</i>,
+				 <i><span class="en">Val.
+					Fl. 1, 252</span></i>
+			.—Esp. freq. milit. t. t., <i>overthrow</i>, <i>overcome</i>, <i>rout</i>, <i>vanquish</i> an enemy: 
+				“<span class="alpheios-lex-la" lang="lat">hostes nefarios prostravit, fudit, occidit,</span>”
+				 <i><span class="en">Cic. Phil. 14, 10, 27</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">exercitus caesus fususque,</span>”
+				 <i><span class="en">id. ib. 14, 1, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aliquos caedere, fundere atque fugare,</span>”
+				 <i><span class="en">Sall. J. 58, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Gaetulos,</span>”
+				 <i><span class="en">id.
+					ib. 88, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">classes fusae fugataeque,</span>”
+				 <i><span class="en">id.
+					ib. 79, 4</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">si vi fudisset cecidissetque hostes,</span>”
+				 <i><span class="en">Liv.
+					35, 1, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hostes de jugis,</span>”
+				 <i><span class="en">id.
+					9, 43, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Gallos de delubris vestris,</span>”
+				 <i><span class="en">id.
+					6, 16, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">eas omnes copias a se uno proelio fusas ac
+					superatas esse,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 44, 8</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">Massilienses crebris eruptionibus fusi,</span>”
+				 <i><span class="en">id.
+					B. C. 2, 22, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Latini ad Veserim fusi et fugati,</span>”
+				 <i><span class="en">Cic. Off. 3, 31, 112</span></i>
+			; <i><span class="en">Liv.
+				2, 6 <i>fin.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quatuor exercitus Carthaginiensium fudi,
+					fugavi, Hispania expuli,</span>”
+				 <i><span class="en">id.
+					28, 28, 9</span></i>
+			; cf. Drak. on 38, 53, 2; 
+				“<span class="alpheios-lex-la" lang="lat">less freq. in a reversed order: alios arma
+					sumentes fugant funduntque,</span>”
+				 <i><span class="en">Sall. J. 21, 2</span></i>
+			; <i><span class="en">Vell. 2, 46 <i>fin.</i></span></i>:
+			omnibus hostium copiis fusis armisque exutis, <i><span class="en">Caes. B. G.
+				3, 6, 3</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">magnas copias hostium fudit,</span>”
+				 <i><span class="en">Cic.
+					Mur. 9, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Sabinos equitatu fudit,</span>”
+				 <i><span class="en">id.
+					Rep. 2, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Armeniorum copias,</span>”
+				 <i><span class="en">id.
+					Arch. 9, 21</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">maximas copias parva manu,</span>”
+				 <i><span class="en">Sall.
+					C. 7, 7</span></i>
+			.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Ingen., <i>to pour out</i> or <i>forth</i>, <i>to spread out</i>, <i>extend</i>, <i>display</i>: 
+				“<span class="alpheios-lex-la" lang="lat">imago de corpore fusa,</span>”
+				 <i><span class="en">Lucr.
+					4, 53</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">animam moribundo corpore fudit,</span>”
+				 <i><span class="en">id.
+					3, 1033</span></i>
+			; cf. <i><span class="en">id. 3, 700</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">concidit ac multo vitam cum sanguine fudit,</span>”
+				 <i><span class="en">Verg.
+					A. 2, 532</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">circuli (appellantur), quod mixta farina et
+					caseo et aqua circuitum aequabiliter fundebant,</span>”
+				<i>poured out</i>, <i>spread out</i>,
+				 <i><span class="en">Varr. L. L. 5, § 106</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quem secutus Cicero hanc famam latius fudit,</span>”
+				 <i><span class="en">Quint. 11, 2, 14</span></i>
+			; cf. <i><span class="en">id. 10, 5, 11</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">cum vero causa ea inciderit, in qua vis
+					eloquentiae possit expromi: tum se latius fundet orator,</span>”
+				<i>will display himself</i>,
+				 <i><span class="en">Cic.
+					Or. 36, 125</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">superstitio, fusa per gentes,</span>”
+				 <i><span class="en">id.
+					Div. 2, 72 <i>init.</i></span></i>
+			; cf. <i><span class="en">Quint. 11, 3, 84</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">neque se tanta in eo (Cicerone) fudisset
+					ubertas,</span>”
+				 <i><span class="en">id.
+					12, 2, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fundet opes, Latiumque beabit divite lingua,</span>”
+				<i>riches of expression</i>,
+				 <i><span class="en">Hor. Ep. 2, 2, 121</span></i>
+			. —Mid.: 
+				“<span class="alpheios-lex-la" lang="lat">quamquam negant, nec virtutes nec vitia
+					crescere: tamen utrumque eorum fundi quodammodo et quasi
+					dilatari putant,</span>”
+				<i>to be diffused</i>,
+				 <i><span class="en">Cic.
+					Fin. 3, 15, 48</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">modo virtus latius funditur,</span>”
+				 <i><span class="en">Sen. Ep. 74, 27</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">semper ex eo, quod maximas partes continet
+					latissimeque funditur, tota res appellatur,</span>”
+				 <i><span class="en">id.
+					5, 30, 92</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">saepe in amplificanda re funditur numerose et
+					volubiliter oratio,</span>”
+				 <i><span class="en">id. Or. 62, 210</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In
+			partic., of speech, <i>to pour forth</i>, <i>utter</i>: 
+				“<span class="alpheios-lex-la" lang="lat">per quam (arteriam) vox principium a mente
+					ducens percipitur et funditur,</span>”
+				 <i><span class="en">Cic. N. D. 2, 59, 149</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">e quibus elici vocem et fundi videmus,</span>”
+				 <i><span class="en">id.
+					Tusc. 2, 24, 56</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">inanes sonos,</span>”
+				 <i><span class="en">id. ib. 5, 26, 73</span></i>
+			 (for which: 
+				“<span class="alpheios-lex-la" lang="lat">inani voce sonare,</span>”
+				 <i><span class="en">id.
+					Fin. 2, 15, 48</span></i>
+			): 
+				“<span class="alpheios-lex-la" lang="lat">sonum,</span>”
+				 <i><span class="en">id. Ac. 2, 23, 74</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">verba poëtarum more (opp. ratione et
+					arte distinguere),</span>”
+				 <i><span class="en">id.
+					Fin. 4, 4, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">versus hexametros aliosque variis modis atque
+					numeris ex tempore,</span>”
+				 <i><span class="en">id.
+					de Or. 3, 50, 194</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">grave plenumque carmen,</span>”
+				 <i><span class="en">id.
+					Tusc. 1, 26, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tam bonos septenarios ad tibiam,</span>”
+				 <i><span class="en">id. ib. 1, 44, 107</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">physicorum oracula,</span>”
+				 <i><span class="en">id.
+					N. D. 1, 26, 66</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">has ore loquelas,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 842</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">preces pectore ab imo,</span>”
+				 <i><span class="en">id. ib. 6, 55</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">preces,</span>”
+				 <i><span class="en">id. ib. 5, 234</span></i>
+			; <i><span class="en">Hor. Epod. 17, 53</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mera mendacia,</span>”
+				 <i><span class="en">Plaut. Ps. 4, 1, 33</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jam tu verba fundis hic, sapientia?</span>”
+				<i>you waste</i>,
+				 <i><span class="en">Ter.
+					Ad. 5, 2, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">opprobria rustica,</span>”
+				 <i><span class="en">Hor. Ep. 2, 1, 146</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">iras inanes,</span>”
+				 <i><span class="en">Val.
+					Fl. 3, 697</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vehemens et liquidus puroque simillimus amni
+					Fundet opes,</span>”
+				 <i><span class="en">Hor. Ep. 2, 2, 121</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">preces,</span>”
+				 <i><span class="en">App. M. 11, p. 258, 4</span></i>
+			; <i><span class="en">Tac. A. 14, 30</span></i>; <i><span class="en">Aug. in Psa. 25, 10
+			al.</span></i>—Hence, <b><span class="alpheios-lex-la" lang="lat">fūsus</span></b> , a, um, P. a.,
+				<i>spread out</i>, <i>extended</i>,
+				<i>broad</i>, <i>large</i>, <i>copious</i>, <i>diffuse.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">(aër) tum fusus et extenuatus sublime
+					fertur, tum autem concretus in nubes cogitur,</span>”
+				 <i><span class="en">Cic. N. D. 2, 39, 101</span></i>
+			: fusior alvus, i. e. <i>more relaxed</i> (opp.
+			astrictior), <i><span class="en">Cels. 1, 3 <i>med.</i></span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">toga (opp. restricta),</span>”
+				<i>wide</i>, <i>full</i>,
+				 <i><span class="en">Suet. Aug. 73</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Gallorum fusa et candida corpora,</span>”
+				<i>full</i>, <i>plump</i>,
+				 <i><span class="en">Liv.
+					38, 21, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">campi in omnem partem,</span>”
+				<i>extended</i>,
+				 <i><span class="en">Verg.
+					A. 6, 440</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">non fusior ulli Terra fuit domino,</span>”
+				<i>a broader</i>, <i>larger kingdom</i>,
+				 <i><span class="en">Luc.
+					4, 670</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, <i>copious</i>, <i>diffuse; flowing</i>, <i>free</i>: 
+				“<span class="alpheios-lex-la" lang="lat">genus sermonis non liquidum, non fusum ac
+					profluens,</span>”
+				 <i><span class="en">Cic. de Or. 2, 38, 159</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">constricta an latius fusa narratio,</span>”
+				 <i><span class="en">Quint. 2, 13, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">materia abundantior atque ultra quam oporteat
+					fusa,</span>”
+				 <i><span class="en">id. 2,
+					4, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut illud, quod ad omnem honestatem pertinet,
+					decorum, quam late fusum sit, appareat,</span>”
+				 <i><span class="en">Cic.
+					Off. 1, 28, 98</span></i>
+			; cf. <i><span class="en">Quint. 11, 1, 5</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">(vox) in egressionibus fusa et securae
+					claritatis (opp. contracta),</span>”
+				<i>unrestrained</i>, <i>free</i>,
+				 <i><span class="en">id.
+					11, 3, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">periodus,</span>”
+				 <i><span class="en">id.
+					9, 4, 128</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fusiores liberioresque numeri,</span>”
+				 <i><span class="en">id.
+				130</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lingua Graeca prolixior fusiorque quam nostra,</span>”
+				 <i><span class="en">Gell.
+					2, 26, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in locis ac descriptionibus fusi ac fluentes,</span>”
+				 <i><span class="en">Quint. 9, 4, 138</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">plenior Aeschines et magis fusus,</span>”
+				 <i><span class="en">id.
+					10, 1, 77</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dulcis et candidus et fusus Herodotus (opp.
+					densus et brevis et semper instans sibi Thucydides),</span>”
+				 <i><span class="en">id.
+					10, 1, 73</span></i>
+			.—<i>Sup.</i> seems not to
+				occur.—<i>Adv.</i>: <b><span class="alpheios-lex-la" lang="lat">fūse</span></b> . * </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b> (Acc. to A.) <i>Spread
+				out</i>, <i>extended</i>: 
+				“<span class="alpheios-lex-la" lang="lat">(manus) fusius paulo in diversum resolvitur,</span>”
+				 <i><span class="en">Quint. 11, 3, 97</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			(Acc. to B.) <i>Copiously</i>, <i>at
+				length</i>, <i>diffusely</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quae fuse olim disputabantur ac libere, ea nunc
+					articulatim distincteque dicuntur,</span>”
+				 <i><span class="en">Cic.
+					Leg. 1, 13, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">multa dicere fuse lateque,</span>”
+				 <i><span class="en">id.
+					Tusc. 4, 26, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fuse lateque dicendi facultas,</span>”
+				 <i><span class="en">id.
+					Or. 32, 113</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fuse et copiose augere et ornate aliquid (opp.
+					brevia et acuta),</span>”
+				 <i><span class="en">id. Fin.
+					3, 7</span></i>
+			,  26.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">haec cum uberius disputantur et fusius (opp.
+					brevius angustiusque concluduntur),</span>”
+				 <i><span class="en">Cic.
+					N. D. 2, 7, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fusius et ornatius rem exponere,</span>”
+				 <i><span class="en">Quint. 4, 2, 128</span></i>
+			.—<i>Sup.</i> seems not to
+		occur.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

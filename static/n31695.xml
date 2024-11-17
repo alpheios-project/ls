@@ -1,0 +1,201 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n31695" body-key=""><b><span class="alpheios-lex-la" lang="lat">oblīquus</span></b>  (<b><span class="alpheios-lex-la" lang="lat">oblīcus</span></b> , v. Orthogr. Vergl. p. 449 Wagner),
+			a, um, adj.
+		ob and liquus; root lek-; Gr. <span class="alpheios-lex-greek" lang="grc">λέχριος,
+				λέχρις</span>, slantwise (cf.: <span class="alpheios-lex-greek" lang="grc">λοξός,
+				Λοξίας</span>); Lat. licinus, limus, luxus, luxare,
+			<div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>sidelong,
+				slanting, awry, oblique</i> (freq. and class.; cf.:
+			transversus, imus). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">motus corporis, pronus, obliquus, supinus,</span>”
+				 <i><span class="en">Cic. Div. 1, 53, 120</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hos partim obliquos, partim aversos, partim
+					etiam adversos stare vobis,</span>”
+				<i>on one side of you, sideways</i>,
+				 <i><span class="en">id.
+					Rep. 6, 19, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquo claudicare pede,</span>”
+				 <i><span class="en">Ov.
+					Am. 2, 17, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sublicae,</span>”
+				 <i><span class="en">Caes.
+					B. G. 4, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ordines,</span>”
+				 <i><span class="en">id. ib. 7, 73</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">iter,</span>”
+				 <i><span class="en">id. B.
+					C. 1, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquam facere imaginem,</span>”
+				<i>a side-likeness, profile</i>,
+				 <i><span class="en">Plin.
+					35, 10, 36, § 90</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">chordae,</span>”
+				i. e. <i>of the triangular harp</i>,
+				 <i><span class="en">Juv. 3,
+					64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">verris obliquum meditantis ictum Sanguine
+					donare,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 22, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquo dente timendus aper,</span>”
+				 <i><span class="en">Ov. H.
+					4, 104</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">rex aquarum cursibus obliquis fluens,</span>”
+				 <i><span class="en">id. M.
+					9, 18</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">radix,</span>”
+				 <i><span class="en">id.
+					ib. 10, 491</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquo capite speculari,</span>”
+				 <i><span class="en">Plin.
+					8, 24, 36, § 88</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non istic obliquo oculo mea commoda quisquam
+					Limat,</span>”
+				<i>with a sidelong glance, an envious look</i>,
+				 <i><span class="en">Hor. Ep. 1, 14, 37</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non obliquis oculis sed circumacto capite
+					cernere,</span>”
+				 <i><span class="en">Plin.
+					11, 37, 55, § 151</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquoque notat Proserpina vultu,</span>”
+				 <i><span class="en">Stat. S. 2, 6, 102</span></i>
+			.— Adverbial phrases: ab obliquo, ex obliquo, per
+			obliquum, in obliquum, obliquum, <i>from the side,
+				sideways, not straight on</i>: 
+				“<span class="alpheios-lex-la" lang="lat">ab obliquo,</span>”
+				 <i><span class="en">Ov. R. Am. 121</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nec supra ipsum nec infra, sed ex obliquo,</span>”
+				 <i><span class="en">Plin.
+					2, 31, 31, § 99</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">serpens per obliquum similis sagittae Terruit
+					mannos,</span>”
+				 <i><span class="en">Hor.
+					C. 3, 27, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cancri in obliquom aspiciunt,</span>”
+				 <i><span class="en">Plin.
+					11, 37, 55, § 152</span></i>
+			: obliquum, <i>obliquely, askance</i>: 
+				“<span class="alpheios-lex-la" lang="lat">oculis obliquum respiciens,</span>”
+				 <i><span class="en">App. M. 3, p. 140</span></i>
+			.—<i>Comp.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quia positio signiferi circa media sui
+					obliquior est,</span>”
+				 <i><span class="en">Plin.
+					2, 77, 79, § 188</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			Fig. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Of relationship,
+				<i>not direct, collateral</i> (<b>poet.</b> and late Lat.): 
+				“<span class="alpheios-lex-la" lang="lat">obliquum a patre genus,</span>”
+				i. e. <i>not born of the same mother with myself</i>,
+				 <i><span class="en">Stat.
+					Th. 5, 221</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">obliquo maculat qui sanguine regnum,</span>”
+				<i>by collateral consanguinity</i>,
+				 <i><span class="en">Luc.
+					8, 286</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">tertio gradu veniunt ... ex obliquo fratris
+					sororisque filius,</span>”
+				 <i><span class="en">Paul. Sent. 4, 11, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> Of
+			speech. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<i>Indirect, covert</i>: 
+				“<span class="alpheios-lex-la" lang="lat">obliquis orationibus carpere aliquem,</span>”
+				 <i><span class="en">Suet. Dom. 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">insectatio,</span>”
+				 <i><span class="en">Tac.
+					A. 14, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">dicta,</span>”
+				 <i><span class="en">Aur.
+					Vict. Epit. 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">verba,</span>”
+				 <i><span class="en">Amm. 15, 5, 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In a
+			bad sense, <i>envious, hostile</i> (post-class.): 
+				“<span class="alpheios-lex-la" lang="lat">Cato adversus potentes semper obliquus,</span>”
+				 <i><span class="en">Flor.
+					4, 2, 9</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>3.</b> In
+			gram. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>a.</b> Obliquus casus,
+				<i>an oblique case</i> (i. e. all the cases except
+			the nom. and voc.), opp. rectus: 
+				“<span class="alpheios-lex-la" lang="lat">alia casus habent et rectos et obliquos,</span>”
+				 <i><span class="en">Varr. L. L. 8, § 49</span></i>
+			 Müll.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense4"><b>b.</b> Obliqua oratio, <i>indirect speech</i>:
+			apud historicos reperiuntur obliquae allocutiones, ut in T. Livii
+			primo statim libro (c. 9): urbes quoque, ut cetera, ex infimo nasci; 
+				“<span class="alpheios-lex-la" lang="lat">deinde, etc.,</span>”
+				 <i><span class="en">Quint. 9, 2, 37</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">oratio,</span>”
+				 <i><span class="en">Just. 38, 3, 11</span></i>
+			.— Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">oblīquē</span></b> , <i>sideways, athwart, obliquely</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<b>Lit.</b> (class.): 
+				“<span class="alpheios-lex-la" lang="lat">quae (atomi) recte, quae oblique ferantur,</span>”
+				 <i><span class="en">Cic.
+					Fin. 1, 6, 20</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sublicae oblique agebantur,</span>”
+				 <i><span class="en">Caes.
+					B. G. 4, 17, 9</span></i>
+			: procedere. <i><span class="en">Plin. 9, 30, 50, § 95</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">situs signifer,</span>”
+				 <i><span class="en">id. 2,
+					15, 13, § 63</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<b>Trop.</b>, <i>indirectly,
+			covertly</i> (post-Aug.): 
+				“<span class="alpheios-lex-la" lang="lat">aliquem castigare,</span>”
+				 <i><span class="en">Tac. A.
+					3, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">perstringere aliquem,</span>”
+				 <i><span class="en">id. ib. 5, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">admonere,</span>”
+				 <i><span class="en">Gell.
+					3, 2, 16</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">agere,</span>”
+				 <i><span class="en">id.
+					7, 17, 4</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

@@ -1,0 +1,194 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n12483" body-key=""><b><span class="alpheios-lex-la" lang="lat">dē-cĭdo</span></b> ,
+			cĭdi, 3, v. n.
+		cado, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to fall off, fall down</i> (class.).</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<b>Lit.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> In gen.: 
+				“<span class="alpheios-lex-la" lang="lat">decido de lecto praeceps,</span>”
+				 <i><span class="en">Plaut. Cas. 5, 2, 48</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">anguis decidit de tegulis,</span>”
+				 <i><span class="en">Ter. Ph. 4, 4, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">poma ex arboribus decidunt,</span>”
+				 <i><span class="en">Cic. de Sen. 19 <i>fin.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">e flore guttae,</span>”
+				 <i><span class="en">Ov. M.
+					9, 345</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">equo,</span>”
+				 <i><span class="en">Caes.
+					B. G. 1, 48, 6</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">for which ex equo (in terram),</span>”
+				 <i><span class="en">Nep. Eum.
+					4</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">and ab equo (in arva),</span>”
+				 <i><span class="en">Ov. Ib.
+					259</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">summo toro,</span>”
+				 <i><span class="en">id. F.
+					2, 350</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">arbore glandes,</span>”
+				 <i><span class="en">id. M.
+					1, 106</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caelo,</span>”
+				 <i><span class="en">Plin.
+					37, 10, 59, § 164</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">caelo,</span>”
+				 <i><span class="en">id. 2,
+					52, 53, § 138</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in terras imber,</span>”
+				 <i><span class="en">Lucr.
+					6, 497</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">imber,</span>”
+				 <i><span class="en">Hor. Ep. 1, 14, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">celsae turres graviore casu,</span>”
+				 <i><span class="en">id.
+					Od. 2, 10, 11</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">comae,</span>”
+				 <i><span class="en">id. ib. 4, 10, 3</span></i>
+			 et saep.: 
+				“<span class="alpheios-lex-la" lang="lat">montium decidentium moles,</span>”
+				 <i><span class="en">Plin.
+					Ep. 8, 17, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">(volucris) decidit in terram,</span>”
+				 <i><span class="en">Ov.
+					M. 12, 569</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">so in terras sidus,</span>”
+				 <i><span class="en">id.
+					ib. 14, 847</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in puteum foveamve auceps,</span>”
+				 <i><span class="en">Hor. A.
+					P. 458</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in lacum fulmen,</span>”
+				 <i><span class="en">Suet. Galb. 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in dolia serpens,</span>”
+				 <i><span class="en">Juv.
+					6, 432</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in casses praeda,</span>”
+				 <i><span class="en">Ov. A.
+					A. 2, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in laqueos suos auceps,</span>”
+				 <i><span class="en">id. Rem. Am. 502</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in turbam praedonum hic fugiens,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 2, 42</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in praeceps,</span>”
+				 <i><span class="en">Ov.
+					M. 12, 339</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad pedes tunica,</span>”
+				 <i><span class="en">Suet. Aug. 94</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			Pregn. (like cado and concido), <i>to fall down dead,
+				to sink down, to die</i> (in class. Lat. only <b>poet.</b>): 
+				“<span class="alpheios-lex-la" lang="lat">morbo decidunt,</span>”
+				 <i><span class="en">Plaut. Trin. 2, 4, 143</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nos ubi decidimus, Quo pater Aeneas,</span>”
+				 <i><span class="en">Hor.
+					Od. 4, 7, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">scriptor abhinc annos centum qui decidit,</span>”
+				 <i><span class="en">id. Ep. 2, 1, 36</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">decidit exanimis vitamque reliquit in astris,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 517</span></i>
+			; cf. <i><span class="en">Stat. Th. 8, 125</span></i>; and
+				<i><span class="en">id. ib. 9, 755</span></i>: (nupta) Decidit; 
+				“<span class="alpheios-lex-la" lang="lat">in talum serpentis dente recepto,</span>”
+				 <i><span class="en">Ov. M.
+					10, 10</span></i>
+			.</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>, <i>to fall, drop, fall
+				away, fail, sink</i>: 
+				“<span class="alpheios-lex-la" lang="lat">quanta de spe decidi!</span>”
+				 <i><span class="en">Ter.
+					Heaut. 2, 3, 9</span></i>
+			; 
+				“<span class="alpheios-lex-la" lang="lat">for which quanta spe decidi!</span>”
+				 <i><span class="en">id. ib. 4, 8, 11</span></i>
+			; <i><span class="en">Suet. Oth. 5</span></i>; 
+				“<span class="alpheios-lex-la" lang="lat">and a spe societatis Prusiae,</span>”
+				 <i><span class="en">Liv.
+					37, 26</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ex astris,</span>”
+				 <i><span class="en">Cic.
+					Att. 2, 21, 4</span></i>
+			 (cf.: astrum, <i>no.</i> II. B. <i>fin.</i>): 
+				“<span class="alpheios-lex-la" lang="lat">ego ab archetypo labor et decido,</span>”
+				 <i><span class="en">Plin.
+					Ep. 5, 10, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">eo decidit ut exsul de senatore fieret,</span>”
+				<i>has fallen so low</i>,
+				 <i><span class="en">id. ib. 4, 11, 1</span></i>
+			: oculis captus in hanc fraudem decidisti (cf. <span class="alpheios-lex-greek" lang="grc">καταπίπτειν</span>), <i><span class="en">Cic. Verr. 2, 4, 45, § 101</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">ad eas rei familiaris angustias decidit, ut,
+					etc.,</span>”
+				 <i><span class="en">Suet. Claud. 9 <i>fin.</i></span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">huc decidisse cuncta, ut, etc.,</span>”
+				 <i><span class="en">Tac. A.
+					3, 59</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ficta omnia celeriter tamquam flosculi
+					decidunt,</span>”
+				<i>perish</i>,
+				 <i><span class="en">Cic.
+					Off. 2, 12 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non virtute hostium sed amicorum perfidia
+					decidi,</span>”
+				<i>am fallen, defeated</i>,
+				 <i><span class="en">Nep. Eum.
+					11 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">an toto pectore deciderim,</span>”
+				<i>wholly banished from her affections</i>,
+				 <i><span class="en">Tib.
+					3, 1, 20</span></i>
+			 (cf. <span class="alpheios-lex-greek" lang="grc">ἐκ θυμοῦ πεσέειν</span>,
+			Hom. Il. 23, 595): 
+				“<span class="alpheios-lex-la" lang="lat">qui huc deciderunt,</span>”
+				<i>into this illness</i>,
+				 <i><span class="en">Cels.
+					3, 21 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in hydropa,</span>”
+				 <i><span class="en">id.
+				ib.</span></i>
+			
+			<i>med.</i>: in maximis necessitatibus, ad quas
+			libidine deciderat, Schol. <i><span class="en">Juv. 5, 3</span></i>.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

@@ -1,0 +1,76 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n9024" body-key=""><b><span class="alpheios-lex-la" lang="lat">collātĭo</span></b>  (<b><span class="alpheios-lex-la" lang="lat">conl-</span></b> ),
+		ōnis, f.
+		confero, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>a bringing together</i>, <i>collecting.</i>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b> Prop., of the standards in
+			war for battle, <i>a hostile meeting</i>: 
+				“<span class="alpheios-lex-la" lang="lat">signorum,</span>”
+				 <i><span class="en">Cic. de Or. 1, 48, 210</span></i>
+			: centuriarum, for voting, id. ap. <i><span class="en">Ascon. in Toga Cand. p. 85, 18</span></i>
+			Baiter: 
+				“<span class="alpheios-lex-la" lang="lat">hyacinthorum et auri,</span>”
+				 <i><span class="en">Plin.
+					37, 9, 42, § 126</span></i>
+			.—Of money, <i>a contribution</i>, <i>collection</i>, <i>a gratuity
+				collected together for the emperor</i>: 
+				“<span class="alpheios-lex-la" lang="lat">stipis aut decimae,</span>”
+				 <i><span class="en">Liv.
+					5, 25, 5</span></i>
+			; <i><span class="en">4, 60, 6</span></i>;
+				<i><span class="en">6, 14, 12</span></i>;
+				<i><span class="en">Tac. G.
+				29</span></i>; <i><span class="en">Suet. Calig. 42</span></i>; <i><span class="en">id.
+				Ner. 38</span></i>; <i><span class="en">44</span></i>; <i><span class="en">id.
+				Tit. 7</span></i>; cf. <i><span class="en">Plin. Pan. 41, 1</span></i>
+			Schwarz.—In jurid. Lat.: 
+				“<span class="alpheios-lex-la" lang="lat">collatio bonorum,</span>”
+				<i>the putting together of the possessions of
+					several</i>, <i>in order to divide them equally</i>,
+				 <i><span class="en">Dig. 37, 6, 1, § 8</span></i>
+			; cf. Cod. 6, 20: de collationibus, et saep.—
+			</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b> Malitiarum, <i>a union</i>, <i>combination</i>, <i><span class="en">Plaut. Mil.
+				3, 3, 67</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">vocum,</span>”
+				 <i><span class="en">Dig. 47, 10, 15, § 4</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>A comparison</i>, <i>similitude</i>,
+				<span class="alpheios-lex-greek" lang="grc">παραβολή</span>: 
+				“<span class="alpheios-lex-la" lang="lat">collatio est oratio rem cum re ex similitudine
+					conferens,</span>”
+				 <i><span class="en">Cic.
+					Inv. 1, 30, 49</span></i>
+			; <i><span class="en">id. Fin. 2, 27, 75</span></i>; <i><span class="en">id. N. D.
+				3, 28, 70</span></i>; <i><span class="en">id. Div. 2, 17, 38</span></i>; <i><span class="en">id. Tusc.
+				4, 38, 84</span></i> (cf. <i><span class="en">Quint. 5, 11, 23</span></i>; <i><span class="en">Hirt. B.
+				G. 8, 8</span></i>; <i><span class="en">Quint. 8, 3, 77</span></i>; <i><span class="en">7, 7, 2</span></i>; <i><span class="en">Plin. 37,
+				9, 42, § 126</span></i>).—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b> In philos.: 
+				“<span class="alpheios-lex-la" lang="lat">collatio rationis,</span>”
+				<i>the analogy</i>,
+				 <i><span class="en">Cic.
+					Fin. 3, 10, 33</span></i>
+			 Madv.; <i><span class="en">id. Tusc. 4, 12, 27</span></i>; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">rerum saepe factarum inter se collatio,</span>”
+				 <i><span class="en">Sen. Ep. 120, 3</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>D.</b> In
+			gram.: collatio secunda, <i>the comparative</i>: 
+				“<span class="alpheios-lex-la" lang="lat">collatio tertia,</span>”
+				<i>the superlative</i>,
+				 <i><span class="en">Fest. p. 181, 28</span></i>
+			, and 286, 26 Müll.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>E.</b>
+			<i>The comparison</i>, <i>collation</i>
+			of texts, manuscripts, etc. (late Lat.): aliquem multorum codicum
+			vetustiorum collatione confutare. Aug. c. Faust. 32, 16.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

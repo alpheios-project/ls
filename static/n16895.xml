@@ -1,0 +1,106 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n16895" body-key=""><b><span class="alpheios-lex-la" lang="lat">existĭmātĭo</span></b>  (<b><span class="alpheios-lex-la" lang="lat">existum-</span></b> ),
+			ōnis, f.
+		id., <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>a
+				judging</i>, <i>judgment</i>, <i>opinion</i>, <i>supposition</i> (class.; in
+				sing. and plur. equally
+			common). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b> Prop.: 
+				“<span class="alpheios-lex-la" lang="lat">re et existimatione jam, lege et pronuntiatione
+					nondum condemnato,</span>”
+				 <i><span class="en">Cic.
+					Clu. 20, 56</span></i>
+			. non est tibi his solis utendum existimationibus ac judiciis,
+			qui nunc sunt, hominum, sed, etc., <i><span class="en">id. Q. Fr. 1, 1, 15, § 43</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">quod de pietate dixistis, est quidem ista
+					vestra existimatio, sed judicium certe parentis,</span>”
+				i. e. <i>that is your opinion</i>, <i>but the father
+						is the proper judge</i>,
+				 <i><span class="en">id.
+					Cael. 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne respexeris clandestinas existimationes,</span>”
+				 <i><span class="en">Plin.
+					Pan. 62 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in hoc genere facilior est existimatio quam
+					reprehensio,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 82, § 190</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tacitorum existimatione reprehendi,</span>”
+				 <i><span class="en">id.
+					Prov. Cons. 17, 40</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">militis de imperatore,</span>”
+				 <i><span class="en">Liv.
+					4, 41, 2</span></i>
+			 Drak.: 
+				“<span class="alpheios-lex-la" lang="lat">communis omnibus,</span>”
+				 <i><span class="en">id.
+					4, 20, 8</span></i>
+			 Drak.: 
+				“<span class="alpheios-lex-la" lang="lat">nec illum ante tibi satis facere, quam tu
+					omnium existimationi satis fecisses,</span>”
+				 <i><span class="en">Cic. Verr. 2, 3, 58, § 133</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">vir optimus omnium existimatione,</span>”
+				 <i><span class="en">id.
+					Rep. 3, 17</span></i>
+			. —</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>, objectively (cf. rumor, B.), <i>reputation</i>, <i>good name</i>, <i>honor</i>, <i>character</i>, <i>credit</i>: 
+				“<span class="alpheios-lex-la" lang="lat">existimatio est dignitatis illaesae status,
+					legibus ac moribus comprobatus, qui ex delicto nostro
+					auctoritate legum aut minuitur aut consumitur, etc.,</span>”
+				 <i><span class="en">Dig.
+					50, 13, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">nihil eum fecisse scientem, quod esset contra
+					aut rem aut existimationem tuam,</span>”
+				 <i><span class="en">Cic.
+					Fam. 5, 20, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">homo egens, sordidus, sine honore, sine
+					existimatione, sine censu,</span>”
+				 <i><span class="en">id. Flacc. 22, 52</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">homo fortunā egens, vitā
+					turpis, existimatione damnatus,</span>”
+				 <i><span class="en">id. ib. 15, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">judicia summae existimationis et paene dicam
+					capitis,</span>”
+				 <i><span class="en">id.
+					Rosc. Com. 6, 16</span></i>
+			; cf. <i><span class="en">id. Att. 1, 1, 4</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">nisi quid existimas in ea re violari
+					existimationem tuam,</span>”
+				 <i><span class="en">id.
+					Fam. 13, 73, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">existimationem offendere,</span>”
+				 <i><span class="en">id.
+					Planc. 2, 6</span></i>
+			; <i><span class="en">id. Fam. 3, 8, 7</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">oppugnare,</span>”
+				 <i><span class="en">id. ib. 3, 10, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lacerare,</span>”
+				 <i><span class="en">Suet. Caes. 75</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">perdere,</span>”
+				 <i><span class="en">Auct. Her. 4, 10, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">existimationi alicujus consulere,</span>”
+				 <i><span class="en">Cic. Q. Fr. 1, 1, 5, § 15</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ad debitorum tuendam existimationem,</span>”
+				i. e. <i>credit</i>,
+				 <i><span class="en">Caes.
+					B. C. 3, 1, 3</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

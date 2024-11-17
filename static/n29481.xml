@@ -1,0 +1,464 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n29481" body-key=""><b><span class="alpheios-lex-la" lang="lat">mollis</span></b> , e, adj.
+		Gr. <span class="alpheios-lex-greek" lang="grc">μαλακός, ἀμαλός, μῶλυς</span>;
+			cf. <span class="alpheios-lex-greek" lang="grc">βληχρός</span>, perh. Lat. mulier
+			(mollior), <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>easily movable, pliant, flexible, supple; soft,
+				tender, delicate, gentle, mild, pleasant</i> (class.; syn.:
+			tener, facilis, flexibilis, lentus). </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">mollis juncus,</span>”
+				 <i><span class="en">Verg.
+					E. 2, 72</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">comam mollis ... hyacinthi,</span>”
+				 <i><span class="en">id. G.
+					4, 137</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aurum,</span>”
+				<i>flexible</i>,
+				 <i><span class="en">id.
+					A. 10, 818</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">tiliae,</span>”
+				 <i><span class="en">Ov. M.
+					10, 92</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">crura,</span>”
+				 <i><span class="en">Verg.
+					G. 3, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">colla,</span>”
+				 <i><span class="en">id.
+					A. 11, 622</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">bracchia,</span>”
+				 <i><span class="en">Ov. A.
+					A. 1, 595</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cervix,</span>”
+				 <i><span class="en">id. F.
+					4, 185</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">commissurae,</span>”
+				 <i><span class="en">Cic. N.
+					D. 2, 60</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">molle litus,</span>”
+				<i>of soft sand</i>,
+				 <i><span class="en">Caes. B.
+					G. 5, 9</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">harena,</span>”
+				 <i><span class="en">Ov. M.
+					2, 577</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aqua,</span>”
+				 <i><span class="en">id. A.
+					A. 1, 476</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fraga,</span>”
+				 <i><span class="en">id.
+					M. 13, 816</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">castaneae,</span>”
+				 <i><span class="en">Verg.
+					E. 1, 82</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollissima vina ( = mitissima, lenissima),</span>”
+				 <i><span class="en">id. G.
+					1, 341</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">molli mero,</span>”
+				 <i><span class="en">Hor.
+					C. 1, 7, 19</span></i>
+			; and: 
+				“<span class="alpheios-lex-la" lang="lat">molle Calenum,</span>”
+				 <i><span class="en">Juv. 1,
+					69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">alvus,</span>”
+				<i>relaxed, open bowels</i>,
+				 <i><span class="en">Cels.
+					3, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cibus,</span>”
+				<i>mild, not sharp</i>,
+				 <i><span class="en">id. 4,
+					4, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ovum,</span>”
+				<i>soft</i>,
+				 <i><span class="en">id. 4,
+					4, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">prata,</span>”
+				 <i><span class="en">Verg.
+					G. 2, 384</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">gramen,</span>”
+				 <i><span class="en">Ov. F.
+					6, 328</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">humus,</span>”
+				 <i><span class="en">id. A.
+					A. 3, 688</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">lana,</span>”
+				 <i><span class="en">id. F.
+					2, 742</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">torus,</span>”
+				 <i><span class="en">id.
+					Am. 2, 4, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">arcus,</span>”
+				<i>slack, unbent, unstrung</i>,
+				 <i><span class="en">id. H.
+					4, 92</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">feretrum,</span>”
+				<i>made soft by a layer of leaves</i>,
+				 <i><span class="en">Verg.
+					A. 11, 64</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollissima cera,</span>”
+				 <i><span class="en">Cic. de Or. 3, 45, 177</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollia panis,</span>”
+				<i>the soft part of bread, the crumb</i>,
+				 <i><span class="en">id. 13, 12, 26, § 82</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">molles genae,</span>”
+				<i>soft, delicate</i>,
+				 <i><span class="en">Ov. H.
+					10, 44</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">capilli,</span>”
+				 <i><span class="en">id.
+					P. 3, 3, 17</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">manus,</span>”
+				 <i><span class="en">id.
+					Am. 1, 4, 24</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">latus,</span>”
+				 <i><span class="en">id.
+					M. 14, 710</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">molles Zephyri,</span>”
+				<i>soft, gentle</i>,
+				 <i><span class="en">id. A.
+					A. 3, 728</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">hiems,</span>”
+				 <i><span class="en">Stat.
+					S. 3, 5, 83</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aestas,</span>”
+				 <i><span class="en">Verg.
+					G. 1, 312</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caelum,</span>”
+				 <i><span class="en">Flor.
+					1, 16, 3</span></i>
+			; <i><span class="en">4, 12, 27</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">Euphrates mollior undis,</span>”
+				<i>gentler, calmer</i>,
+				 <i><span class="en">Verg.
+					A. 8, 726</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aditus,</span>”
+				<i>easy</i>,
+				 <i><span class="en">Sil.
+					4, 491</span></i>
+			; so, 
+				“<span class="alpheios-lex-la" lang="lat">iter,</span>”
+				 <i><span class="en">Quint. 4, 2, 46</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">via,</span>”
+				 <i><span class="en">id.
+					1, 6, 22</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fastigium,</span>”
+				<i>gentle, not steep</i>,
+				 <i><span class="en">Caes.
+					B. C. 2, 10</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">clivus,</span>”
+				 <i><span class="en">Verg. E.
+					9, 8</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">modicis et mollibus clivis,</span>”
+				 <i><span class="en">Curt.
+					8, 39, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">jugum montis,</span>”
+				 <i><span class="en">Tac. G.
+				1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">trames,</span>”
+				 <i><span class="en">Ov. F.
+					3, 13</span></i>
+			.—Prov.: molli bracchio objurgare aliquem, <i>with a gentle arm</i>, i. e. <i>in a
+				forbearing manner</i>, <i><span class="en">Cic. Att. 2, 1, 6</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">in molli carne vermes nascuntur,</span>”
+				<i>it is the soft flesh that breeds the worms</i>,
+				 <i><span class="en">Petr. 57</span></i>
+			.— <i>Subst.</i>: <b><span class="alpheios-lex-la" lang="lat">mollia</span></b> , ĭum,
+			n., <i>a kind of fishes, mollusks</i>,
+				<i><span class="en">Plin.
+				11, 51, 112, § 267</span></i>.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Trop.</b>
+		</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>A.</b>
+			<i>Tender, delicate, susceptible</i>: 
+				“<span class="alpheios-lex-la" lang="lat">mollibus annis,</span>”
+				<i>in tender youth</i>,
+				 <i><span class="en">Ov. H.
+					1, 111</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">os molle,</span>”
+				<i>easily blushing</i>,
+				 <i><span class="en">id.
+					Tr. 4, 3, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollissima corda,</span>”
+				 <i><span class="en">Juv.
+					15, 131</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollissimae aures,</span>”
+				<i>modest</i>,
+				 <i><span class="en">Plin.
+					Pan. 68</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b> In a
+			bad sense, <i>soft, effeminate, unmanly, weak</i>
+			(syn. effeminatus): 
+				“<span class="alpheios-lex-la" lang="lat">philosophus tam mollis, tam languidus, tam
+					enervatus,</span>”
+				 <i><span class="en">Cic. de Or. 1, 52, 226</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Sabaei,</span>”
+				 <i><span class="en">Verg.
+					G. 1, 57</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">viri molles, i. e. pathici,</span>”
+				 <i><span class="en">Liv.
+					33, 28</span></i>
+			; <i><span class="en">Sen. Ep. 87</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">disciplina,</span>”
+				<i>effeminate</i>,
+				 <i><span class="en">Cic.
+					Fin. 1, 11, 37</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">delicatior ... molliorque ratio,</span>”
+				 <i><span class="en">id. ib. 5, 5, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vita,</span>”
+				 <i><span class="en">Ov.
+					Tr. 5, 3, 9</span></i>
+			: desine mollium querellarum,
+			<i><span class="en">Hor. C.
+				2, 9, 17</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mollis teneraque vox,</span>”
+				 <i><span class="en">Quint. 11, 3, 23</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">educatio,</span>”
+				 <i><span class="en">id. 1,
+					2, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">actio,</span>”
+				 <i><span class="en">id.
+					11, 3, 128</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Gallorum mens est mollis ac minime resistens ad
+					calamitates perferendas,</span>”
+				 <i><span class="en">Caes.
+					B. G. 3, 19</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sententiae,</span>”
+				 <i><span class="en">Cic.
+					Cat. 1, 12, 30</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si taedio laboris longaeque viae, ut est mollis
+					ad talia gens (Gallorum), dilaberentur,</span>”
+				 <i><span class="en">Liv.
+					22, 2, 4</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Romanos molliores facere ad paciscendum,</span>”
+				 <i><span class="en">id.
+					42, 62, 6</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">sunt qui in rebus contrariis parum sibi
+					constent, voluptatem severissime contemnant, in dolore sint
+					molliores, etc.,</span>”
+				 <i><span class="en">Cic.
+					Off. 1, 21, 71</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">molles in aure fenestrae,</span>”
+				 <i><span class="en">Juv.
+					1, 104</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b>
+			<i>Soft, pleasant, mild, easy</i>: 
+				“<span class="alpheios-lex-la" lang="lat">orationem mollem teneramque reddidit,</span>”
+				<i>soft, pleasant</i>,
+				 <i><span class="en">Cic.
+					Brut. 9, 38</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollis et jucunda senectus,</span>”
+				 <i><span class="en">id. Sen.
+					1, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ita eum placidum mollemque reddidi, ut, etc.,</span>”
+				<i>calm and gentle</i>,
+				 <i><span class="en">id. Caecil. 10, 28</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">verba,</span>”
+				 <i><span class="en">Hor.
+					Epod. 5, 83</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollia jussa,</span>”
+				<i>mild, easy</i>,
+				 <i><span class="en">Verg.
+					G. 3, 41</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vincuntur molli pectora dura prece,</span>”
+				<i>soft, tender, touching</i>,
+				 <i><span class="en">Tib.
+					3, 4, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">sic accensum sed molliora referre jussum
+					dimittit,</span>”
+				<i>to return a gentler answer</i>,
+				 <i><span class="en">Tac. H.
+					4, 32 <i>fin.</i></span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">saepius molliora respondens,</span>”
+				 <i><span class="en">id. A.
+					12, 46</span></i>
+			: mollis versus, <i>an elegiac</i> or <i>amatory poem</i>, <i><span class="en">Ov. Tr. 2,
+				307</span></i>; <i><span class="en">Prop. 1, 7, 19</span></i> (opp. durus versus,
+				<i>a heroic poem</i>, <i><span class="en">id. 2, 1,
+				41</span></i>): 
+				“<span class="alpheios-lex-la" lang="lat">ridere mollia,</span>”
+				<i>to smile gently</i>,
+				 <i><span class="en">Ov. A.
+					A. 3, 513</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cuncta tamen ad imperatorem in mollius relata,</span>”
+				<i>in a milder, more favorable light</i>,
+				 <i><span class="en">Tac.
+					A. 14, 39</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">pilenta,</span>”
+				<i>having a gentle motion</i>,
+				 <i><span class="en">Verg.
+					A. 8, 666</span></i>
+			; <i><span class="en">id. G. 2, 389</span></i>: 
+				“<span class="alpheios-lex-la" lang="lat">mollissima fandi tempora,</span>”
+				 <i><span class="en">id. A.
+					4, 293</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hora mollior,</span>”
+				<i>more favorable</i>,
+				 <i><span class="en">Ov.
+					P. 3, 3, 84</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">signa,</span>”
+				 <i><span class="en">Cic.
+					Brut. 18, 70</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">duriora Callon, jam minus rigida Calamis,
+					molliora adhuc supra dictis Myron fecit,</span>”
+				<i>more agreeable</i>,
+				 <i><span class="en">Quint. 12, 10, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mollis animus et ad accipiendam et ad
+					deponendam offensionem,</span>”
+				 <i><span class="en">Cic.
+					Att. 1, 17, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">in inimicitiis auricula infima mollior,</span>”
+				 <i><span class="en">id. Q.
+					Fr. 2, 13</span></i>
+			 (15), 4.—<i>Subst.</i>: <b><span class="alpheios-lex-la" lang="lat">molle</span></b> , is,
+			n., <i>softness, smoothness</i>: 
+				“<span class="alpheios-lex-la" lang="lat">molle atque facetum Vergilio adnuerunt Camenae,</span>”
+				 <i><span class="en">Hor.
+					S. 1, 10, 45</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>C.</b>
+			<i>Weak, untrustworthy</i>: 
+				“<span class="alpheios-lex-la" lang="lat">nihil est tam molle, tam tenerum, tam aut
+					fragile aut flexibile quam voluntas erga nos civium,</span>”
+				 <i><span class="en">Cic.
+					Mil. 16, 42</span></i>
+			.—Hence, adv.: <b><span class="alpheios-lex-la" lang="lat">mollĭter</span></b> . </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>1.</b>
+			<b>Lit.</b>, <i>softly, gently,
+				agreeably</i> (class.): 
+				“<span class="alpheios-lex-la" lang="lat">molliter sustine me,</span>”
+				 <i><span class="en">Plaut.
+					Ps. 5, 2, 7</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aves nidos mollissime substernunt,</span>”
+				 <i><span class="en">Cic. N. D. 2, 52, 129</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">recubans,</span>”
+				 <i><span class="en">id.
+					de Or. 3, 17, 63</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ossa cubent,</span>”
+				 <i><span class="en">Ov.
+					Tr. 3, 3, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">excudent alii spirantia mollius aera,</span>”
+				<i>more easily, agreeably</i>,
+				 <i><span class="en">Verg.
+					A. 6, 847</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cura molliter semina conlocandi,</span>”
+				 <i><span class="en">Plin.
+					15, 10, 9, § 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">colles ad orientem molliter devexi,</span>”
+				<i>gently, gradually</i>,
+				 <i><span class="en">Col. 1, 2, 3 sq.</span></i>
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense3"><b>2.</b>
+			<b>Trop.</b>: 
+				“<span class="alpheios-lex-la" lang="lat">quod ferendum est molliter sapienti,</span>”
+				<i>calmly, patiently</i>,
+				 <i><span class="en">Cic.
+					Sen. 2, 5</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">abnuere,</span>”
+				 <i><span class="en">Liv.
+					30, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">delicate et molliter vivere,</span>”
+				<i>voluptuously</i>,
+				 <i><span class="en">Cic. Off. 1, 30, 106</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">aegritudinem pati,</span>”
+				<i>sensitively, weakly</i>,
+				 <i><span class="en">Sall. J. 82, 2</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ne quid per metum, mollius consuleretur,</span>”
+				<i>too compliantly</i>,
+				 <i><span class="en">Liv.
+					30, 7, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">interpretari mollius aliquid,</span>”
+				<i>rather mildly, favorably</i>,
+				 <i><span class="en">Tac. H.
+					2, 96</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>

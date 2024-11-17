@@ -1,0 +1,108 @@
+<div xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:tufts="http://www.tufts.edu/" xmlns:alph="http://alpheios.net/namespaces/tei" class="alpheios-lex-text_container en">
+    <div class="alpheios-lex-entry" lemma-id="n26773" body-key=""><b><span class="alpheios-lex-la" lang="lat">lĭquĕo</span></b> ,
+			līqui or licui, 2, v. n.
+		Sanscr. rik-, riktas, empty; Zend, ric-, to pour out; Gr. <span class="alpheios-lex-greek" lang="grc">λιπ</span>- in <span class="alpheios-lex-greek" lang="grc">λείπω</span>; cf. linquo, <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b><i>to be fluid</i> or <i>liquid</i>. </div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>I.</b>
+			<b>Lit.</b> (only in the <i>part.
+				pres.</i>): 
+				“<span class="alpheios-lex-la" lang="lat">lac est omnium rerum liquentium maxime alibile,</span>”
+				 <i><span class="en">Varr. R. R. 2, 11, 1</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">vina liquentia fundere,</span>”
+				 <i><span class="en">Verg.
+					A. 5, 238</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">caelum ac terras camposque liquentes,</span>”
+				 <i><span class="en">id. ib. 6, 724</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">fluvium liquentem,</span>”
+				 <i><span class="en">id. G.
+					4, 442</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>II.</b>
+			<b>Transf.</b>, <i>to be clear</i>:
+			polus liquet, Prud. <span class="alpheios-lex-greek" lang="grc">στεφ</span>. 1, 88.
+			—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense1"><b>III.</b>
+			<b>Trop.</b>, <i>to be clear,
+				manifest, apparent, evident</i> (class., but used for the most
+			part only in the <i>third pers. sing.</i>): 
+				“<span class="alpheios-lex-la" lang="lat">quicquid incerti mihi in animo prius aut
+					ambiguum fuit, Nunc liquet, nunc defaecatum est,</span>”
+				 <i><span class="en">Plaut. Ps. 2, 4, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">ut liqueant omnia,</span>”
+				 <i><span class="en">id.
+					Most. 2, 1, 69</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">hoc non liquet nec satis cogitatum est, utrum,
+					etc.,</span>”
+				 <i><span class="en">id.
+					Trin. 2, 1, 3</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">Protagoras sese negat omnino de deis habere,
+					quod liqueat,</span>”
+				 <i><span class="en">Cic.
+					N. D. 1, 12, 29</span></i>
+			; cf.: 
+				“<span class="alpheios-lex-la" lang="lat">cui (Protagorae) neutrum licuerit, nec esse
+					deos nec non esse,</span>”
+				 <i><span class="en">id. ib. 1, 42, 117</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">te liquet esse meum,</span>”
+				 <i><span class="en">Ov.
+					Tr. 1, 1, 62</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si liquerit eum vivere,</span>”
+				 <i><span class="en">Dig.
+					29, 3, 2</span></i>
+			.—In <i>part. pres.</i>: 
+				“<span class="alpheios-lex-la" lang="lat">fidei purae liquentisque (opp. turbidae,
+					ambiguae),</span>”
+				 <i><span class="en">Gell. 18, 5, 11</span></i>
+			.—</div>
+        <div class="alpheios-lex-lex_sense alpheios-lex-lex_sense2"><b>B.</b> In
+			partic.: non liquet, <i>it doth not appear</i>, a
+			legal formula by which the judge declared that he was unable to
+			decide respecting the guilt or innocence of the
+			accused.—Hence also, in gen., <i>it is not
+				evident, it is doubtful</i>: 
+				“<span class="alpheios-lex-la" lang="lat">non liquere dixerunt (judices),</span>”
+				 <i><span class="en">Cic.
+					Clu. 28, 76</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">cum id de quo Panaetio non liquet, reliquis
+					ejusdem disciplinae solis luce videatur clarius,</span>”
+				 <i><span class="en">id.
+					Div. 1, 3, 6</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">juravi, mihi non liquere,</span>”
+				 <i><span class="en">Gell. 14, 2, 25</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">non liquet mihi,</span>”
+				 <i><span class="en">Quint. 9, 3, 97</span></i>
+			.—So, on the contrary, liquet: 
+				“<span class="alpheios-lex-la" lang="lat">cum causam non audisset, dixit sibi liquere,</span>”
+				 <i><span class="en">Cic.
+					Caecin. 10, 29</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">quid maxime liquere judici velit,</span>”
+				 <i><span class="en">Quint. 3, 6, 12</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">de quo liquet,</span>”
+				 <i><span class="en">id.
+					3, 6, 35</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">si liquebit mundum providentia regi,</span>”
+				 <i><span class="en">id.
+					5, 10, 14</span></i>
+			: 
+				“<span class="alpheios-lex-la" lang="lat">mirabatur, id. cuiquam pro percepto liquere,
+					stellas istas non esse plures, etc.,</span>”
+				 <i><span class="en">Gell. 14, 1, 11</span></i>
+			.</div>
+    </div> <div class="alpheios-lex-footnotes en"> </div>
+    <div class="alpheios-lex-alph-source">From <u>
+            <u>A Latin Dictionary</u>
+        </u> (Charlton T. Lewis, Charles Short, Oxford, Clarendon Press, 1879) </div>
+</div>
